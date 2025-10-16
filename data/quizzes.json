@@ -1,0 +1,340 @@
+// data/quizzes.json
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Fundamentos de seguridad y salud en el trabajo",
+      "level": "BÁSICO",
+      "description": "Conceptos básicos de seguridad y salud en el trabajo",
+      "quizzes": [
+        {
+          "id": 1,
+          "question": "¿Cuál es el principal objetivo de la seguridad y salud en el trabajo?",
+          "option_a": "Aumentar la productividad",
+          "option_b": "Prevenir accidentes y enfermedades laborales",
+          "option_c": "Reducir costos operativos",
+          "option_d": "Mejorar la calidad de vida",
+          "correct_answer": "b",
+          "explanation": "El objetivo principal es prevenir accidentes y enfermedades laborales para proteger a los trabajadores."
+        },
+        {
+          "id": 2,
+          "question": "¿Qué es un accidente laboral?",
+          "option_a": "Un incidente que ocurre fuera del horario laboral",
+          "option_b": "Un evento que causa daño durante el trabajo",
+          "option_c": "Un evento no esperado que ocurre en el tiempo libre",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Un accidente laboral es un evento que causa daño durante la jornada de trabajo."
+        },
+        {
+          "id": 3,
+          "question": "¿Qué se entiende por riesgo laboral?",
+          "option_a": "La probabilidad de que ocurra un accidente o enfermedad en el trabajo",
+          "option_b": "El tiempo que el trabajador pasa en la oficina",
+          "option_c": "El desgaste de los equipos de protección",
+          "option_d": "La seguridad en el hogar",
+          "correct_answer": "a",
+          "explanation": "El riesgo laboral es la probabilidad de que ocurra un accidente o enfermedad relacionada con el trabajo."
+        },
+        {
+          "id": 4,
+          "question": "¿Qué es la ergonomía?",
+          "option_a": "El estudio de los accidentes laborales",
+          "option_b": "El estudio de la interacción entre los trabajadores y su entorno",
+          "option_c": "El uso de dispositivos de seguridad",
+          "option_d": "El aumento de la productividad",
+          "correct_answer": "b",
+          "explanation": "La ergonomía estudia la interacción entre los trabajadores y su entorno laboral."
+        },
+        {
+          "id": 5,
+          "question": "¿Quién es responsable de la seguridad y salud en el trabajo?",
+          "option_a": "El trabajador únicamente",
+          "option_b": "El empleador únicamente",
+          "option_c": "El empleador y el trabajador de forma conjunta",
+          "option_d": "El gobierno",
+          "correct_answer": "c",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        }
+        // ... Continuar con las 30 preguntas de esta categoría
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Anatomía y fisiología básica",
+      "level": "BÁSICO",
+      "description": "Conocimientos básicos de anatomía y fisiología humana",
+      "quizzes": [
+        {
+          "id": 31,
+          "question": "¿Cuál es la función principal de los pulmones?",
+          "option_a": "Producir oxígeno",
+          "option_b": "Transportar oxígeno a las células",
+          "option_c": "Regular la temperatura corporal",
+          "option_d": "Filtrar la sangre",
+          "correct_answer": "b",
+          "explanation": "Los pulmones transportan oxígeno a las células a través del sistema circulatorio."
+        },
+        {
+          "id": 32,
+          "question": "¿Qué sistema se encarga de regular el sistema nervioso?",
+          "option_a": "Sistema respiratorio",
+          "option_b": "Sistema linfático",
+          "option_c": "Sistema endocrino",
+          "option_d": "Sistema circulatorio",
+          "correct_answer": "c",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        }
+        // ... Continuar con las 30 preguntas de anatomía
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Identificación y evaluación de factores de riesgo",
+      "level": "BÁSICO", 
+      "description": "Identificación y evaluación de riesgos laborales",
+      "quizzes": [
+        {
+          "id": 61,
+          "question": "¿Qué es un factor de riesgo laboral?",
+          "option_a": "Un tipo de beneficio para los trabajadores",
+          "option_b": "Un elemento que aumenta la probabilidad de sufrir un accidente o enfermedad en el trabajo",
+          "option_c": "Un tipo de equipo de protección",
+          "option_d": "Un conjunto de medidas preventivas",
+          "correct_answer": "b",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        }
+        // ... Continuar con las 30 preguntas
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Legislación en seguridad y salud en el trabajo",
+      "level": "BÁSICO",
+      "description": "Normativa colombiana de seguridad y salud en el trabajo",
+      "quizzes": [
+        {
+          "id": 91,
+          "question": "¿Qué ley en Colombia regula la seguridad y salud en el trabajo?",
+          "option_a": "Ley 100 de 1993",
+          "option_b": "Ley 1562 de 2012", 
+          "option_c": "Ley 50 de 1990",
+          "option_d": "Ley 1429 de 2010",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        }
+        // ... Continuar con las 30 preguntas
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Seguridad industrial I",
+      "level": "BÁSICO",
+      "description": "Conceptos básicos de seguridad industrial",
+      "quizzes": [
+        {
+          "id": 121,
+          "question": "¿Qué es la seguridad industrial?",
+          "option_a": "La seguridad en el hogar",
+          "option_b": "El control de la calidad de los productos industriales",
+          "option_c": "El conjunto de medidas para prevenir accidentes y proteger la salud en el ambiente industrial",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        }
+        // ... Continuar con las 30 preguntas
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Medicina preventiva y del trabajo",
+      "level": "INTERMEDIO", 
+      "description": "Medicina preventiva y salud ocupacional",
+      "quizzes": [
+        {
+          "id": 151,
+          "question": "¿Qué es la medicina preventiva?",
+          "option_a": "El tratamiento de enfermedades ya existentes",
+          "option_b": "El estudio de las causas de las enfermedades laborales",
+          "option_c": "La prevención de enfermedades a través de la promoción de la salud",
+          "option_d": "La cirugía para corregir lesiones",
+          "correct_answer": "c",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        }
+        // ... Continuar con las 30 preguntas
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Riesgos químicos y biológicos",
+      "level": "INTERMEDIO",
+      "description": "Riesgos relacionados con productos químicos y biológicos",
+      "quizzes": [
+        {
+          "id": 181,
+          "question": "¿Qué es un riesgo químico?",
+          "option_a": "Exposición a productos peligrosos como ácidos, gases o vapores",
+          "option_b": "Exposición a calor", 
+          "option_c": "Exposición a movimientos repetitivos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Riesgo químico es la exposición a sustancias peligrosas como ácidos, gases o vapores."
+        }
+        // ... Continuar con las 30 preguntas
+      ]
+    },
+    {
+      "id": 8, 
+      "name": "Fundamentos de planes de gestión de riesgos de desastres",
+      "level": "INTERMEDIO",
+      "description": "Planes de gestión de riesgos y desastres",
+      "quizzes": [
+        {
+          "id": 211,
+          "question": "¿Qué es un plan de gestión de riesgos de desastres?",
+          "option_a": "Un plan para aumentar la productividad",
+          "option_b": "Un conjunto de medidas para prevenir y gestionar desastres naturales o provocados por el hombre", 
+          "option_c": "Un programa de vacaciones para los trabajadores",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Es un conjunto de medidas para prevenir y gestionar desastres naturales o antrópicos."
+        }
+        // ... Continuar con las 30 preguntas  
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Riesgos ergonómicos o biomecánicos",
+      "level": "INTERMEDIO",
+      "description": "Riesgos ergonómicos y biomecánicos en el trabajo",
+      "quizzes": [
+        {
+          "id": 241,
+          "question": "¿Qué es un riesgo ergonómico?",
+          "option_a": "Riesgo relacionado con la exposición a sustancias químicas",
+          "option_b": "Riesgo asociado con la postura y los movimientos repetitivos que afectan al cuerpo",
+          "option_c": "Riesgo relacionado con la exposición a ruido", 
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Riesgo ergonómico está asociado con posturas y movimientos repetitivos."
+        }
+        // ... Continuar con las 30 preguntas
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Psicología ocupacional", 
+      "level": "INTERMEDIO",
+      "description": "Psicología aplicada al ámbito laboral",
+      "quizzes": [
+        {
+          "id": 271,
+          "question": "¿Qué es la psicología ocupacional?",
+          "option_a": "El estudio de los trastornos psicológicos en el entorno laboral", 
+          "option_b": "El estudio de cómo los factores psicológicos afectan el rendimiento en el trabajo",
+          "option_c": "La capacitación de los empleados sobre seguridad en el trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Estudia cómo los factores psicológicos afectan el rendimiento laboral."
+        }
+        // ... Continuar con las 30 preguntas
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Riesgos físicos",
+      "level": "AVANZADO",
+      "description": "Riesgos físicos en el entorno laboral", 
+      "quizzes": [
+        {
+          "id": 301,
+          "question": "¿Qué es un riesgo físico en el entorno laboral?",
+          "option_a": "Exposición a sustancias químicas peligrosas",
+          "option_b": "Condiciones de trabajo que pueden causar daño al cuerpo, como ruido, vibraciones o temperaturas extremas",
+          "option_c": "Trabajo repetitivo", 
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Riesgo físico son condiciones como ruido, vibraciones o temperaturas extremas."
+        }
+        // ... Continuar con las 30 preguntas
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Seguridad industrial II",
+      "level": "AVANZADO",
+      "description": "Conceptos avanzados de seguridad industrial",
+      "quizzes": [
+        {
+          "id": 331,
+          "question": "¿Qué es la seguridad industrial?",
+          "option_a": "El conjunto de medidas y procedimientos para proteger a los trabajadores de accidentes y enfermedades laborales",
+          "option_b": "La medición de la productividad de los empleados", 
+          "option_c": "El proceso de aumentar la eficiencia en la producción",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Son medidas para proteger a trabajadores de accidentes y enfermedades laborales."
+        }
+        // ... Continuar con las 30 preguntas
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Sistemas de gestión de seguridad y salud en el trabajo",
+      "level": "AVANZADO", 
+      "description": "Sistemas de gestión SG-SST",
+      "quizzes": [
+        {
+          "id": 361,
+          "question": "¿Qué significa la mejora continua en el contexto del SG-SST?",
+          "option_a": "Solo aplicar el sistema una vez",
+          "option_b": "Revisar y actualizar regularmente los procedimientos para mejorar la seguridad y salud de los trabajadores",
+          "option_c": "Aumentar la cantidad de trabajo realizado", 
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Mejora continua significa revisar y actualizar regularmente los procedimientos."
+        }
+        // ... Continuar con las 30 preguntas
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Administración de recursos de SST",
+      "level": "AVANZADO",
+      "description": "Administración de recursos en seguridad y salud",
+      "quizzes": [
+        {
+          "id": 391,
+          "question": "¿Qué es la administración de recursos de SST?",
+          "option_a": "El proceso de aumentar la productividad laboral", 
+          "option_b": "La gestión de los recursos necesarios para garantizar la seguridad y salud de los trabajadores",
+          "option_c": "La evaluación de la calidad de los productos fabricados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Es la gestión de recursos para garantizar la seguridad y salud de trabajadores."
+        }
+        // ... Continuar con las 30 preguntas
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Seguridad industrial III",
+      "level": "AVANZADO",
+      "description": "Conceptos avanzados de seguridad industrial",
+      "quizzes": [
+        {
+          "id": 421,
+          "question": "¿Qué es la seguridad industrial en el contexto de la gestión de riesgos?",
+          "option_a": "El proceso de aumentar la productividad laboral",
+          "option_b": "El conjunto de medidas para prevenir y controlar los riesgos que puedan afectar la seguridad de los trabajadores", 
+          "option_c": "El proceso de mejorar la calidad de los productos fabricados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Son medidas para prevenir y controlar riesgos que afecten la seguridad de trabajadores."
+        }
+        // ... Continuar con las 30 preguntas
+      ]
+    }
+  ]
+}
