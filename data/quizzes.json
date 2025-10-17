@@ -1,4 +1,3 @@
-// data/quizzes.json
 {
   "categories": [
     {
@@ -56,8 +55,257 @@
           "option_d": "El gobierno",
           "correct_answer": "c",
           "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 6,
+          "question": "¿Qué equipo de protección es necesario cuando se trabaja con sustancias químicas?",
+          "option_a": "Guantes de seguridad",
+          "option_b": "Casco de seguridad",
+          "option_c": "Máscara respiratoria",
+          "option_d": "Todos los anteriores",
+          "correct_answer": "d",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 7,
+          "question": "¿Qué es un riesgo físico?",
+          "option_a": "Riesgo relacionado con la postura inadecuada",
+          "option_b": "Riesgo relacionado con la exposición al calor, ruido o vibraciones",
+          "option_c": "Riesgo relacionado con la exposición a productos químicos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 8,
+          "question": "¿Qué significa accidente de trabajo?",
+          "option_a": "Un evento fuera del horario laboral",
+          "option_b": "Un evento durante el trabajo que puede causar daño físico o psicológico",
+          "option_c": "Un evento que solo afecta a los equipos de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 9,
+          "question": "¿Qué medidas preventivas se pueden aplicar en el trabajo?",
+          "option_a": "Incrementar las horas laborales",
+          "option_b": "No usar equipo de protección personal",
+          "option_c": "Implementar medidas de control y protección",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 10,
+          "question": "¿Qué es la salud ocupacional?",
+          "option_a": "El cuidado de la salud en el hogar",
+          "option_b": "El control de la salud del trabajador relacionada con su actividad laboral",
+          "option_c": "La prevención de enfermedades fuera del trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 11,
+          "question": "¿Qué es un riesgo ergonómico?",
+          "option_a": "Riesgo relacionado con la exposición a productos químicos",
+          "option_b": "Riesgo relacionado con la postura o esfuerzo físico",
+          "option_c": "Riesgo relacionado con la vibración",
+          "option_d": "Riesgo relacionado con el ruido",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 12,
+          "question": "¿Qué factor de riesgo está relacionado con la exposición a sustancias tóxicas",
+          "option_a": "Riesgo físico",
+          "option_b": "Riesgo químico",
+          "option_c": "Riesgo biológico",
+          "option_d": "Riesgo ergonómico",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },{
+          "id": 13,
+          "question": "¿Qué debe hacer un trabajador si percibe una condición insegura en su lugar de trabajo?",
+          "option_a": "Ignorarla",
+          "option_b": "Reportarla inmediatamente a su supervisor",
+          "option_c": "Esperar a que otro trabajador la reporte",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 14,
+          "question": "¿Cuál es la función principal de los equipos de protección personal (EPP)?",
+          "option_a": "Mejorar la productividad",
+          "option_b": "Prevenir lesiones y enfermedades relacionadas con el trabajo",
+          "option_c": "Asegurar que los empleados estén cómodos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 15,
+          "question": "¿Qué tipo de riesgo se asocia con la exposición prolongada al ruido?",
+          "option_a": "Riesgo térmico",
+          "option_b": "Riesgo físico",
+          "option_c": "Riesgo químico",
+          "option_d": "Riesgo ergonómico",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 16,
+          "question": "¿Por qué es importante la formación en seguridad laboral?",
+          "option_a": "Para mejorar la eficiencia laboral",
+          "option_b": "Para evitar que los trabajadores cometan errores en sus tareas",
+          "option_c": "Para prevenir accidentes y enfermedades laborales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 17,
+          "question": "¿Qué acción debe tomar un trabajador si su equipo de protección personal está dañado?",
+          "option_a": "Continuar trabajando sin el equipo",
+          "option_b": "Solicitar un equipo de repuesto antes de continuar trabajando",
+          "option_c": "Dejar de trabajar hasta que el equipo sea reemplazado",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 18,
+          "question": "¿Qué tipo de factor de riesgo es el trabajo repetitivo?",
+          "option_a": "Riesgo físico",
+          "option_b": "Riesgo ergonómico",
+          "option_c": "Riesgo biológico",
+          "option_d": "Riesgo químico",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 19,
+          "question": "¿Qué tipo de riesgo es la exposición a radiación en el trabajo?",
+          "option_a": "Riesgo químico",
+          "option_b": "Riesgo físico",
+          "option_c": "Riesgo biológico",
+          "option_d": "Riesgo térmico",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 20,
+          "question": "¿Qué debe hacer un empleador si un trabajador tiene un accidente laboral?",
+          "option_a": "No hacer nada si el accidente es leve",
+          "option_b": "Reportar el accidente y proporcionar atención médica",
+          "option_c": "Ignorar el accidente si no es grave",
+          "option_d": "Solo informar al trabajador de los daños",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 21,
+          "question": "¿Cómo se puede medir el riesgo laboral?",
+          "option_a": "A través de una encuesta a los empleados",
+          "option_b": "Con una inspección visual y evaluación de condiciones laborales",
+          "option_c": "Solo con reportes de incidentes",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 22,
+          "question": "¿Qué debe incluir un programa de seguridad en el trabajo??",
+          "option_a": "Solo la identificación de los riesgos",
+          "option_b": "La evaluación, control y prevención de riesgos",
+          "option_c": "Solo medidas de protección personal",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 23,
+          "question": "¿Cómo se realiza la evaluación de riesgos laborales?",
+          "option_a": "Solo a través de entrevistas a los empleados",
+          "option_b": "Con inspecciones periódicas y análisis de condiciones del lugar de trabajo",
+          "option_c": "Solo revisando los accidentes ocurridos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 24,
+          "question": "¿Cuál de los siguientes factores aumenta el riesgo de accidentes laborales?",
+          "option_a": "Condiciones ambientales controladas",
+          "option_b": "La falta de capacitación y formación de los trabajadores",
+          "option_c": "El uso adecuado de los EPP",
+          "option_d": "La planificación de las tareas",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 25,
+          "question": "¿Qué tipo de medidas son efectivas para controlar los riesgos laborales?",
+          "option_a": "Medidas preventivas como la capacitación y el uso de EPP",
+          "option_b": "Medidas punitivas para los trabajadores",
+          "option_c": "Medidas para aumentar la jornada laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 26,
+          "question": "¿Qué hacer si un trabajador no utiliza el equipo de protección adecuado?",
+          "option_a": "Ignorar la situación",
+          "option_b": "Informar a la autoridad competente y corregir la conducta",
+          "option_c": "Reemplazar al trabajador",
+          "option_d": "Ignorar el hecho si no hay accidentes",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 27,
+          "question": "¿Qué factor de riesgo está asociado con la exposición a radiación?",
+          "option_a": "Riesgo físico",
+          "option_b": "Riesgo químico",
+          "option_c": "Riesgo biológico",
+          "option_d": "Riesgo ergonómico",
+          "correct_answer": "a",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 28,
+          "question": "¿Cuál de las siguientes acciones ayuda a minimizar el riesgo ergonómico?",
+          "option_a": "Modificar la postura de trabajo",
+          "option_b": "Aumentar la intensidad del trabajo",
+          "option_c": "Disminuir las horas de descanso",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 29,
+          "question": "¿Qué es un análisis de riesgos laborales?",
+          "option_a": "Un estudio sobre los factores psicológicos en los trabajadores",
+          "option_b": "Un proceso para identificar, evaluar y controlar los riesgos en el trabajo",
+          "option_c": "Una encuesta de satisfacción laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
+        },
+        {
+          "id": 30,
+          "question": "¿Qué implica la gestión de la seguridad y salud en el trabajo?",
+          "option_a": "Solo tener un seguro de accidentes laborales",
+          "option_b": "Implementar un conjunto de medidas para proteger la salud de los empleados",
+          "option_c": "Incrementar las horas laborales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La responsabilidad es compartida entre empleador y trabajador."
         }
-        // ... Continuar con las 30 preguntas de esta categoría
+       
       ]
     },
     {
