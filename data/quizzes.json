@@ -305,7 +305,6 @@
           "correct_answer": "b",
           "explanation": "La responsabilidad es compartida entre empleador y trabajador."
         }
-       
       ]
     },
     {
@@ -315,7 +314,7 @@
       "description": "Conocimientos básicos de anatomía y fisiología humana",
       "quizzes": [
         {
-          "id": 31,
+          "id": 1,
           "question": "¿Cuál es la función principal de los pulmones?",
           "option_a": "Producir oxígeno",
           "option_b": "Transportar oxígeno a las células",
@@ -325,7 +324,7 @@
           "explanation": "Los pulmones transportan oxígeno a las células a través del sistema circulatorio."
         },
         {
-          "id": 32,
+          "id": 2,
           "question": "¿Qué sistema se encarga de regular el sistema nervioso?",
           "option_a": "Sistema respiratorio",
           "option_b": "Sistema linfático",
@@ -333,8 +332,288 @@
           "option_d": "Sistema circulatorio",
           "correct_answer": "c",
           "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 3,
+          "question": "¿Qué es la homeostasis?",
+          "option_a": "El proceso de digestión de los alimentos",
+          "option_b": "El mantenimiento de condiciones internas estables en el cuerpo",
+          "option_c": "La producción de células sanguíneas",
+          "option_d": "La regulación de los movimientos corporales",
+          "correct_answer": "b",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 4,
+          "question": "¿Qué función tiene el corazón?",
+          "option_a": "Producir sangre",
+          "option_b": "Regular la temperatura",
+          "option_c": "Bombear sangre a todo el cuerpo",
+          "option_d": "Transportar oxígeno a las células",
+          "correct_answer": "c",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 5,
+          "question": "¿Qué parte del cuerpo regula la función motora?",
+          "option_a": "Cerebro",
+          "option_b": "Estómago",
+          "option_c": "Riñones",
+          "option_d": "Pulmones",
+          "correct_answer": "a",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 6,
+          "question": "¿Cuál es el principal objetivo del sistema respiratorio?",
+          "option_a": "Filtrar impurezas del cuerpo",
+          "option_b": "Regular el azúcar en la sangre",
+          "option_c": "Transportar oxígeno a las células",
+          "option_d": "Mantener la temperatura corporal",
+          "correct_answer": "a",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 7,
+          "question": "¿Cuál es la función principal de los riñones?",
+          "option_a": "Filtrar la sangre y eliminar desechos",
+          "option_b": "Regular el azúcar en la sangre",
+          "option_c": "Transportar oxígeno a las células",
+          "option_d": "Mantener la temperatura corporal",
+          "correct_answer": "a",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 8,
+          "question": "¿Cuál es el sistema encargado de la circulación de la sangre en el cuerpo?",
+          "option_a": "Sistema digestivo",
+          "option_b": "Sistema circulatorio",
+          "option_c": "Sistema respiratorio",
+          "option_d": "Sistema nervioso",
+          "correct_answer": "b",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 9,
+          "question": "¿Qué órgano es responsable de la producción de hormonas en el cuerpo?",
+          "option_a": "Hígado",
+          "option_b": "Riñones",
+          "option_c": "Glándulas endocrinas",
+          "option_d": "Estómago",
+          "correct_answer": "c",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 10,
+          "question": "¿Qué es un músculo esquelético?",
+          "option_a": "Un músculo que controla los órganos internos",
+          "option_b": "Un músculo que se encuentra en las paredes de los vasos sanguíneos",
+          "option_c": "Un músculo que mueve los huesos del cuerpo",
+          "option_d": "Un músculo que está en el corazón",
+          "correct_answer": "c",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 11,
+          "question": "¿Qué función cumple el sistema digestivo?",
+          "option_a": "Transporta oxígeno a las células",
+          "option_b": "Regula el ritmo cardíaco",
+          "option_c": "Convierte los alimentos en nutrientes aprovechables por el cuerpo",
+          "option_d": "Elimina los desechos del cuerpo",
+          "correct_answer": "c",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 12,
+          "question": "¿Cuál es el componente principal de la sangre que transporta oxígeno?",
+          "option_a": "Glóbulos blancos",
+          "option_b": "Glóbulos rojos",
+          "option_c": "Plasma",
+          "option_d": "Plaquetas",
+          "correct_answer": "b",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 13,
+          "question": "¿Qué parte del cuerpo controla las funciones automáticas como la respiración y el ritmo cardíaco?",
+          "option_a": "Cerebro",
+          "option_b": "Médula espinal",
+          "option_c": "Tronco encefálico",
+          "option_d": "Hipotálamo",
+          "correct_answer": "c",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 14,
+          "question": "¿Qué es la presión arterial?",
+          "option_a": "La cantidad de oxígeno transportado por la sangre",
+          "option_b": "La cantidad de sangre que fluye por el cuerpo",
+          "option_c": "La fuerza que la sangre ejerce contra las paredes de los vasos sanguíneos",
+          "option_d": "La cantidad de células sanguíneas en la sangre",
+          "correct_answer": "c",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 15,
+          "question": "¿Cómo se llama el órgano encargado de bombear sangre hacia todo el cuerpo?",
+          "option_a": "Riñón",
+          "option_b": "Estómago",
+          "option_c": "Corazón",
+          "option_d": "Pulmón",
+          "correct_answer": "c",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 16,
+          "question": "¿Qué es la hemoglobina?",
+          "option_a": "Una proteína en los glóbulos rojos que transporta oxígeno",
+          "option_b": "Una sustancia que regula el azúcar en la sangre",
+          "option_c": "Una enzima que ayuda en la digestión",
+          "option_d": "Un tipo de leucocito",
+          "correct_answer": "a",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 17,
+          "question": "¿Qué tipo de célula es responsable de la defensa del cuerpo contra infecciones?",
+          "option_a": "Glóbulos rojos",
+          "option_b": "Glóbulos blancos",
+          "option_c": "Plaquetas",
+          "option_d": "Células musculares",
+          "correct_answer": "b",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 18,
+          "question": "¿Cuál es la función principal del sistema linfático?",
+          "option_a": "Transportar oxígeno",
+          "option_b": "Regular el metabolismo",
+          "option_c": "Combatir infecciones",
+          "option_d": "Eliminar desechos del cuerpo",
+          "correct_answer": "c",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 19,
+          "question": "¿Qué son las arterias?",
+          "option_a": "Vasos sanguíneos que transportan sangre al corazón",
+          "option_b": "Vasos sanguíneos que transportan sangre desde el corazón hacia el cuerpo",
+          "option_c": "Células que transportan oxígeno",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 20,
+          "question": "¿Qué parte del sistema nervioso controla las funciones voluntarias del cuerpo?",
+          "option_a": "Sistema nervioso autónomo",
+          "option_b": "Sistema nervioso central",
+          "option_c": "Sistema nervioso periférico",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 21,
+          "question": "¿Cómo se regula la temperatura del cuerpo humano?",
+          "option_a": "Mediante el sistema circulatorio",
+          "option_b": "A través del sistema nervioso y el sudor",
+          "option_c": "A través del sistema digestivo",
+          "option_d": "Mediante el sistema linfático",
+          "correct_answer": "b",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 22,
+          "question": "¿Qué tipo de músculo está bajo control voluntario del cuerpo?",
+          "option_a": "Músculo cardíaco",
+          "option_b": "Músculo esquelético",
+          "option_c": "Músculo liso",
+          "option_d": "Músculo cardíaco y liso",
+          "correct_answer": "b",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 23,
+          "question": "¿Qué es la digestión?",
+          "option_a": "El proceso de absorción de nutrientes en el intestino",
+          "option_b": "El proceso de convertir los alimentos en energía utilizable por el cuerpo",
+          "option_c": "El proceso de expulsar los desechos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El sistema endocrino regula el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 24,
+          "question": "¿Cuál es la principal función de las venas?",
+          "option_a": "Transportar sangre desde el corazón hacia el cuerpo",
+          "option_b": "Transportar sangre de regreso al corazón",
+          "option_c": "Transportar oxígeno",
+          "option_d": "Regular la presión sanguínea",
+          "correct_answer": "b",
+          "explanation": "El sistema endocrino regu,la el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 25,
+          "question": "¿Qué función tienen los glóbulos rojos?",
+          "option_a": "Proteger el cuerpo contra infecciones",
+          "option_b": "Ayudar en la coagulación de la sangre",
+          "option_c": "Transportar oxígeno",
+          "option_d": "Regular el azúcar en sangre",
+          "correct_answer": "b",
+          "explanation": "El sistema endocrino regu,la el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 26,
+          "question": "¿Qué parte del cuerpo se encarga de producir la bilis?",
+          "option_a": "Hígado",
+          "option_b": "Riñones",
+          "option_c": "Páncreas",
+          "option_d": "Estómago",
+          "correct_answer": "a",
+          "explanation": "El sistema endocrino regu,la el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 27,
+          "question": "¿Cuál es el nombre del proceso en el que los pulmones intercambian oxígeno y dióxido de carbono?",
+          "option_a": "Difusión",
+          "option_b": "Excreción",
+          "option_c": "Digestión",
+          "option_d": "Filtración",
+          "correct_answer": "a",
+          "explanation": "El sistema endocrino regu,la el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 28,
+          "question": "¿Qué tipo de sangre tiene la capacidad de donar a todos los demás grupos sanguíneos?",
+          "option_a": "Tipo A",
+          "option_b": "Tipo B",
+          "option_c": "Tipo AB",
+          "option_d": "Tipo O",
+          "correct_answer": "d",
+          "explanation": "El sistema endocrino regu,la el sistema nervioso mediante hormonas."
+        },
+        {
+          "id": 29,
+          "question": "¿Qué es la función renal?",
+          "option_a": "Regular la temperatura corporal",
+          "option_b": "Filtrar la sangre y eliminar desechos del cuerpo",
+          "option_c": "Producir hormonas para el metabolismoo",
+          "option_d": "Transportar nutrientes a las células",
+          "correct_answer": "b",
+          "explanation": "Filtrar la sangre y eliminar desechos del cuerpo"
+        },
+        {
+          "id": 30,
+          "question": "¿Qué es la fisiología?",
+          "option_a": "El estudio de los órganos internos",
+          "option_b": "El estudio de las funciones de los órganos y sistemas del cuerpo",
+          "option_c": "El estudio de las patologías",
+          "option_d": "El estudio de la genética",
+          "correct_answer": "b",
+          "explanation": "El sistema endocrino regu,la el sistema nervioso mediante hormonas."
         }
-        // ... Continuar con las 30 preguntas de anatomía
+        
       ]
     },
     {
