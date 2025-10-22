@@ -1311,75 +1311,233 @@
           "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
         },
         {
-          "id": 1,
-          "question": "¿Qué es la seguridad industrial?",
-          "option_a": "La seguridad en el hogar",
-          "option_b": "El control de la calidad de los productos industriales",
-          "option_c": "El conjunto de medidas para prevenir accidentes y proteger la salud en el ambiente industrial",
+          "id": 8,
+          "question": "¿Qué medidas se deben tomar si se encuentra una maquinaria defectuosa en un entorno industrial?",
+          "option_a": "Continuar trabajando mientras no sea un peligro evidente",
+          "option_b": "Reportar el problema y detener la maquinaria hasta su reparación",
+          "option_c": "Utilizar la maquinaria sin repararla",
           "option_d": "Ninguna de las anteriores",
-          "correct_answer": "c",
+          "correct_answer": "b",
           "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
         },
         {
-          "id": 1,
-          "question": "¿Qué es la seguridad industrial?",
-          "option_a": "La seguridad en el hogar",
-          "option_b": "El control de la calidad de los productos industriales",
-          "option_c": "El conjunto de medidas para prevenir accidentes y proteger la salud en el ambiente industrial",
-          "option_d": "Ninguna de las anteriores",
-          "correct_answer": "c",
+          "id": 9,
+          "question": "¿Por qué es importante el uso de señalización en el lugar de trabajo?",
+          "option_a": "Para decorar el espacio",
+          "option_b": "Para advertir sobre peligros y riesgos potenciales en las áreas de trabajo",
+          "option_c": "Para aumentar el costo de producción",
+          "option_d": "Para mejorar la estética de la planta",
+          "correct_answer": "b",
           "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
         },
         {
-          "id": 1,
-          "question": "¿Qué es la seguridad industrial?",
-          "option_a": "La seguridad en el hogar",
-          "option_b": "El control de la calidad de los productos industriales",
-          "option_c": "El conjunto de medidas para prevenir accidentes y proteger la salud en el ambiente industrial",
-          "option_d": "Ninguna de las anteriores",
-          "correct_answer": "c",
+          "id": 10,
+          "question": "¿Cuál de los siguientes es un ejemplo de equipo de protección personal?",
+          "option_a": "Guantes",
+          "option_b": "Casco",
+          "option_c": "Zapatos de seguridad",
+          "option_d": "Todos los anteriores",
+          "correct_answer": "d",
           "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
         },
         {
-          "id": 1,
-          "question": "¿Qué es la seguridad industrial?",
-          "option_a": "La seguridad en el hogar",
-          "option_b": "El control de la calidad de los productos industriales",
-          "option_c": "El conjunto de medidas para prevenir accidentes y proteger la salud en el ambiente industrial",
+          "id": 11,
+          "question": "¿Qué se entiende por riesgo industrial?",
+          "option_a": "Los beneficios obtenidos por una industria",
+          "option_b": "Las posibilidades de que ocurran accidentes o enfermedades relacionadas con las condiciones laborales",
+          "option_c": "El proceso de producción de bienes",
           "option_d": "Ninguna de las anteriores",
-          "correct_answer": "c",
+          "correct_answer": "b",
           "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
         },
         {
-          "id": 1,
-          "question": "¿Qué es la seguridad industrial?",
-          "option_a": "La seguridad en el hogar",
-          "option_b": "El control de la calidad de los productos industriales",
-          "option_c": "El conjunto de medidas para prevenir accidentes y proteger la salud en el ambiente industrial",
+          "id": 12,
+          "question": "¿Qué es la seguridad en el trabajo?",
+          "option_a": "El proceso de aumentar las horas laborales",
+          "option_b": "La implementación de medidas para garantizar que el trabajador esté libre de accidentes y enfermedades laborales",
+          "option_c": "El aumento de la producción",
           "option_d": "Ninguna de las anteriores",
-          "correct_answer": "c",
+          "correct_answer": "b",
           "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
         },
         {
-          
-          "id": 1,
-          "question": "¿Qué es la seguridad industrial?",
-          "option_a": "La seguridad en el hogar",
-          "option_b": "El control de la calidad de los productos industriales",
-          "option_c": "El conjunto de medidas para prevenir accidentes y proteger la salud en el ambiente industrial",
-          "option_d": "Ninguna de las anteriores",
-          "correct_answer": "c",
+          "id": 13,
+          "question": "¿Qué deben hacer los empleadores en cuanto a la seguridad industrial?",
+          "option_a": "Asegurarse de que los empleados trabajen más horas",
+          "option_b": "Garantizar un ambiente de trabajo seguro y saludable",
+          "option_c": "Contratar solo a empleados sin experiencia",
+          "option_d": "Aumentar los costos operativos",
+          "correct_answer": "b",
           "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
         },
         {
-          
-          "id": 1,
-          "question": "¿Qué es la seguridad industrial?",
-          "option_a": "La seguridad en el hogar",
-          "option_b": "El control de la calidad de los productos industriales",
-          "option_c": "El conjunto de medidas para prevenir accidentes y proteger la salud en el ambiente industrial",
+          "id": 14,
+          "question": "¿Qué es una inspección de seguridad industrial?",
+          "option_a": "Una revisión periódica de las instalaciones para identificar y corregir posibles riesgos",
+          "option_b": "La revisión de la productividad de los trabajadores",
+          "option_c": "La evaluación de los materiales de producción",
           "option_d": "Ninguna de las anteriores",
-          "correct_answer": "c",
+          "correct_answer": "a",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 15,
+          "question": "¿Qué implica el control de riesgos en un entorno industrial?",
+          "option_a": "Identificar los riesgos y aplicar medidas para prevenir accidentes",
+          "option_b": "Solo evaluar los accidentes ocurridos",
+          "option_c": "Mejorar la estética de las instalaciones",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 16,
+          "question": "¿Qué es un plan de seguridad industrial?",
+          "option_a": "Un conjunto de estrategias y medidas para proteger a los trabajadores de los riesgos laborales",
+          "option_b": "Un informe sobre la productividad",
+          "option_c": "Un sistema para medir el desempeño de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 17,
+          "question": "¿Qué se entiende por accidente industrial?",
+          "option_a": "Un incidente que ocurre fuera de las instalaciones industriales",
+          "option_b": "Un evento inesperado que ocurre en el lugar de trabajo y causa daño a las personas o a las instalaciones",
+          "option_c": "Un evento que solo afecta a los equipos industriales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 18,
+          "question": "¿Qué acciones se deben tomar para evitar accidentes con maquinaria industrial?",
+          "option_a": "Realizar mantenimientos preventivos periódicos",
+          "option_b": "No seguir las normas de seguridad",
+          "option_c": "Dejar que los trabajadores operen maquinaria sin entrenamiento",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 19,
+          "question": "¿Qué se debe hacer en caso de un derrame de sustancias peligrosas en el entorno industrial?",
+          "option_a": "Ignorarlo si es pequeño",
+          "option_b": "Evacuar el área y seguir el protocolo de manejo de materiales peligrosos",
+          "option_c": "Limpiarlo sin protección",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 20,
+          "question": "¿Por qué es importante tener un programa de seguridad industrial en las empresas?",
+          "option_a": "Para cumplir con la ley",
+          "option_b": "Para garantizar la seguridad y bienestar de los empleados",
+          "option_c": "Para reducir los costos operativos a largo plazo",
+          "option_d": "Todas las anteriores",
+          "correct_answer": "d",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 21,
+          "question": "¿Qué elementos deben incluir las medidas de seguridad industrial?",
+          "option_a": "Capacitación en riesgos laborales",
+          "option_b": "Equipos de protección personal",
+          "option_c": "Procedimientos de evacuación y control de emergencias",
+          "option_d": "Todas las anteriores",
+          "correct_answer": "d",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 22,
+          "question": "¿Qué es una evaluación de riesgos en el entorno industrial?",
+          "option_a": "Un proceso de identificación y análisis de los peligros potenciales en el lugar de trabajo",
+          "option_b": "Una actividad para medir la productividad",
+          "option_c": "Un programa de motivación para los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 23,
+          "question": "¿Cuál de los siguientes es un ejemplo de un riesgo ergonómico?",
+          "option_a": "Exposición a sustancias químicas",
+          "option_b": "Movimientos repetitivos que afectan los músculos y las articulaciones",
+          "option_c": "Exposición a ruidos excesivos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 24,
+          "question": "¿Qué es un riesgo psicosocial en un entorno industrial?",
+          "option_a": "El estrés laboral debido a la sobrecarga de trabajo",
+          "option_b": "La exposición a ruidos",
+          "option_c": "La exposición a productos químicos",
+          "option_d": "La posibilidad de que los trabajadores caigan de altura",
+          "correct_answer": "a",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 25,
+          "question": "¿Qué implica la gestión de riesgos en la seguridad industrial?",
+          "option_a": "Solo identificar los riesgos",
+          "option_b": "Identificar, evaluar y controlar los riesgos para proteger la salud de los trabajadores",
+          "option_c": "No tomar ninguna medida hasta que ocurra un accidente",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 26,
+          "question": "¿Qué acción debe tomar una empresa si un trabajador presenta síntomas de intoxicación debido a la exposición a productos químicos?",
+          "option_a": "Ignorar los síntomas si no son graves",
+          "option_b": "Proporcionar atención médica inmediata y retirar al trabajador del área afectada",
+          "option_c": "Continuar trabajando hasta que el trabajador se recupere",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 27,
+          "question": "¿Qué tipo de riesgos laborales pueden ser controlados mediante la implementación de medidas de ingeniería?",
+          "option_a": "Riesgos ergonómicos",
+          "option_b": "Riesgos físicos, como el ruido o la vibración",
+          "option_c": "Riesgos biológicos",
+          "option_d": "Ninguno de los anteriores",
+          "correct_answer": "b",
+          "explanation": "Riesgos físicos, como el ruido o la vibración."
+        },
+        {
+          "id": 28,
+          "question": "¿Cuál de las siguientes acciones ayuda a reducir los riesgos de exposición a productos químicos en el lugar de trabajo?",
+          "option_a": "Asegurarse de que todos los trabajadores utilicen equipos de protección personal adecuados",
+          "option_b": "Evitar la ventilación en áreas de trabajo con productos químicos",
+          "option_c": "No utilizar ningún equipo de protección para evitar incomodidades",
+          "option_d": "Ignorar las normativas de seguridad",
+          "correct_answer": "a",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 29,
+          "question": "¿Qué es una evaluación de riesgo ocupacional?",
+          "option_a": "Una revisión del salario de los trabajadores",
+          "option_b": "Un proceso mediante el cual se identifican los riesgos y se implementan controles para evitar accidentes",
+          "option_c": "Un examen médico para detectar enfermedades laborales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 30,
+          "question": "¿Qué significa el término seguridad industrial?",
+          "option_a": "El control de la calidad de los productos manufacturados",
+          "option_b": "Las medidas y procedimientos que se implementan para proteger la salud y seguridad de los trabajadores en un entorno industrial",
+          "option_c": "La mejora de la eficiencia en la producción",
+          "option_d": "El control de la jornada laboral",
+          "correct_answer": "b",
           "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
         }
         
@@ -1392,7 +1550,7 @@
       "description": "Medicina preventiva y salud ocupacional",
       "quizzes": [
         {
-          "id": 151,
+          "id": 1,
           "question": "¿Qué es la medicina preventiva?",
           "option_a": "El tratamiento de enfermedades ya existentes",
           "option_b": "El estudio de las causas de las enfermedades laborales",
@@ -1400,8 +1558,297 @@
           "option_d": "La cirugía para corregir lesiones",
           "correct_answer": "c",
           "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 2,
+          "question": "¿Cuál es el objetivo principal de la medicina del trabajo?",
+          "option_a": "Mejorar la productividad en el lugar de trabajo",
+          "option_b": "Proporcionar atención médica a los trabajadores y prevenir enfermedades laborales",
+          "option_c": "Asegurar que los trabajadores cumplan con las normativas laborales",
+          "option_d": "Aumentar la jornada laboral",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 3,
+          "question": "¿Qué debe hacer un trabajador si presenta síntomas de una enfermedad relacionada con el trabajo?",
+          "option_a": "Ignorar los síntomas y continuar trabajando",
+          "option_b": "Informar inmediatamente al departamento de salud ocupacional",
+          "option_c": "Tomar un descanso y esperar a que los síntomas desaparezcan",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 4,
+          "question": "¿Qué tipo de examen se realiza comúnmente en medicina preventiva para detectar enfermedades en los trabajadores?",
+          "option_a": "Exámenes de sangre",
+          "option_b": "Examen físico ocupacional",
+          "option_c": "Pruebas de visión",
+          "option_d": "Examen psicológico",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 5,
+          "question": "¿Qué función tiene el médico del trabajo?",
+          "option_a": "Tratar a los empleados solo cuando están enfermos",
+          "option_b": "Supervisar la productividad laboral",
+          "option_c": "Identificar riesgos laborales y promover la salud de los empleados",
+          "option_d": "Asegurarse de que los empleados trabajen más horass",
+          "correct_answer": "c",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 6,
+          "question": "¿Cuál es el objetivo de los exámenes médicos ocupacionales?",
+          "option_a": "Mejorar la eficiencia del trabajo",
+          "option_b": "Detectar enfermedades laborales en etapas tempranas",
+          "option_c": "Evaluar el rendimiento de los empleados",
+          "option_d": "Aumentar las horas laborales",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 7,
+          "question": "¿Qué acción debe tomar el empleador si un trabajador presenta una enfermedad relacionada con el trabajo?",
+          "option_a": "Ignorar la enfermedad si no es grave",
+          "option_b": "Proporcionar atención médica adecuada y tomar medidas preventivas",
+          "option_c": "Reemplazar al trabajador",
+          "option_d": "Aumentar las horas laborales del trabajador",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 8,
+          "question": "¿Qué es un examen médico ocupacional preventivo?",
+          "option_a": "Un examen para detectar infecciones comunes",
+          "option_b": "Un examen para prevenir enfermedades relacionadas con el trabajo mediante la identificación de riesgos",
+          "option_c": "Un examen para aumentar la productividad de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 9,
+          "question": "¿Qué es un programa de vigilancia de la salud en el trabajo?",
+          "option_a": "Un plan para monitorear la productividad de los trabajadores",
+          "option_b": "Un plan para detectar y prevenir enfermedades laborales a través de exámenes médicos periódicos",
+          "option_c": "Un programa de vacaciones para los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 10,
+          "question": "¿Por qué es importante la prevención de enfermedades laborales?",
+          "option_a": "Para aumentar las horas de trabajo",
+          "option_b": "Para mejorar la calidad de vida de los empleados y reducir los costos médicos",
+          "option_c": "Para aumentar la eficiencia en la producción",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 11,
+          "question": "¿Cuál de los siguientes es un ejemplo de enfermedad laboral?",
+          "option_a": "Resfriados comunes",
+          "option_b": "Lesiones musculoesqueléticas por movimientos repetitivos",
+          "option_c": "Enfermedades relacionadas con la genética",
+          "option_d": "Enfermedades infecciosas",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 12,
+          "question": "¿Qué función tiene la medicina ocupacional en un entorno industrial?",
+          "option_a": "Solo tratar las enfermedades laborales",
+          "option_b": "Proteger la salud de los trabajadores mediante la prevención y la evaluación de riesgos",
+          "option_c": "Asegurar la productividad de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 13,
+          "question": "¿Qué es la salud ocupacional?",
+          "option_a": "El estudio de las condiciones laborales y su impacto en la salud",
+          "option_b": "Un conjunto de medidas para garantizar el bienestar físico, mental y social de los trabajadores",
+          "option_c": "La gestión de las vacaciones laborales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 14,
+          "question": "¿Qué tipo de enfermedades se previenen en la medicina ocupacional?",
+          "option_a": "Solo enfermedades infecciosas",
+          "option_b": "Enfermedades relacionadas con las condiciones de trabajo, como trastornos musculoesqueléticos, respiratorios, etc.",
+          "option_c": "Enfermedades psicológicas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 15,
+          "question": "¿Cómo se realiza la prevención de riesgos en el trabajo?",
+          "option_a": "Solo mediante exámenes médicos",
+          "option_b": "Proporcionando formación y medidas de seguridad, además de realizar exámenes médicos periódicos",
+          "option_c": "Aumentando las horas de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 16,
+          "question": "¿Qué debe hacer el empleador si un trabajador presenta signos de estrés laboral?",
+          "option_a": "Ignorar los síntomas",
+          "option_b": "Proporcionar ayuda psicológica y buscar una solución para reducir el estrés",
+          "option_c": "Aumentar la carga de trabajo",
+          "option_d": "No hacer nada hasta que el trabajador se recupere",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 17,
+          "question": "¿Qué tipos de riesgos se evalúan en los exámenes médicos ocupacionales?",
+          "option_a": "Solo riesgos psicológicos",
+          "option_b": "Riesgos físicos, químicos y psicosociales",
+          "option_c": "Solo riesgos químicos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 18,
+          "question": "¿Qué se incluye en un programa de salud ocupacional en una empresa?",
+          "option_a": "Programas de vacunación y atención médica preventiva",
+          "option_b": "Capacitación sobre el uso de maquinaria",
+          "option_c": "Exámenes médicos periódicos para identificar riesgos de salud",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 19,
+          "question": "¿Por qué la prevención en salud ocupacional es más efectiva cuando se realiza de manera periódica?",
+          "option_a": "Para reducir los costos operativos",
+          "option_b": "Para detectar enfermedades en etapas tempranas y evitar complicaciones graves",
+          "option_c": "Para mejorar la calidad de vida de los empleados sin costo adicional",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 20,
+          "question": "¿Cuál es el impacto de una enfermedad laboral no tratada?",
+          "option_a": "Solo afecta a la productividad del trabajador",
+          "option_b": "Aumenta los costos médicos y reduce la calidad de vida del trabajador",
+          "option_c": "No tiene impacto en el entorno laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 21,
+          "question": "¿Qué es un examen médico ocupacional preventivo??",
+          "option_a": "Un examen para detectar enfermedades relacionadas con el trabajo antes de que aparezcan síntomas",
+          "option_b": "Un examen para curar enfermedades ya diagnosticadass",
+          "option_c": "Un examen para evaluar la capacidad física del trabajador sin considerar su entorno laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 22,
+          "question": "¿Qué se debe hacer si un trabajador muestra síntomas de un trastorno relacionado con el trabajo, como una lesión muscular?",
+          "option_a": "Ignorarlo y seguir trabajando",
+          "option_b": "Proporcionar atención médica y ajustar el puesto de trabajo para evitar que el problema empeore",
+          "option_c": "Cambiar al trabajador a otro puesto sin consultar con un profesional",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 23,
+          "question": "¿Cuál de los siguientes exámenes médicos se realiza para prevenir enfermedades respiratorias en trabajadores expuestos a sustancias peligrosas?",
+          "option_a": "Examen de sangre",
+          "option_b": "Espirometría o prueba de función pulmonar",
+          "option_c": "Examen ocular",
+          "option_d": "Examen psicológico",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 24,
+          "question": "¿Qué debe hacer una empresa si un trabajador presenta una enfermedad mental relacionada con el trabajo, como estrés crónico?",
+          "option_a": "Ignorar la enfermedad",
+          "option_b": "Proporcionar apoyo psicológico y tomar medidas para reducir las causas del estrés laboral",
+          "option_c": "Aumentar la carga de trabajo del empleado",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 25,
+          "question": "¿Qué es la vigilancia de la salud en el trabajo?",
+          "option_a": "Un proceso para evaluar solo los riesgos físicos en el trabajo",
+          "option_b": "La evaluación periódica de la salud de los trabajadores para prevenir enfermedades y accidentes laborales",
+          "option_c": "Un proceso para evaluar la productividad de los trabajadores",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 26,
+          "question": "¿Qué es un plan de salud ocupacional en una empresa?",
+          "option_a": "Un programa de vacaciones para los empleados",
+          "option_b": "Un plan para garantizar la salud y bienestar de los trabajadores, prevenir enfermedades y promover una cultura de seguridad",
+          "option_c": "Un sistema de evaluación de la productividad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 27,
+          "question": "¿Qué aspecto se evalúa en los exámenes médicos ocupacionales periódicos?",
+          "option_a": "La eficiencia laboral",
+          "option_b": "El estado de salud general y los posibles efectos de los riesgos laborales",
+          "option_c": "El rendimiento académico",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 28,
+          "question": "¿Qué medida preventiva se debe tomar si un trabajador está expuesto a sustancias químicas peligrosas en su puesto de trabajo?",
+          "option_a": "No es necesario tomar medidas, solo se debe tener un seguro de salud",
+          "option_b": "Asegurar el uso de equipo de protección personal adecuado, como guantes y mascarillas",
+          "option_c": "Aumentar la carga laboral del trabajador",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 29,
+          "question": "¿Cuál de las siguientes es una función de la medicina ocupacional?",
+          "option_a": "Asegurar que los trabajadores no tomen días libres",
+          "option_b": "Prevenir enfermedades relacionadas con el trabajo mediante el monitoreo y control de los riesgos ocupacionales",
+          "option_c": "Evaluar solo la productividad de los trabajadores",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
+        },
+        {
+          "id": 30,
+          "question": "¿Qué debe hacer un empleador si identifica que varios trabajadores están experimentando síntomas similares relacionados con el trabajo?",
+          "option_a": "Ignorar el problema",
+          "option_b": "Proporcionar formación sobre salud mental",
+          "option_c": "Investigar las causas comunes, tomar medidas correctivas y proporcionar tratamiento médico adecuado",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La medicina preventiva se enfoca en prevenir enfermedades mediante promoción de la salud."
         }
-        // ... Continuar con las 30 preguntas
       ]
     },
     {
