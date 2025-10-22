@@ -623,7 +623,7 @@
       "description": "Identificación y evaluación de riesgos laborales",
       "quizzes": [
         {
-          "id": 61,
+          "id": 1,
           "question": "¿Qué es un factor de riesgo laboral?",
           "option_a": "Un tipo de beneficio para los trabajadores",
           "option_b": "Un elemento que aumenta la probabilidad de sufrir un accidente o enfermedad en el trabajo",
@@ -631,8 +631,298 @@
           "option_d": "Un conjunto de medidas preventivas",
           "correct_answer": "b",
           "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 2,
+          "question": "¿Qué es la identificación de riesgos en el trabajo?",
+          "option_a": "Evaluar la calidad del trabajo",
+          "option_b": "Determinar las características del puesto de trabajo",
+          "option_c": "Detectar los peligros y factores que podrían causar accidentes o enfermedades",
+          "option_d": "Supervisar la productividad",
+          "correct_answer": "c",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+           "id": 3,
+          "question": "¿Qué debe incluir un proceso de evaluación de riesgos?",
+          "option_a": "Solo una revisión del lugar de trabajo",
+          "option_b": "Identificar, analizar y evaluar los riesgos para implementar medidas de control",
+          "option_c": "La capacitación de los trabajadores",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+           "id": 4,
+          "question": "¿Qué es un riesgo físico en el trabajo?",
+          "option_a": "Un riesgo relacionado con la postura inadecuada",
+          "option_b": "Un riesgo relacionado con la exposición a ruido, calor o vibraciones",
+          "option_c": "Un riesgo relacionado con sustancias químicas",
+          "option_d": "Un riesgo relacionado con la carga mental",
+          "correct_answer": "b",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+           "id": 5,
+          "question": "¿Cuál es el primer paso en la identificación de riesgos laborales?",
+          "option_a": "Realizar una encuesta entre los empleados",
+          "option_b": "Revisar los informes de accidentes previos",
+          "option_c": "Inspeccionar el lugar de trabajo y detectar posibles peligross",
+          "option_d": "Implementar medidas correctivas",
+          "correct_answer": "c",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+           "id": 6,
+          "question": "¿Qué tipo de factor de riesgo está relacionado con la exposición a sustancias peligrosas?",
+          "option_a": "Riesgo físico",
+          "option_b": "Riesgo biológico",
+          "option_c": "Riesgo químico",
+          "option_d": "Riesgo ergonómico",
+          "correct_answer": "c",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+           "id": 7,
+          "question": "¿Qué medida preventiva se toma ante un riesgo biológico en el trabajo?",
+          "option_a": "Usar equipos de protección personal adecuados",
+          "option_b": "Aumentar las horas de trabajo",
+          "option_c": "Desinfectar el área de trabajo solo después de un accidente",
+          "option_d": "Reducir la ventilación en las áreas de trabajo",
+          "correct_answer": "a",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+           "id": 8,
+          "question": "¿Cómo se evalúa un riesgo ergonómico en el trabajo?",
+          "option_a": "Mediante la identificación de las condiciones de trabajo y la postura de los empleados",
+          "option_b": "Solo revisando los informes de accidentes laborales",
+          "option_c": "Observando los factores económicos en el trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+           "id": 9,
+          "question": "¿Qué herramienta se utiliza para registrar la evaluación de riesgos en una empresa?",
+          "option_a": "Inspecciones periódicas",
+          "option_b": "Un formato de evaluación de riesgos",
+          "option_c": "Reuniones de empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+           "id": 10,
+          "question": "¿Qué se debe hacer después de identificar un riesgo en el lugar de trabajo?",
+          "option_a": "Ignorar el riesgo",
+          "option_b": "Tomar medidas para eliminar o controlar el riesgo",
+          "option_c": "Aumentar las horas de trabajo",
+          "option_d": "No hacer nada hasta que ocurra un accidente",
+          "correct_answer": "b",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 11,
+          "question": "¿Qué tipo de factor de riesgo puede causar un accidente laboral por caída?",
+          "option_a": "Riesgo químico",
+          "option_b": "Riesgo ergonómico",
+          "option_c": "Riesgo físico",
+          "option_d": "Riesgo biológico",
+          "correct_answer": "c",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 12,
+          "question": "¿Qué puede causar el trabajo repetitivo en condiciones no adecuadas?",
+          "option_a": "Lesiones musculoesqueléticas",
+          "option_b": "Riesgo de caída",
+          "option_c": "Exposición a radiación",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 13,
+          "question": "¿Qué es un plan de prevención de riesgos?",
+          "option_a": "Un conjunto de medidas para eliminar o minimizar los riesgos laborales",
+          "option_b": "Un procedimiento para aumentar la productividad",
+          "option_c": "Un sistema para monitorear las horas de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 14,
+          "question": "¿Qué tipo de medida es la capacitación sobre seguridad laboral?",
+          "option_a": "Medida correctiva",
+          "option_b": "Medida preventiva",
+          "option_c": "Medida retributiva",
+          "option_d": "Medida administrativa",
+          "correct_answer": "b",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 15,
+          "question": "¿Qué factor de riesgo está asociado con la exposición a agentes patógenos?",
+          "option_a": "Riesgo físico",
+          "option_b": "Riesgo químico",
+          "option_c": "Riesgo biológico",
+          "option_d": "Riesgo ergonómico",
+          "correct_answer": "c",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 16,
+          "question": "¿Qué debe hacer un empleador al identificar un riesgo laboral grave?",
+          "option_a": "Ignorarlo hasta que sea necesario",
+          "option_b": "Implementar medidas correctivas inmediatas",
+          "option_c": "Aumentar la jornada laboral",
+          "option_d": "No tomar ninguna medida",
+          "correct_answer": "b",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 17,
+          "question": "¿Cuál es la acción más eficaz para controlar un riesgo químico?",
+          "option_a": "Aislar a los trabajadores de la exposición",
+          "option_b": "Prohibir el uso de productos químicos",
+          "option_c": "Implementar medidas de protección como guantes y mascarillas",
+          "option_d": "Reducir las horas de exposición",
+          "correct_answer": "c",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 18,
+          "question": "¿Qué se considera un riesgo psicosocial en el trabajo??",
+          "option_a": "La exposición a sustancias químicas",
+          "option_b": "La sobrecarga laboral o el estrés crónico",
+          "option_c": "La exposición a ruido excesivo",
+          "option_d": "El uso de maquinaria peligrosa",
+          "correct_answer": "b",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 19,
+          "question": "¿Qué debe hacer el empleador si un trabajador reporta un riesgo de salud mental?",
+          "option_a": "Ignorarlo",
+          "option_b": "Derivar al trabajador a un profesional de salud",
+          "option_c": "Aumentar la carga laboral del trabajador",
+          "option_d": "No hacer nada",
+          "correct_answer": "b",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 20,
+          "question": "¿Qué implica la identificación de riesgos en un entorno laboral?",
+          "option_a": "Solo contar con los equipos de protección personal",
+          "option_b": "Evaluar y detectar posibles peligros en el lugar de trabajo",
+          "option_c": "Aumentar la jornada laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 21,
+          "question": "¿Qué metodología se utiliza para identificar riesgos en una empresa?",
+          "option_a": "Auditorías periódicas",
+          "option_b": "Inspección visual del lugar de trabajo",
+          "option_c": "Encuestas a los trabajadores",
+          "option_d": "Todas las anteriores",
+          "correct_answer": "d",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 22,
+          "question": "¿Qué instrumento se usa para registrar y analizar los riesgos laborales?",
+          "option_a": "Formulario de evaluación de riesgos",
+          "option_b": "Plan de acción correctiva",
+          "option_c": "Hoja de incidencias",
+          "option_d": "Control de asistencia",
+          "correct_answer": "a",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 23,
+          "question": "¿Cuál es la herramienta más común para identificar riesgos físicos en el trabajo?",
+          "option_a": "Inspección de áreas de trabajo",
+          "option_b": "Encuesta sobre condiciones laborales",
+          "option_c": "Revisión de informes médicos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 24,
+          "question": "¿Qué acción tomar si un riesgo no se puede eliminar de inmediato?",
+          "option_a": "Ignorarlo y continuar con las labores",
+          "option_b": "Implementar controles de riesgo y proteger a los trabajadores",
+          "option_c": "Solo informar a los supervisores",
+          "option_d": "No hacer nada",
+          "correct_answer": "b",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 25,
+          "question": "¿Qué medida es útil para prevenir los riesgos ergonómicos?",
+          "option_a": "Utilizar equipo de protección personal",
+          "option_b": "Cambiar las condiciones del lugar de trabajo y adecuarlo a las necesidades del trabajador",
+          "option_c": "Hacer más pausas activas",
+          "option_d": "Todas las anteriores",
+          "correct_answer": "d",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 26,
+          "question": "¿Cómo puede un empleador reducir el riesgo de caídas en el trabajo?",
+          "option_a": "Utilizando barreras de protección en áreas elevadas",
+          "option_b": "Solo colocando señales de advertencia",
+          "option_c": "Aumentando la jornada laboral",
+          "option_d": "Ignorando los riesgos de caídas",
+          "correct_answer": "a",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 27,
+          "question": "¿Cuál es el principal desafío al gestionar los riesgos laborales?",
+          "option_a": "Asegurar que todos los trabajadores estén capacitados",
+          "option_b": "Implementar medidas correctivas solo después de un accidente",
+          "option_c": "La identificación de todos los riesgos posibles",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 28,
+          "question": "¿Qué factor se debe considerar en la evaluación de riesgos psicosociales?",
+          "option_a": "El tipo de maquinaria utilizada",
+          "option_b": "El nivel de estrés o sobrecarga laboral",
+          "option_c": "La temperatura ambiente",
+          "option_d": "El nivel de ruido",
+          "correct_answer": "b",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 29,
+          "question": "¿Qué tipo de riesgos se evalúan en una auditoría de seguridad?",
+          "option_a": "Solo los riesgos físicos",
+          "option_b": "Todos los riesgos, incluidos los químicos, biológicos, ergonómicos y psicosociales",
+          "option_c": "Solo los riesgos químicos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
+        },
+        {
+          "id": 30,
+          "question": "¿Qué herramienta ayuda a prevenir los riesgos químicos en el trabajo?",
+          "option_a": "Utilizar guantes y mascarillas adecuadas",
+          "option_b": "Inspeccionar solo los documentos de seguridad",
+          "option_c": "Prohibir el uso de equipos de protección",
+          "option_d": "No realizar controles de seguridad",
+          "correct_answer": "a",
+          "explanation": "Factor de riesgo es cualquier elemento que aumenta la probabilidad de accidentes o enfermedades laborales."
         }
-        // ... Continuar con las 30 preguntas
+        
       ]
     },
     {
@@ -642,7 +932,7 @@
       "description": "Normativa colombiana de seguridad y salud en el trabajo",
       "quizzes": [
         {
-          "id": 91,
+          "id": 1,
           "question": "¿Qué ley en Colombia regula la seguridad y salud en el trabajo?",
           "option_a": "Ley 100 de 1993",
           "option_b": "Ley 1562 de 2012", 
@@ -650,8 +940,298 @@
           "option_d": "Ley 1429 de 2010",
           "correct_answer": "b",
           "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+           "id": 2,
+          "question": "¿Qué establece la Ley 1562 de 2012?",
+          "option_a": "El establecimiento de los salarios mínimos",
+          "option_b": "La reglamentación de las vacaciones laborales", 
+          "option_c": "La modernización de la salud ocupacional y la ampliación de cobertura a todos los trabajadores",
+          "option_d": "La creación de sistemas de evaluación de desempeño laboral",
+          "correct_answer": "c",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+           "id": 3,
+          "question": "¿Qué cubre la Ley 1562 de 2012 en cuanto a los trabajadores?",
+          "option_a": "Solo a los trabajadores formales",
+          "option_b": "A todos los trabajadores, incluidos los contratistas independientes y poblaciones vulnerables", 
+          "option_c": "Solo a los trabajadores públicos",
+          "option_d": "Solo a los trabajadores de grandes empresas",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+           "id": 4,
+          "question": "¿Qué establece la Resolución 0312 de 2019?",
+          "option_a": "Los requisitos para la contratación de personal",
+          "option_b": "Los estándares mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST)", 
+          "option_c": "Los derechos de los trabajadores",
+          "option_d": "La distribución de los salarios en la industria",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+           "id": 5,
+          "question": "¿Cuál de las siguientes es una obligación del empleador según la legislación colombiana?",
+          "option_a": "Asegurar que todos los trabajadores estén afiliados a un fondo de pensiones",
+          "option_b": "Proporcionar un ambiente de trabajo seguro y saludable", 
+          "option_c": "Asegurar que los trabajadores no se ausenten por enfermedades",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+           "id": 6,
+          "question": "¿Qué organismo en Colombia regula la seguridad y salud en el trabajo?",
+          "option_a": "Ministerio de Hacienda",
+          "option_b": "Ministerio de Trabajo", 
+          "option_c": "Ministerio de Salud",
+          "option_d": "Ministerio de Cultura",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+           "id": 7,
+          "question": "¿Qué tipo de trabajadores están cubiertos por la Ley 1562 de 2012?",
+          "option_a": "Solo los empleados de planta",
+          "option_b": "Solo los trabajadores de la construcción", 
+          "option_c": "Todos los trabajadores, incluidos los contratistas y los informales",
+          "option_d": "Ningún trabajador independiente",
+          "correct_answer": "c",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+           "id": 8,
+          "question": "¿Qué objetivo tiene el Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST)?",
+          "option_a": "Aumentar las horas laborales",
+          "option_b": "Garantizar la salud de los trabajadores y prevenir accidentes laborales", 
+          "option_c": "Incrementar la productividad de los empleados",
+          "option_d": "Proporcionar beneficios económicos a los trabajadores",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+           "id": 9,
+          "question": "¿Qué debe hacer el empleador en caso de un accidente de trabajo según la ley?",
+          "option_a": "Ignorar el incidente si es leve",
+          "option_b": "Reportar el accidente a las autoridades y brindar atención médica", 
+          "option_c": "Solo informar a los empleados sobre los accidentes ocurridos",
+          "option_d": "Proporcionar compensación económica sin investigar el accidente",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+           "id": 10,
+          "question": "¿Qué es un Comité Paritario de Seguridad y Salud en el Trabajo (COPASST)?",
+          "option_a": "Un grupo de empleados responsables de gestionar el cumplimiento de las leyes laborales",
+          "option_b": "Un grupo de trabajadores y empleadores encargados de velar por la seguridad y salud en el trabajo", 
+          "option_c": "Un grupo de empleados encargados de organizar las vacaciones",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+           "id": 11,
+          "question": "¿Qué tipo de accidentes deben ser reportados a las autoridades de seguridad laboral?",
+          "option_a": "Solo los accidentes graves",
+          "option_b": "Solo los accidentes mortales", 
+          "option_c": "Todos los accidentes de trabajo, independientemente de su gravedad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+           "id": 12,
+          "question": "¿Quién es responsable de la aplicación de las normas de seguridad y salud en el trabajo dentro de una empresa?",
+          "option_a": "Solo el trabajador",
+          "option_b": "Solo el empleador", 
+          "option_c": "El empleador y el trabajador de forma conjunta",
+          "option_d": "Las autoridades gubernamentales",
+          "correct_answer": "c",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+            "id": 13,
+          "question": "¿Qué establece la Resolución 4272 de 2021?",
+          "option_a": "La reglamentación para el trabajo en espacios confinados",
+          "option_b": "Los requisitos mínimos para el trabajo en alturas", 
+          "option_c": "Los lineamientos para la formación en primeros auxilios",
+          "option_d": "Los derechos de los trabajadores",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 14,
+          "question": "¿Qué es la Ley 100 de 1993?",
+          "option_a": "Una ley que regula la seguridad social y el sistema de salud en Colombia",
+          "option_b": "Una ley que establece las sanciones por accidentes laborales", 
+          "option_c": "Una ley que regula la jornada laboral",
+          "option_d": "Una ley que regula las condiciones de los trabajadores en el campos",
+          "correct_answer": "a",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 15,
+          "question": "¿Qué acción debe tomar un empleador para garantizar la seguridad de los trabajadores en ambientes de alto riesgo?",
+          "option_a": "Proporcionar formación continua y equipos de protección personal adecuados",
+          "option_b": "Aumentar las horas de trabajo", 
+          "option_c": "Reducir el salario de los trabajadores",
+          "option_d": "Descartar los riesgos y continuar con las operaciones normales",
+          "correct_answer": "a",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 16,
+          "question": "¿Qué debe incluir un plan de seguridad en el trabajo?",
+          "option_a": "Solo una lista de normas de seguridad",
+          "option_b": "Un conjunto de medidas preventivas y correctivas para proteger a los trabajadores", 
+          "option_c": "Solo la evaluación de los riesgos presentes en la empresa",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 17,
+          "question": "¿Qué ley establece los derechos y obligaciones de los trabajadores en caso de accidentes laborales?",
+          "option_a": "Ley 1429 de 2010",
+          "option_b": "Ley 1562 de 2012", 
+          "option_c": "Ley 100 de 1993",
+          "option_d": "Ley 50 de 1990",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 18,
+          "question": "¿Qué autoridad es responsable de verificar que los empleadores cumplan con las normativas de seguridad en el trabajo?",
+          "option_a": "El Ministerio de Hacienda",
+          "option_b": "El Ministerio del Trabajo", 
+          "option_c": "El Ministerio de Salud",
+          "option_d": "El Ministerio de Educación",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 19,
+          "question": "¿Qué tipo de accidentes laborales deben ser investigados según la ley?",
+          "option_a": "Solo los accidentes mortales",
+          "option_b": "Todos los accidentes laborales, independientemente de su gravedad", 
+          "option_c": "Solo los accidentes que involucren maquinaria pesada",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 20,
+          "question": "¿Qué se debe hacer si un trabajador sufre un accidente laboral?",
+          "option_a": "Ignorar el incidente",
+          "option_b": "Proporcionar atención médica y reportar el accidente según la normativa", 
+          "option_c": "No hacer nada hasta que el trabajador se recupere",
+          "option_d": "Aumentar el ritmo de trabajo",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 21,
+          "question": "¿Qué documento debe presentar una empresa para demostrar el cumplimiento del SG-SST (Sistema de Gestión de la Seguridad y Salud en el Trabajo)?",
+          "option_a": "Un plan de emergencia",
+          "option_b": "Un informe anual de salud ocupacional", 
+          "option_c": "Un plan de seguridad y salud en el trabajo y su implementación",
+          "option_d": "Ninguno de los anteriores",
+          "correct_answer": "c",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 22,
+          "question": "¿Cuál es la principal responsabilidad del Comité Paritario de Seguridad y Salud en el Trabajo (COPASST)?",
+          "option_a": "Supervisar la producción de la empresa",
+          "option_b": "Controlar la asistencia de los empleados", 
+          "option_c": "Promover y velar por la seguridad y salud de los trabajadores",
+          "option_d": "Establecer las tarifas de los seguros de salud",
+          "correct_answer": "c",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 23,
+          "question": "Según la ley colombiana, ¿quién debe asumir los costos derivados de los accidentes laborales?",
+          "option_a": "El trabajador",
+          "option_b": "El empleador", 
+          "option_c": "La aseguradora",
+          "option_d": "El gobierno",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 24,
+          "question": "¿Qué debe hacer el empleador si un trabajador sufre una enfermedad relacionada con el trabajo?",
+          "option_a": "Descartar la enfermedad",
+          "option_b": "Proporcionar atención médica y determinar la causa de la enfermedad", 
+          "option_c": "Informar solo a los sindicatos",
+          "option_d": "No hacer nada hasta que el trabajador se recupere",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 25,
+          "question": "¿Qué documentos son necesarios para registrar un accidente laboral en Colombia?",
+          "option_a": "Solo un informe del trabajador",
+          "option_b": "Un informe médico y un informe de seguridad", 
+          "option_c": "Un documento firmado por el trabajador",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 26,
+          "question": "¿Qué responsabilidad tiene el empleador en cuanto a la seguridad de sus empleados en el trabajo?",
+          "option_a": "Solo garantizar un salario adecuados",
+          "option_b": "Proporcionar un ambiente de trabajo seguro y saludable", 
+          "option_c": "Limitar el tiempo de descanso para reducir costos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 27,
+          "question": "¿Cuál es el propósito de la Resolución 0312 de 2019??",
+          "option_a": "Regular la jornada laboral",
+          "option_b": "Establecer los estándares mínimos del SG-SST en todas las empresas del país", 
+          "option_c": "Definir los requisitos para la formación de empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 28,
+          "question": "¿Qué establece la Resolución 4272 de 2021?",
+          "option_a": "Los derechos laborales de los trabajadores",
+          "option_b": "Los requisitos mínimos para la seguridad en trabajos en altura", 
+          "option_c": "Las normativas para los trabajos en espacios confinados",
+          "option_d": "Las normativas para los servicios de salud en las empresas",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 29,
+          "question": "¿Qué medida debe tomar un empleador cuando existe riesgo de caídas en el trabajo?",
+          "option_a": "Usar señales de advertencia únicamentes",
+          "option_b": "Proveer barreras y protección adecuada en áreas de riesgo", 
+          "option_c": "Aumentar las horas de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
+        },
+        {
+          "id": 30,
+          "question": "¿Qué define la Ley 1429 de 2010 respecto a la seguridad y salud en el trabajo?",
+          "option_a": "La reforma laboral y los derechos de los trabajadoress",
+          "option_b": "Las nuevas políticas de pensiones", 
+          "option_c": "La regulación del trabajo en microempresas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La Ley 1562 de 2012 modernizó el sistema de seguridad y salud en el trabajo en Colombia."
         }
-        // ... Continuar con las 30 preguntas
+        
       ]
     },
     {
@@ -661,7 +1241,139 @@
       "description": "Conceptos básicos de seguridad industrial",
       "quizzes": [
         {
-          "id": 121,
+          "id": 1,
+          "question": "¿Qué es la seguridad industrial?",
+          "option_a": "La seguridad en el hogar",
+          "option_b": "El control de la calidad de los productos industriales",
+          "option_c": "El conjunto de medidas para prevenir accidentes y proteger la salud en el ambiente industrial",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 2,
+          "question": "¿Cuál es el objetivo principal de la seguridad industrial?",
+          "option_a": "Aumentar la producción",
+          "option_b": "Prevenir accidentes y proteger la salud de los trabajadores en un entorno industrial",
+          "option_c": "Incrementar las horas de trabajo",
+          "option_d": "Mejorar la calidad de los productos",
+          "correct_answer": "b",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 3,
+          "question": "¿Qué tipo de medida de seguridad se aplica en un entorno industrial?",
+          "option_a": "Equipos de protección personal (EPP)",
+          "option_b": "Evaluación de riesgos",
+          "option_c": "Capacitación en seguridad",
+          "option_d": "Todas las anteriores",
+          "correct_answer": "d",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 4,
+          "question": "¿Qué es un accidente industrial?",
+          "option_a": "Un incidente que ocurre fuera de las instalaciones industriales",
+          "option_b": "Un evento inesperado que ocurre en el lugar de trabajo y causa daño a las personas o a las instalaciones",
+          "option_c": "Un evento que solo afecta a los equipos industriales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 5,
+          "question": "¿Cuál es una de las principales causas de accidentes industriales?",
+          "option_a": "La falta de materiales",
+          "option_b": "La exposición a factores de riesgo como maquinaria no segura, sustancias peligrosas o condiciones inadecuadas",
+          "option_c": "La falta de trabajadores en la empresa",
+          "option_d": "La falta de recursos naturales",
+          "correct_answer": "b",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 6,
+          "question": "¿Qué son los Equipos de Protección Personal (EPP?",
+          "option_a": "Herramientas de trabajo utilizadas en la producción",
+          "option_b": "Elementos que los trabajadores utilizan para protegerse de los riesgos en su puesto de trabajo",
+          "option_c": "Elementos para mejorar la calidad de los productos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 7,
+          "question": "¿Qué debe hacer un trabajador si detecta una condición peligrosa en su puesto de trabajo?",
+          "option_a": "Ignorarla y continuar trabajando",
+          "option_b": "Informar inmediatamente a su supervisor y a la autoridad competente",
+          "option_c": "Intentar resolver el problema por sí mismo",
+          "option_d": "No hacer nada hasta que ocurra un accidente",
+          "correct_answer": "b",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 1,
+          "question": "¿Qué es la seguridad industrial?",
+          "option_a": "La seguridad en el hogar",
+          "option_b": "El control de la calidad de los productos industriales",
+          "option_c": "El conjunto de medidas para prevenir accidentes y proteger la salud en el ambiente industrial",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 1,
+          "question": "¿Qué es la seguridad industrial?",
+          "option_a": "La seguridad en el hogar",
+          "option_b": "El control de la calidad de los productos industriales",
+          "option_c": "El conjunto de medidas para prevenir accidentes y proteger la salud en el ambiente industrial",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 1,
+          "question": "¿Qué es la seguridad industrial?",
+          "option_a": "La seguridad en el hogar",
+          "option_b": "El control de la calidad de los productos industriales",
+          "option_c": "El conjunto de medidas para prevenir accidentes y proteger la salud en el ambiente industrial",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 1,
+          "question": "¿Qué es la seguridad industrial?",
+          "option_a": "La seguridad en el hogar",
+          "option_b": "El control de la calidad de los productos industriales",
+          "option_c": "El conjunto de medidas para prevenir accidentes y proteger la salud en el ambiente industrial",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          "id": 1,
+          "question": "¿Qué es la seguridad industrial?",
+          "option_a": "La seguridad en el hogar",
+          "option_b": "El control de la calidad de los productos industriales",
+          "option_c": "El conjunto de medidas para prevenir accidentes y proteger la salud en el ambiente industrial",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          
+          "id": 1,
+          "question": "¿Qué es la seguridad industrial?",
+          "option_a": "La seguridad en el hogar",
+          "option_b": "El control de la calidad de los productos industriales",
+          "option_c": "El conjunto de medidas para prevenir accidentes y proteger la salud en el ambiente industrial",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
+        },
+        {
+          
+          "id": 1,
           "question": "¿Qué es la seguridad industrial?",
           "option_a": "La seguridad en el hogar",
           "option_b": "El control de la calidad de los productos industriales",
@@ -670,7 +1382,7 @@
           "correct_answer": "c",
           "explanation": "La seguridad industrial son medidas para prevenir accidentes en ambientes industriales."
         }
-        // ... Continuar con las 30 preguntas
+        
       ]
     },
     {
