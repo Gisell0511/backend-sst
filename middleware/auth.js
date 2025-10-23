@@ -1,20 +1,11 @@
-// middleware/auth.js
-const jwt = require('jsonwebtoken');
-
+// middleware/auth.js - Solo para desarrollo
 const auth = (req, res, next) => {
-  try {
-    const token = req.header('Authorization')?.replace('Bearer ', '');
-    
-    if (!token) {
-      return res.status(401).json({ error: 'Acceso denegado. Token requerido.' });
-    }
-
-    const decoded = jwt.verify(token, process.env.JWT_SECRET);
-    req.user = decoded;
-    next();
-  } catch (error) {
-    res.status(400).json({ error: 'Token inválido.' });
-  }
+  // Usuario demo para desarrollo
+  req.user = { 
+    id: 1, 
+    name: 'Usuario Demo'
+  };
+  next();
 };
 
 module.exports = auth;
