@@ -1858,7 +1858,7 @@
       "description": "Riesgos relacionados con productos químicos y biológicos",
       "quizzes": [
         {
-          "id": 181,
+          "id": 1,
           "question": "¿Qué es un riesgo químico?",
           "option_a": "Exposición a productos peligrosos como ácidos, gases o vapores",
           "option_b": "Exposición a calor", 
@@ -1866,8 +1866,299 @@
           "option_d": "Ninguna de las anteriores",
           "correct_answer": "a",
           "explanation": "Riesgo químico es la exposición a sustancias peligrosas como ácidos, gases o vapores."
+        },
+        {
+          "id": 2,
+          "question": "¿Qué equipo de protección personal es adecuado para trabajar con productos químicos?",
+          "option_a": "Guantes y gafas de seguridad",
+          "option_b": "Solo botas de seguridad", 
+          "option_c": "Casco de seguridad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Riesgo químico es la exposición a sustancias peligrosas como ácidos, gases o vapore"
+        },
+        {
+          "id": 3,
+          "question": "¿Cuál de las siguientes sustancias es un ejemplo de riesgo químico?",
+          "option_a": "Agua",
+          "option_b": "Ácido sulfúrico", 
+          "option_c": "Aire",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Riesgo químico es la exposición a sustancias peligrosas como ácidos, gases o vapore"
+        },
+        {
+          "id": 4,
+          "question": "¿Qué riesgo biológico puede existir en un entorno de trabajo?",
+          "option_a": "Exposición a virus, bacterias y hongos",
+          "option_b": "Exposición a ruido", 
+          "option_c": "Exposición a radiación",
+          "option_d": "Exposición a la temperatura",
+          "correct_answer": "a",
+          "explanation": "Riesgo químico es la exposición a sustancias peligrosas como ácidos, gases o vapore"
+        },
+        {
+          "id": 5,
+          "question": "¿Qué es la exposición ocupacional a productos químicos?",
+          "option_a": "El contacto accidental con sustancias tóxicas",
+          "option_b": "El contacto controlado con productos químicos en el lugar de trabajo", 
+          "option_c": "La exposición a productos químicos en el hogar",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Riesgo químico es la exposición a sustancias peligrosas como ácidos, gases o vapore"
+        },
+        {
+          "id": 6,
+          "question": "¿Cuál de los siguientes es un síntoma común de exposición a productos químicos peligrosos?",
+          "option_a": "Dolor muscular",
+          "option_b": "Dolor de cabeza, mareos o náuseas", 
+          "option_c": "Fatiga ocular",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Riesgo químico es la exposición a sustancias peligrosas como ácidos, gases o vapore"
+        },
+        {
+          "id": 7,
+          "question": "¿Qué medida es esencial para prevenir los riesgos químicos en el trabajo?",
+          "option_a": "Uso de equipo de protección personal adecuado",
+          "option_b": "Ignorar la ventilación en el área de trabajo",
+          "option_c": "Aumentar la carga de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El uso adecuado de equipo de protección personal reduce la exposición a sustancias químicas peligrosas."
+        },
+        {
+          "id": 8,
+          "question": "¿Qué debe hacerse si un trabajador tiene contacto con un químico peligroso en el trabajo?",
+          "option_a": "Ignorarlo si no es grave",
+          "option_b": "Consultar a un profesional médico y seguir las indicaciones del material de seguridad",
+          "option_c": "Continuar trabajando sin atención médica",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Ante una exposición química, se debe buscar atención médica y seguir las indicaciones del material de seguridad."
+        },
+        {
+          "id": 9,
+          "question": "¿Qué es el 'material de seguridad' en el contexto de los riesgos químicos?",
+          "option_a": "Un conjunto de documentos que contiene información sobre cómo manejar, almacenar y prevenir riesgos relacionados con sustancias químicas",
+          "option_b": "Un equipo para prevenir incendios",
+          "option_c": "La ropa de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El material de seguridad incluye información clave para el manejo seguro de sustancias químicas."
+        },
+        {
+          "id": 10,
+          "question": "¿Qué sustancia es un riesgo biológico en un entorno de trabajo?",
+          "option_a": "Ácido clorhídrico",
+          "option_b": "Virus y bacterias",
+          "option_c": "Polvo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los virus y bacterias son agentes biológicos que pueden causar enfermedades en el entorno laboral."
+        },
+        {
+          "id": 11,
+          "question": "¿Qué riesgo químico es común en la industria de la construcción?",
+          "option_a": "Exposición al polvo de sílice",
+          "option_b": "Exposición a radiación ionizante",
+          "option_c": "Exposición a sustancias inflamables",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El polvo de sílice es un riesgo químico frecuente que puede causar enfermedades respiratorias."
+        },
+        {
+          "id": 12,
+          "question": "¿Qué es la exposición ocupacional a riesgos biológicos?",
+          "option_a": "La exposición a agentes como virus, bacterias, hongos o parásitos en el ambiente laboral",
+          "option_b": "La exposición a altas temperaturas",
+          "option_c": "La exposición al ruido en el trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Los riesgos biológicos incluyen el contacto con microorganismos en el lugar de trabajo."
+        },
+        {
+          "id": 13,
+          "question": "¿Qué puede causar la exposición prolongada a gases tóxicos en el ambiente de trabajo?",
+          "option_a": "Daños en los pulmones y problemas respiratorios",
+          "option_b": "Dolor de cabeza leve",
+          "option_c": "Aumento de la productividad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Los gases tóxicos pueden causar enfermedades respiratorias y daños pulmonares a largo plazo."
+        },
+        {
+          "id": 14,
+          "question": "¿Qué medida se debe tomar si un trabajador está expuesto a un riesgo biológico como sangre infectada?",
+          "option_a": "Ignorar la exposición",
+          "option_b": "Lavar la zona expuesta inmediatamente y buscar atención médica",
+          "option_c": "Cambiar de trabajo sin informar a nadie",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Ante exposición biológica, debe lavarse la zona afectada y acudir a atención médica de inmediato."
+        },
+        {
+          "id": 15,
+          "question": "¿Qué es la 'seguridad química'?",
+          "option_a": "La capacitación de los trabajadores en el uso de sustancias químicas de manera segura",
+          "option_b": "El estudio de los efectos psicológicos de las sustancias químicas",
+          "option_c": "La eliminación de residuos químicos peligrosos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La seguridad química busca garantizar el uso responsable y seguro de sustancias peligrosas."
+        },
+        {
+          "id": 16,
+          "question": "¿Qué equipo de protección personal debe utilizarse cuando se manipulan productos químicos?",
+          "option_a": "Guantes, gafas de seguridad y ropa adecuada",
+          "option_b": "Casco y botas",
+          "option_c": "Solo guantes",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El uso de guantes, gafas y ropa protectora previene el contacto con sustancias peligrosas."
+        },
+        {
+          "id": 17,
+          "question": "¿Qué sustancia es considerada un riesgo biológico en el ámbito de la salud ocupacional?",
+          "option_a": "Plomo",
+          "option_b": "Virus de la hepatitis",
+          "option_c": "Silicona",
+          "option_d": "Ácido clorhídrico",
+          "correct_answer": "b",
+          "explanation": "El virus de la hepatitis es un agente biológico que puede transmitirse en el entorno laboral."
+        },
+        {
+          "id": 18,
+          "question": "¿Cuál es la principal medida para prevenir la intoxicación por productos químicos?",
+          "option_a": "Usar equipo de protección personal (EPP) adecuado",
+          "option_b": "Aumentar las horas de trabajo",
+          "option_c": "Asegurarse de que los trabajadores no tomen descansos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El EPP reduce el riesgo de intoxicación al evitar el contacto o inhalación de químicos."
+        },
+        {
+          "id": 19,
+          "question": "¿Qué debe incluir un plan de gestión de riesgos químicos en una empresa?",
+          "option_a": "Solo el uso de equipo de protección personal",
+          "option_b": "La identificación, almacenamiento seguro y manejo adecuado de productos químicos",
+          "option_c": "La programación de las vacaciones",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Una buena gestión de riesgos incluye control, manejo y almacenamiento seguro de sustancias químicas."
+        },
+        {
+          "id": 20,
+          "question": "¿Qué es la 'ficha de seguridad de productos químicos' (MSDS)?",
+          "option_a": "Un documento que proporciona información sobre las propiedades del producto químico, sus riesgos y medidas de protección",
+          "option_b": "Un informe financiero sobre la compra de productos químicos",
+          "option_c": "Un manual para aumentar la producción de químicos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La MSDS detalla los riesgos, propiedades y precauciones de un producto químico."
+        },
+        {
+          "id": 21,
+          "question": "¿Cuál de los siguientes factores puede aumentar la toxicidad de un producto químico?",
+          "option_a": "La cantidad de exposición",
+          "option_b": "La duración de la exposición",
+          "option_c": "La ruta de exposición (inhalación, ingestión, contacto dérmico)",
+          "option_d": "Todas las anteriores",
+          "correct_answer": "d",
+          "explanation": "La toxicidad depende de la dosis, tiempo y forma de exposición a la sustancia."
+        },
+        {
+          "id": 22,
+          "question": "¿Qué debería hacer un empleador si se derrama una sustancia química peligrosa en el lugar de trabajo?",
+          "option_a": "Ignorar el derrame y continuar trabajando",
+          "option_b": "Limpiar el derrame inmediatamente con los productos adecuados y seguir los procedimientos establecidos",
+          "option_c": "Descartar el área sin limpiar el derrame",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los derrames químicos deben limpiarse siguiendo protocolos de seguridad para evitar daños."
+        },
+        {
+          "id": 23,
+          "question": "¿Cómo puede una empresa minimizar la exposición a sustancias químicas peligrosas?",
+          "option_a": "Utilizando productos menos tóxicos",
+          "option_b": "Proporcionando entrenamiento adecuado sobre el manejo seguro de sustancias químicas",
+          "option_c": "Proporcionando equipo de protección adecuado a los trabajadores",
+          "option_d": "Todas las anteriores",
+          "correct_answer": "d",
+          "explanation": "La prevención combina sustitución de sustancias, capacitación y equipo adecuado."
+        },
+        {
+          "id": 24,
+          "question": "¿Qué información debe contener una ficha de seguridad de un producto químico?",
+          "option_a": "El precio de venta del producto",
+          "option_b": "Las propiedades físicas y químicas, riesgos, medidas de seguridad y manejo adecuado",
+          "option_c": "El tiempo de expiración del producto",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las fichas de seguridad describen propiedades, riesgos y medidas de protección."
+        },
+        {
+          "id": 25,
+          "question": "¿Qué es un riesgo biológico en el trabajo?",
+          "option_a": "La exposición a fuentes de radiación",
+          "option_b": "La exposición a organismos vivos como bacterias, virus y hongos",
+          "option_c": "La exposición a sustancias químicas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los riesgos biológicos implican exposición a microorganismos que pueden causar enfermedades."
+        },
+        {
+          "id": 26,
+          "question": "¿Qué puede causar la exposición prolongada a productos químicos en el ambiente laboral?",
+          "option_a": "Daños en la piel y ojos",
+          "option_b": "Enfermedades respiratorias crónicas",
+          "option_c": "Problemas de fertilidad",
+          "option_d": "Todas las anteriores",
+          "correct_answer": "d",
+          "explanation": "La exposición continua a químicos puede afectar múltiples órganos y funciones corporales."
+        },
+        {
+          "id": 27,
+          "question": "¿Qué debe hacer un trabajador si se expone accidentalmente a un producto químico?",
+          "option_a": "Reportarlo a su supervisor y seguir el protocolo de seguridad",
+          "option_b": "Ignorarlo y continuar trabajando",
+          "option_c": "No informar a nadie",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Reportar y seguir protocolos evita mayores daños y permite la atención oportuna."
+        },
+        {
+          "id": 28,
+          "question": "¿Cómo se puede reducir el riesgo de exposición a sustancias químicas tóxicas en la industria?",
+          "option_a": "Mejorando la ventilación en el área de trabajo",
+          "option_b": "Implementando sistemas de contención para los productos químicos",
+          "option_c": "Usando equipo de protección adecuado",
+          "option_d": "Todas las anteriores",
+          "correct_answer": "d",
+          "explanation": "La combinación de ventilación, contención y EPP es la forma más eficaz de prevención."
+        },
+        {
+          "id": 29,
+          "question": "¿Qué es un 'peligro químico' en el entorno de trabajo?",
+          "option_a": "Un riesgo de caídas",
+          "option_b": "Un riesgo de incendio o explosión debido a sustancias peligrosas",
+          "option_c": "La exposición a condiciones térmicas extremas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los peligros químicos incluyen sustancias que pueden causar incendios o explosiones."
+        },
+        {
+          "id": 30,
+          "question": "¿Qué es la 'legislación sobre productos químicos' en el contexto de la seguridad laboral?",
+          "option_a": "Las normas que regulan la venta de productos químicos",
+          "option_b": "Las leyes que establecen cómo deben manejarse y almacenarse los productos químicos en el entorno laboral",
+          "option_c": "Las regulaciones sobre el consumo de productos químicos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La legislación busca proteger a los trabajadores mediante normas sobre el uso y almacenamiento seguro de químicos."
         }
-        // ... Continuar con las 30 preguntas
+
+      
       ]
     },
     {
@@ -1877,7 +2168,7 @@
       "description": "Planes de gestión de riesgos y desastres",
       "quizzes": [
         {
-          "id": 211,
+          "id": 1,
           "question": "¿Qué es un plan de gestión de riesgos de desastres?",
           "option_a": "Un plan para aumentar la productividad",
           "option_b": "Un conjunto de medidas para prevenir y gestionar desastres naturales o provocados por el hombre", 
@@ -1885,8 +2176,298 @@
           "option_d": "Ninguna de las anteriores",
           "correct_answer": "b",
           "explanation": "Es un conjunto de medidas para prevenir y gestionar desastres naturales o antrópicos."
+        },
+        {
+          "id": 2,
+          "question": "¿Cuál es el objetivo principal de un plan de gestión de riesgos de desastres?",
+          "option_a": "Mejorar la eficiencia de la empresa",
+          "option_b": "Reducir los costos operativos",
+          "option_c": "Prevenir, mitigar y gestionar los efectos de desastres naturales y situaciones de emergencia",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "El objetivo principal es anticipar, mitigar y manejar los efectos de los desastres naturales o emergencias para proteger vidas y bienes."
+        },
+        {
+          "id": 3,
+          "question": "¿Qué debe contener un plan de gestión de riesgos de desastres?",
+          "option_a": "Solo un cronograma de actividades",
+          "option_b": "Un análisis de riesgos, protocolos de evacuación y un plan de contingencia",
+          "option_c": "Información sobre los recursos financieros de la empresa",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Un plan de gestión de riesgos debe incluir identificación de riesgos, protocolos de evacuación y contingencias para emergencias."
+        },
+        {
+          "id": 4,
+          "question": "¿Qué tipo de desastres deben ser considerados en un plan de gestión de riesgos?",
+          "option_a": "Solo desastres naturales como terremotos y huracanes",
+          "option_b": "Solo desastres causados por el ser humano",
+          "option_c": "Desastres naturales, tecnológicos y causados por el ser humano",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "El plan debe considerar todos los tipos de desastres posibles, tanto naturales como tecnológicos o humanos."
+        },
+        {
+          "id": 5,
+          "question": "¿Por qué es importante un plan de gestión de riesgos de desastres en el lugar de trabajo?",
+          "option_a": "Para aumentar la productividad laboral",
+          "option_b": "Para garantizar la seguridad de los empleados y minimizar daños materiales en caso de desastre",
+          "option_c": "Para evitar la contratación de nuevos empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Estos planes buscan proteger a los trabajadores y los bienes materiales frente a situaciones de desastre."
+        },
+        {
+          "id": 6,
+          "question": "¿Qué es la evaluación de riesgos en un plan de gestión de desastres?",
+          "option_a": "El análisis de los recursos disponibles en la empresa",
+          "option_b": "La identificación y valoración de los posibles riesgos que podrían causar desastres",
+          "option_c": "La creación de un informe de seguridad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La evaluación de riesgos analiza y clasifica los peligros potenciales que podrían causar un desastre."
+        },
+        {
+          "id": 7,
+          "question": "¿Cuál es la primera fase de un plan de gestión de riesgos de desastres?",
+          "option_a": "La recuperación post-desastre",
+          "option_b": "La prevención y preparación",
+          "option_c": "La identificación de los desastres",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La prevención y preparación son la primera etapa para reducir el impacto de los desastres."
+        },
+        {
+          "id": 8,
+          "question": "¿Qué debe hacer un trabajador en caso de un desastre natural durante su jornada laboral?",
+          "option_a": "Continuar trabajando sin interrupciones",
+          "option_b": "Evacuar el área de trabajo siguiendo las instrucciones de seguridad",
+          "option_c": "Ignorar las señales de alarma",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Seguir los protocolos de evacuación garantiza la seguridad del personal durante una emergencia."
+        },
+        {
+          "id": 9,
+          "question": "¿Qué es un plan de contingencia en el contexto de gestión de riesgos de desastres?",
+          "option_a": "Un conjunto de medidas para prevenir accidentes laborales",
+          "option_b": "Un conjunto de procedimientos establecidos para afrontar emergencias o desastres",
+          "option_c": "Una lista de recursos materiales disponibles",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Un plan de contingencia define cómo actuar ante una emergencia para minimizar los daños."
+        },
+        {
+          "id": 10,
+          "question": "¿Quién debe ser responsable de implementar el plan de gestión de riesgos de desastres en una empresa?",
+          "option_a": "Solo el gobierno",
+          "option_b": "El departamento de recursos humanos",
+          "option_c": "El empleador y todos los empleados involucrados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La gestión de riesgos es responsabilidad compartida entre la empresa y sus trabajadores."
+        },
+        {
+          "id": 11,
+          "question": "¿Cómo puede una empresa preparar su personal para enfrentar un desastre?",
+          "option_a": "Solo mediante la contratación de más empleados",
+          "option_b": "Con simulacros de emergencia y capacitación en seguridad",
+          "option_c": "Cambiando la infraestructura de la empresa",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La capacitación y los simulacros son esenciales para una respuesta efectiva ante emergencias."
+        },
+        {
+          "id": 12,
+          "question": "¿Qué se entiende por 'riesgo de desastre'?",
+          "option_a": "La probabilidad de que un desastre ocurra en el futuro",
+          "option_b": "El impacto económico de los desastres",
+          "option_c": "La probabilidad de que el desastre afecte a la empresa",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El riesgo de desastre se refiere a la probabilidad de que un evento afecte personas o bienes."
+        },
+        {
+          "id": 13,
+          "question": "¿Qué debe hacerse después de un desastre en el lugar de trabajo?",
+          "option_a": "Volver inmediatamente al trabajo normal",
+          "option_b": "Realizar una evaluación de daños y poner en marcha el plan de recuperación",
+          "option_c": "Ignorar los daños y continuar trabajando",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La evaluación posterior permite restaurar operaciones y prevenir futuros daños."
+        },
+        {
+          "id": 14,
+          "question": "¿Qué tipo de desastre debe ser priorizado en una empresa si se encuentra en una zona sísmica?",
+          "option_a": "Los desastres biológicos",
+          "option_b": "Los desastres tecnológicos",
+          "option_c": "Los desastres naturales como terremotos",
+          "option_d": "Ninguno de los anteriores",
+          "correct_answer": "c",
+          "explanation": "En zonas sísmicas se deben priorizar los riesgos asociados a movimientos telúricos."
+        },
+        {
+          "id": 15,
+          "question": "¿Por qué los planes de gestión de riesgos de desastres deben ser revisados periódicamente?",
+          "option_a": "Para ajustar el plan de acuerdo con nuevos riesgos o cambios en la empresa",
+          "option_b": "Para aumentar la duración de la jornada laboral",
+          "option_c": "Para obtener un mayor presupuesto para la empresa",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La revisión constante permite mantener actualizado el plan frente a nuevos riesgos."
+        },
+        {
+          "id": 16,
+          "question": "¿Qué función cumple la evaluación de impactos en la gestión de riesgos de desastres?",
+          "option_a": "Medir el rendimiento de los empleados",
+          "option_b": "Analizar cómo un desastre afectaría las operaciones de la empresa y la seguridad de los empleados",
+          "option_c": "Aumentar los ingresos de la empresa",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Permite identificar el impacto operativo y humano de los desastres para mejorar la respuesta."
+        },
+        {
+          "id": 17,
+          "question": "¿Cómo ayuda la tecnología en la gestión de riesgos de desastres?",
+          "option_a": "No tiene ningún impacto",
+          "option_b": "Permite monitorear en tiempo real las condiciones y facilita la respuesta ante emergencias",
+          "option_c": "Solo se utiliza para aumentar la productividad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El monitoreo y la comunicación digital mejoran la prevención y respuesta ante emergencias."
+        },
+        {
+          "id": 18,
+          "question": "¿Qué tipo de desastres debe considerar una empresa al diseñar su plan de gestión de riesgos?",
+          "option_a": "Solo desastres naturales como huracanes",
+          "option_b": "Desastres naturales, tecnológicos y provocados por el ser humano",
+          "option_c": "Solo desastres tecnológicos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El plan debe incluir todo tipo de amenazas posibles: naturales, tecnológicas o humanas."
+        },
+        {
+          "id": 19,
+          "question": "¿Qué importancia tiene la participación de los empleados en la gestión de riesgos de desastres?",
+          "option_a": "No es relevante",
+          "option_b": "Es fundamental para garantizar una respuesta rápida y eficiente",
+          "option_c": "Solo deben participar los supervisores",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La participación activa asegura coordinación y rapidez en caso de emergencia."
+        },
+        {
+          "id": 20,
+          "question": "¿Cuál es una de las principales causas de desastres en ambientes industriales?",
+          "option_a": "La falta de capacitación en medidas de seguridad",
+          "option_b": "La alta demanda de producción",
+          "option_c": "La implementación de medidas de seguridad inadecuadas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "Una mala implementación de medidas de seguridad puede generar emergencias graves."
+        },
+        {
+          "id": 21,
+          "question": "¿Cuál es el propósito de realizar simulacros de emergencia en una empresa?",
+          "option_a": "Mejorar la productividad de los empleados",
+          "option_b": "Preparar a los empleados para actuar de manera eficaz en caso de desastre",
+          "option_c": "Asegurar que todos los empleados trabajen más rápido",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los simulacros entrenan al personal para reaccionar de forma segura ante emergencias."
+        },
+        {
+          "id": 22,
+          "question": "¿Qué elementos deben incluirse en un plan de evacuación durante un desastre?",
+          "option_a": "Un mapa de evacuación claro y las rutas de salida",
+          "option_b": "Un informe de las pérdidas materiales",
+          "option_c": "Solo un equipo médico para emergencias",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El mapa y las rutas seguras son esenciales para evacuar sin riesgo."
+        },
+        {
+          "id": 23,
+          "question": "¿Cómo pueden las empresas prevenir riesgos de desastres tecnológicos?",
+          "option_a": "No utilizar equipos electrónicos",
+          "option_b": "Implementando protocolos de seguridad cibernética y mantenimiento de equipos",
+          "option_c": "Asegurándose de que no haya desastres naturales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El mantenimiento y la ciberseguridad reducen los riesgos tecnológicos en la empresa."
+        },
+        {
+          "id": 24,
+          "question": "¿Qué es la 'gestión de crisis' en el contexto de un desastre?",
+          "option_a": "La planificación de la jornada laboral",
+          "option_b": "La acción tomada inmediatamente después de un desastre para minimizar sus efectos",
+          "option_c": "La organización de eventos de celebración",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La gestión de crisis busca controlar y mitigar las consecuencias del desastre."
+        },
+        {
+          "id": 25,
+          "question": "¿Qué es un análisis de vulnerabilidad en el contexto de un plan de gestión de riesgos de desastres?",
+          "option_a": "Estudiar las debilidades de la infraestructura y la capacidad de respuesta ante un desastre",
+          "option_b": "Asegurar que todos los empleados estén capacitados",
+          "option_c": "Evaluar los recursos económicos de la empresa",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El análisis de vulnerabilidad identifica los puntos débiles frente a posibles desastres."
+        },
+        {
+          "id": 26,
+          "question": "¿Qué factor debe ser evaluado al elaborar un plan de gestión de riesgos de desastres en una empresa?",
+          "option_a": "Solo el presupuesto disponible",
+          "option_b": "Las amenazas potenciales, vulnerabilidades y capacidades de respuesta",
+          "option_c": "La cantidad de empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Evaluar amenazas y vulnerabilidades permite diseñar estrategias adecuadas de mitigación."
+        },
+        {
+          "id": 27,
+          "question": "¿Qué tipo de información debe contener un plan de contingencia en caso de desastre?",
+          "option_a": "Procedimientos para proteger los bienes materiales",
+          "option_b": "Procedimientos para garantizar la seguridad de los trabajadores y la continuidad operativa",
+          "option_c": "Solo información sobre el clima",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El plan de contingencia busca proteger la vida y asegurar la continuidad de la operación."
+        },
+        {
+          "id": 28,
+          "question": "¿Qué herramienta es útil para priorizar los riesgos en el contexto de un plan de gestión de desastres?",
+          "option_a": "Una lista de actividades",
+          "option_b": "Un análisis de impacto y probabilidad de los desastres",
+          "option_c": "Un plan de aumento de la jornada laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El análisis de impacto y probabilidad permite enfocar recursos en los riesgos más críticos."
+        },
+        {
+          "id": 29,
+          "question": "¿Cómo puede una empresa garantizar que su plan de gestión de riesgos de desastres sea efectivo?",
+          "option_a": "Solo revisando el plan una vez al año",
+          "option_b": "Actualizando el plan constantemente y realizando simulacros regulares",
+          "option_c": "No realizando simulacros para evitar la interrupción del trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La actualización y práctica continua mantienen el plan funcional y efectivo."
+        },
+        {
+          "id": 30,
+          "question": "¿Qué debe incluir un protocolo de evacuación ante un desastre natural?",
+          "option_a": "Solo las rutas de salida",
+          "option_b": "Las rutas de salida, puntos de encuentro y asignación de responsabilidades",
+          "option_c": "Un informe de evaluación de daños",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Un buen protocolo detalla rutas, responsabilidades y lugares de reunión seguros."
         }
-        // ... Continuar con las 30 preguntas  
+      
       ]
     },
     {
@@ -1896,7 +2477,7 @@
       "description": "Riesgos ergonómicos y biomecánicos en el trabajo",
       "quizzes": [
         {
-          "id": 241,
+          "id": 1,
           "question": "¿Qué es un riesgo ergonómico?",
           "option_a": "Riesgo relacionado con la exposición a sustancias químicas",
           "option_b": "Riesgo asociado con la postura y los movimientos repetitivos que afectan al cuerpo",
@@ -1904,8 +2485,298 @@
           "option_d": "Ninguna de las anteriores",
           "correct_answer": "b",
           "explanation": "Riesgo ergonómico está asociado con posturas y movimientos repetitivos."
+        },
+        {
+          "id": 2,
+          "question": "¿Qué tipo de lesiones pueden ser causadas por riesgos ergonómicos?",
+          "option_a": "Lesiones musculoesqueléticas",
+          "option_b": "Lesiones en la piel",
+          "option_c": "Quemaduras",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Los riesgos ergonómicos pueden causar lesiones musculoesqueléticas debido a malas posturas o movimientos repetitivos."
+        },
+        {
+          "id": 3,
+          "question": "¿Qué factor puede contribuir a los riesgos ergonómicos en el lugar de trabajo?",
+          "option_a": "El uso de maquinaria pesada",
+          "option_b": "La mala postura durante largos períodos de tiempo",
+          "option_c": "La falta de equipo de protección personal",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las malas posturas sostenidas generan tensión muscular y aumentan el riesgo ergonómico."
+        },
+        {
+          "id": 4,
+          "question": "¿Qué es la ergonomía?",
+          "option_a": "El estudio de la interacción entre los trabajadores y su entorno de trabajo",
+          "option_b": "El análisis de los productos químicos en el lugar de trabajo",
+          "option_c": "La evaluación de los riesgos laborales por caídas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La ergonomía busca adaptar el trabajo al trabajador para prevenir lesiones y aumentar la eficiencia."
+        },
+        {
+          "id": 5,
+          "question": "¿Qué tipo de medidas pueden reducir los riesgos ergonómicos?",
+          "option_a": "Cambiar la disposición de los puestos de trabajo y mejorar las herramientas utilizadas",
+          "option_b": "Aumentar la jornada laboral",
+          "option_c": "Reducir el número de empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Mejorar el diseño del puesto y las herramientas reduce los riesgos ergonómicos."
+        },
+        {
+          "id": 6,
+          "question": "¿Qué tipo de trabajo está más expuesto a riesgos ergonómicos?",
+          "option_a": "El trabajo de oficina, donde se pasa mucho tiempo sentado",
+          "option_b": "El trabajo con maquinaria pesada",
+          "option_c": "El trabajo en altura",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Las largas horas sentadas frente a un computador aumentan el riesgo de lesiones musculares."
+        },
+        {
+          "id": 7,
+          "question": "¿Qué es un trastorno musculoesquelético?",
+          "option_a": "Una lesión cerebral",
+          "option_b": "Un problema relacionado con los músculos, ligamentos y huesos",
+          "option_c": "Un trastorno psicológico",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los trastornos musculoesqueléticos afectan músculos, tendones y articulaciones."
+        },
+        {
+          "id": 8,
+          "question": "¿Qué es la postura correcta en el trabajo?",
+          "option_a": "Una posición que no ejerza presión sobre los músculos y articulaciones",
+          "option_b": "Cualquier posición cómoda, sin importar su impacto en el cuerpo",
+          "option_c": "Una postura que solo se utiliza para sentarse durante largos períodos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Una postura correcta reduce la carga muscular y previene dolores o lesiones."
+        },
+        {
+          "id": 9,
+          "question": "¿Qué es un 'punto de trabajo ergonómico'?",
+          "option_a": "Un área donde se manejan productos químicos",
+          "option_b": "Un área de trabajo diseñada para minimizar los riesgos para la salud de los empleados",
+          "option_c": "Un lugar para descansar durante el trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Un punto de trabajo ergonómico está diseñado para reducir el esfuerzo físico y mejorar la comodidad."
+        },
+        {
+          "id": 10,
+          "question": "¿Qué puede causar la exposición prolongada a una mala postura en el trabajo?",
+          "option_a": "Mejora la eficiencia",
+          "option_b": "Lesiones musculares y problemas articulares",
+          "option_c": "Aumento de la productividad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las posturas incorrectas mantenidas por mucho tiempo generan lesiones musculares."
+        },
+        {
+          "id": 11,
+          "question": "¿Cómo puede una empresa reducir los riesgos ergonómicos en el trabajo de oficina?",
+          "option_a": "Cambiar la silla y el escritorio por unos más cómodos",
+          "option_b": "Obligar a los empleados a trabajar más horas",
+          "option_c": "Utilizar herramientas de trabajo más complejas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El mobiliario adecuado mejora la postura y previene molestias físicas."
+        },
+        {
+          "id": 12,
+          "question": "¿Qué puede hacer un trabajador para prevenir los riesgos ergonómicos?",
+          "option_a": "Trabajar sin descanso durante largos períodos",
+          "option_b": "Realizar estiramientos y cambiar de posición regularmente",
+          "option_c": "Evitar el uso de equipo de protección",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Hacer pausas activas y variar la postura ayuda a prevenir lesiones ergonómicas."
+        },
+        {
+          "id": 13,
+          "question": "¿Qué equipo puede ayudar a reducir los riesgos ergonómicos en el lugar de trabajo?",
+          "option_a": "Sillas ergonómicas",
+          "option_b": "Más horas de descanso",
+          "option_c": "Guantes y botas de seguridad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Las sillas ergonómicas proporcionan soporte lumbar y mejoran la postura."
+        },
+        {
+          "id": 14,
+          "question": "¿Qué tipo de lesión es más común en trabajos que requieren movimientos repetitivos?",
+          "option_a": "Fracturas óseas",
+          "option_b": "Lesiones por esfuerzo repetitivo como tendinitis",
+          "option_c": "Quemaduras térmicas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los movimientos repetitivos provocan inflamaciones en los tendones o músculos."
+        },
+        {
+          "id": 15,
+          "question": "¿Qué puede ayudar a evitar los trastornos musculoesqueléticos en trabajos de oficina?",
+          "option_a": "Aumentar el uso de computadoras y dispositivos móviles",
+          "option_b": "Ajustar la altura de las sillas y escritorios",
+          "option_c": "Asegurarse de trabajar más horas al día",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Una correcta disposición del mobiliario reduce el esfuerzo físico."
+        },
+        {
+          "id": 16,
+          "question": "¿Qué postura es recomendada para trabajar en una computadora?",
+          "option_a": "Sentado con la espalda recta y los pies apoyados en el suelo",
+          "option_b": "De pie sin mover el cuello",
+          "option_c": "Recostado en el respaldo de la silla",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La postura correcta previene dolores lumbares y mejora la comodidad."
+        },
+        {
+          "id": 17,
+          "question": "¿Qué debe hacer un empleador para minimizar los riesgos ergonómicos en el trabajo?",
+          "option_a": "Cambiar el lugar de trabajo sin consultar a los empleados",
+          "option_b": "Proporcionar equipo de protección adecuado y entrenar a los empleados en buenas prácticas posturales",
+          "option_c": "Aumentar las horas laborales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Capacitar al personal en ergonomía mejora la salud y previene lesiones."
+        },
+        {
+          "id": 18,
+          "question": "¿Qué herramienta de trabajo puede causar un riesgo ergonómico si se usa incorrectamente?",
+          "option_a": "Sillas cómodas",
+          "option_b": "Teclados y ratones mal posicionados",
+          "option_c": "Escritorios a la altura correcta",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Una mala ubicación de teclado o ratón genera tensión en muñecas y hombros."
+        },
+        {
+          "id": 19,
+          "question": "¿Qué factor influye en el riesgo ergonómico de una estación de trabajo?",
+          "option_a": "El color de las paredes",
+          "option_b": "El tipo de herramientas y la disposición del espacio de trabajo",
+          "option_c": "La cantidad de descansos tomados durante el trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La organización del espacio y herramientas influye directamente en la postura."
+        },
+        {
+          "id": 20,
+          "question": "¿Qué es la 'fatiga ocular' en un entorno de oficina?",
+          "option_a": "La fatiga producida por el uso excesivo de equipos electrónicos como computadoras",
+          "option_b": "La fatiga causada por el trabajo repetitivo",
+          "option_c": "El dolor por no usar equipo de protección",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El uso prolongado de pantallas puede causar cansancio visual y dolor de cabeza."
+        },
+        {
+          "id": 21,
+          "question": "¿Qué es la 'tendinitis' y cómo se relaciona con los riesgos ergonómicos?",
+          "option_a": "Una inflamación de los músculos causada por el estrés",
+          "option_b": "Una inflamación de los tendones debido a movimientos repetitivos o posturas inadecuadas",
+          "option_c": "Un problema relacionado con la visión",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La tendinitis es una lesión común causada por el uso repetido de músculos y tendones."
+        },
+        {
+          "id": 22,
+          "question": "¿Cómo puede la iluminación del lugar de trabajo afectar la ergonomía?",
+          "option_a": "No afecta en absoluto",
+          "option_b": "Puede causar fatiga ocular y aumentar el riesgo de accidentes",
+          "option_c": "Mejora la postura de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Una iluminación inadecuada obliga al trabajador a adoptar malas posturas o forzar la vista."
+        },
+        {
+          "id": 23,
+          "question": "¿Cuál es la principal causa de los trastornos musculoesqueléticos en trabajos manuales?",
+          "option_a": "El trabajo sentado",
+          "option_b": "La manipulación de cargas pesadas y movimientos repetitivos",
+          "option_c": "La exposición a ruido",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El esfuerzo físico repetitivo provoca daños en músculos y articulaciones."
+        },
+        {
+          "id": 24,
+          "question": "¿Qué es un 'punto de trabajo ergonómico'?",
+          "option_a": "Un puesto de trabajo diseñado para aumentar la eficiencia",
+          "option_b": "Un puesto de trabajo donde la disposición y las herramientas están diseñadas para minimizar riesgos ergonómicos",
+          "option_c": "Un puesto de trabajo con equipos de protección personal",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Un entorno ergonómico se adapta al trabajador, reduciendo el esfuerzo físico."
+        },
+        {
+          "id": 25,
+          "question": "¿Qué se entiende por 'ergonomía participativa'?",
+          "option_a": "Un sistema en el que los empleadores deciden las condiciones de trabajo",
+          "option_b": "La colaboración entre empleadores y empleados para diseñar un ambiente de trabajo más saludable y seguro",
+          "option_c": "La intervención de un supervisor en el lugar de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La ergonomía participativa implica la cooperación para mejorar las condiciones laborales."
+        },
+        {
+          "id": 26,
+          "question": "¿Qué acción es más eficaz para prevenir los trastornos musculoesqueléticos?",
+          "option_a": "Aumentar el número de descansos",
+          "option_b": "Ajustar los puestos de trabajo para promover una postura correcta",
+          "option_c": "Reducir la jornada laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Adaptar el puesto al trabajador previene lesiones y mejora la productividad."
+        },
+        {
+          "id": 27,
+          "question": "¿Cómo se puede reducir el riesgo ergonómico asociado con la manipulación manual de cargas?",
+          "option_a": "Permitiendo que los empleados levanten objetos pesados sin ayuda",
+          "option_b": "Usando herramientas y equipos de asistencia como carretillas o montacargas",
+          "option_c": "Aumentando la cantidad de trabajo físico",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El uso de herramientas de asistencia reduce el esfuerzo físico y evita lesiones."
+        },
+        {
+          "id": 28,
+          "question": "¿Qué debe hacer un empleador si un trabajador presenta una lesión causada por riesgos ergonómicos?",
+          "option_a": "Ignorar la lesión",
+          "option_b": "Evaluar la lesión, proporcionar tratamiento adecuado y revisar las condiciones laborales para prevenir más lesiones",
+          "option_c": "No hacer nada hasta que la lesión sea grave",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La atención temprana y la mejora de condiciones previenen reincidencias."
+        },
+        {
+          "id": 29,
+          "question": "¿Qué factor contribuye a los problemas musculoesqueléticos en trabajos de oficina?",
+          "option_a": "El uso de escritorios y sillas mal ajustadas",
+          "option_b": "La cantidad de trabajo realizado",
+          "option_c": "El número de descansos tomados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Un mobiliario inadecuado fuerza posturas incorrectas y genera dolor muscular."
+        },
+        {
+          "id": 30,
+          "question": "¿Cuál es el principal objetivo de la ergonomía en el lugar de trabajo?",
+          "option_a": "Aumentar la cantidad de trabajo realizado",
+          "option_b": "Mejorar el ambiente laboral para promover la salud y bienestar de los empleados",
+          "option_c": "Reducir el costo de los productos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La ergonomía busca adaptar el trabajo al trabajador para cuidar su salud y rendimiento."
         }
-        // ... Continuar con las 30 preguntas
+    
       ]
     },
     {
@@ -1915,7 +2786,7 @@
       "description": "Psicología aplicada al ámbito laboral",
       "quizzes": [
         {
-          "id": 271,
+          "id": 1,
           "question": "¿Qué es la psicología ocupacional?",
           "option_a": "El estudio de los trastornos psicológicos en el entorno laboral", 
           "option_b": "El estudio de cómo los factores psicológicos afectan el rendimiento en el trabajo",
@@ -1923,8 +2794,298 @@
           "option_d": "Ninguna de las anteriores",
           "correct_answer": "b",
           "explanation": "Estudia cómo los factores psicológicos afectan el rendimiento laboral."
+        },
+         {
+          "id": 2,
+          "question": "¿Cuál es el objetivo principal de la psicología ocupacional?",
+          "option_a": "Aumentar las horas de trabajo",
+          "option_b": "Mejorar la salud mental y el bienestar de los empleados",
+          "option_c": "Mejorar la productividad de los empleados sin considerar su bienestar",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La psicología ocupacional busca promover la salud mental y el bienestar emocional en el entorno laboral."
+        },
+        {
+          "id": 3,
+          "question": "¿Qué tipo de problemas aborda la psicología ocupacional?",
+          "option_a": "Problemas psicológicos que afectan el rendimiento laboral como el estrés y la ansiedad",
+          "option_b": "Enfermedades físicas de los empleados",
+          "option_c": "Solo problemas relacionados con la productividad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Esta rama se enfoca en el impacto de los factores psicológicos en el desempeño laboral."
+        },
+        {
+          "id": 4,
+          "question": "¿Cuál es el principal enfoque de la psicología ocupacional?",
+          "option_a": "Mejorar el rendimiento de los empleados mediante técnicas de motivación",
+          "option_b": "Ayudar a los empleados a mejorar su salud mental, reducir el estrés y aumentar su satisfacción laboral",
+          "option_c": "Aumentar la cantidad de trabajo realizado por los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El enfoque central es el bienestar psicológico y la satisfacción laboral."
+        },
+        {
+          "id": 5,
+          "question": "¿Qué herramienta utilizan los psicólogos ocupacionales para evaluar el bienestar emocional de los empleados?",
+          "option_a": "Exámenes físicos",
+          "option_b": "Entrevistas y cuestionarios sobre la salud mental",
+          "option_c": "Pruebas de habilidad técnica",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Se utilizan evaluaciones psicológicas como entrevistas y encuestas para medir el bienestar emocional."
+        },
+        {
+          "id": 6,
+          "question": "¿Qué es el estrés laboral?",
+          "option_a": "Una enfermedad mental crónica",
+          "option_b": "Una respuesta física o emocional a demandas excesivas en el trabajo",
+          "option_c": "La fatiga por trabajar en exceso",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El estrés laboral ocurre cuando las exigencias superan los recursos del trabajador."
+        },
+        {
+          "id": 7,
+          "question": "¿Cómo puede la psicología ocupacional ayudar a reducir el estrés laboral?",
+          "option_a": "Incrementando la carga de trabajo",
+          "option_b": "Proporcionando estrategias para manejar el estrés y mejorando el ambiente de trabajo",
+          "option_c": "Exigiendo más productividad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las intervenciones psicológicas ayudan a gestionar el estrés y promover entornos saludables."
+        },
+        {
+          "id": 8,
+          "question": "¿Qué tipo de situaciones pueden generar estrés laboral?",
+          "option_a": "Alta carga de trabajo, conflictos laborales y falta de control sobre el trabajo",
+          "option_b": "Trabajos en equipo eficientes",
+          "option_c": "Buenas condiciones de trabajo y salario adecuado",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La sobrecarga y los conflictos son factores de riesgo comunes para el estrés laboral."
+        },
+        {
+          "id": 9,
+          "question": "¿Qué es la motivación laboral según la psicología ocupacional?",
+          "option_a": "La capacidad de los empleados para realizar tareas físicas",
+          "option_b": "El interés y el impulso que tienen los empleados para alcanzar metas laborales",
+          "option_c": "El deseo de trabajar más horas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La motivación laboral impulsa el compromiso y la productividad del trabajador."
+        },
+        {
+          "id": 10,
+          "question": "¿Qué factores pueden influir en la motivación de un trabajador?",
+          "option_a": "Las condiciones laborales, el reconocimiento y las oportunidades de desarrollo",
+          "option_b": "La cantidad de trabajo realizada",
+          "option_c": "La duración de las horas de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El reconocimiento y las oportunidades de crecimiento mejoran la motivación."
+        },
+        {
+          "id": 11,
+          "question": "¿Qué técnica puede utilizar un psicólogo ocupacional para mejorar el bienestar emocional de los empleados?",
+          "option_a": "Terapia cognitivo-conductual",
+          "option_b": "Incremento de las horas de trabajo",
+          "option_c": "Reducción de las condiciones laborales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La terapia cognitivo-conductual ayuda a cambiar pensamientos negativos y reducir el estrés."
+        },
+        {
+          "id": 12,
+          "question": "¿Qué rol juega la psicología ocupacional en el diseño de puestos de trabajo?",
+          "option_a": "Ayudar a los empleadores a aumentar la carga de trabajo de los empleados",
+          "option_b": "Mejorar la compatibilidad entre las habilidades del trabajador y las demandas del puesto",
+          "option_c": "Aumentar la productividad a costa de la salud del trabajador",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Busca alinear las capacidades del trabajador con las exigencias del puesto."
+        },
+        {
+          "id": 13,
+          "question": "¿Qué es el 'burnout' o síndrome de agotamiento laboral?",
+          "option_a": "Un estado de fatiga física y emocional debido a un exceso de trabajo y estrés prolongado",
+          "option_b": "Un estado de baja productividad",
+          "option_c": "Un trastorno relacionado con la falta de ejercicio",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El burnout es resultado de un estrés laboral crónico y falta de recuperación emocional."
+        },
+        {
+          "id": 14,
+          "question": "¿Qué estrategia puede ayudar a prevenir el agotamiento laboral?",
+          "option_a": "Aumentar la jornada laboral",
+          "option_b": "Proporcionar apoyo psicológico, descansos regulares y mejorar el equilibrio trabajo-vida",
+          "option_c": "No permitir descansos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El equilibrio y apoyo psicológico reducen el riesgo de agotamiento."
+        },
+        {
+          "id": 15,
+          "question": "¿Qué tipo de intervenciones utiliza la psicología ocupacional para mejorar la salud mental de los empleados?",
+          "option_a": "Terapias psicológicas, programas de bienestar y entrenamiento en manejo del estrés",
+          "option_b": "Solo cambios en la política salarial",
+          "option_c": "Solo intervenciones físicas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Se aplican programas y terapias para fortalecer la salud emocional en el trabajo."
+        },
+        {
+          "id": 16,
+          "question": "¿Qué es el 'clima organizacional'?",
+          "option_a": "La cantidad de tiempo que los empleados pasan en la oficina",
+          "option_b": "La percepción general de los empleados sobre el ambiente de trabajo, incluyendo relaciones laborales, cultura y motivación",
+          "option_c": "El costo de los materiales de oficina",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El clima organizacional refleja cómo los empleados perciben su entorno laboral."
+        },
+        {
+          "id": 17,
+          "question": "¿Cómo puede la psicología ocupacional mejorar el clima organizacional?",
+          "option_a": "Aumentando las horas de trabajo",
+          "option_b": "Proporcionando capacitación y creando un ambiente de trabajo positivo y de apoyo",
+          "option_c": "Reduciendo el salario de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Capacitar y fomentar la comunicación mejora el ambiente laboral."
+        },
+        {
+          "id": 18,
+          "question": "¿Qué puede causar un mal clima organizacional?",
+          "option_a": "Conflictos entre empleados, falta de comunicación y reconocimiento",
+          "option_b": "Buenas relaciones laborales",
+          "option_c": "Aumento en las oportunidades de desarrollo profesional",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La falta de comunicación y reconocimiento genera un ambiente laboral negativo."
+        },
+        {
+          "id": 19,
+          "question": "¿Qué importancia tiene el trabajo en equipo según la psicología ocupacional?",
+          "option_a": "Incrementa los conflictos",
+          "option_b": "Mejora la colaboración, la comunicación y el bienestar de los empleados",
+          "option_c": "No tiene importancia",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El trabajo en equipo fomenta la cooperación y el bienestar emocional."
+        },
+        {
+          "id": 20,
+          "question": "¿Qué se entiende por 'motivación intrínseca'?",
+          "option_a": "La motivación que viene de factores externos como recompensas o reconocimiento",
+          "option_b": "La motivación interna que proviene del deseo de aprender o lograr metas personales",
+          "option_c": "La motivación que proviene de la presión del empleador",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La motivación intrínseca surge del interés personal y el deseo de superación."
+        },
+        {
+          "id": 21,
+          "question": "¿Qué es la evaluación psicológica en el ámbito ocupacional?",
+          "option_a": "Un examen físico de los empleados",
+          "option_b": "Un proceso para identificar las aptitudes, actitudes y comportamientos de los empleados en relación con su trabajo",
+          "option_c": "Un proceso para evaluar la productividad de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La evaluación psicológica ocupacional permite conocer las capacidades y actitudes de los empleados para optimizar su desempeño laboral."
+        },
+        {
+          "id": 22,
+          "question": "¿Cómo contribuye la psicología ocupacional al diseño de estrategias de intervención para los empleados?",
+          "option_a": "Reduciendo la jornada laboral",
+          "option_b": "Proporcionando apoyo emocional, programas de desarrollo y formación en habilidades",
+          "option_c": "Aumentando la carga de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La psicología ocupacional diseña estrategias que fortalecen el bienestar y las competencias del personal a través del apoyo y la formación."
+        },
+        {
+          "id": 23,
+          "question": "¿Qué es el 'estrés laboral' y cómo afecta la productividad de los empleados?",
+          "option_a": "Un beneficio para los empleados, ya que los hace trabajar más rápido",
+          "option_b": "Un estado emocional que reduce la concentración y la eficiencia de los empleados",
+          "option_c": "Un fenómeno positivo que aumenta la motivación",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El estrés laboral disminuye el rendimiento y puede generar fatiga, desmotivación y errores en el trabajo."
+        },
+        {
+          "id": 24,
+          "question": "¿Cómo puede la psicología ocupacional ayudar a la prevención del estrés laboral?",
+          "option_a": "Al proporcionar técnicas de manejo de estrés y fomentar un entorno de trabajo saludable",
+          "option_b": "Al aumentar la carga de trabajo",
+          "option_c": "Al reducir la cantidad de descansos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La psicología ocupacional promueve la salud mental mediante programas de bienestar y técnicas de control del estrés."
+        },
+        {
+          "id": 25,
+          "question": "¿Qué factores son evaluados en la psicología ocupacional para determinar la carga de trabajo de los empleados?",
+          "option_a": "Solo el tiempo de descanso",
+          "option_b": "La cantidad de tareas asignadas, el tiempo disponible y las habilidades necesarias para realizar el trabajo",
+          "option_c": "Solo las horas extras trabajadas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La evaluación considera tanto la cantidad como la complejidad de las tareas y las competencias del empleado para equilibrar la carga laboral."
+        },
+        {
+          "id": 26,
+          "question": "¿Qué es el 'síndrome de burnout' o agotamiento laboral?",
+          "option_a": "Un trastorno de estrés crónico causado por una sobrecarga de trabajo y falta de control sobre las tareas",
+          "option_b": "Un fenómeno positivo que mejora la productividad",
+          "option_c": "Un estado de cansancio ocasional que se soluciona con descanso",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El burnout es un estado de agotamiento físico y emocional que surge por el estrés laboral prolongado."
+        },
+        {
+          "id": 27,
+          "question": "¿Qué estrategia puede ayudar a prevenir el burnout en los empleados?",
+          "option_a": "Aumentar la carga de trabajo",
+          "option_b": "Proporcionar descansos adecuados, apoyo psicológico y equilibrio entre trabajo y vida personal",
+          "option_c": "Reducción de los descansos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El equilibrio entre la vida laboral y personal, junto con el apoyo emocional, reduce el riesgo de agotamiento laboral."
+        },
+        {
+          "id": 28,
+          "question": "¿Qué es la resiliencia laboral?",
+          "option_a": "La capacidad de un trabajador para recuperarse rápidamente de los problemas o estrés relacionados con el trabajo",
+          "option_b": "La habilidad de un trabajador para tomar vacaciones sin interrumpir su productividad",
+          "option_c": "La capacidad de un trabajador para ignorar los riesgos laborales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La resiliencia laboral implica adaptarse positivamente ante las dificultades y mantener la eficacia en el trabajo."
+        },
+        {
+          "id": 29,
+          "question": "¿Cómo afecta el clima organizacional a la productividad de los empleados?",
+          "option_a": "No tiene impacto",
+          "option_b": "Un clima organizacional positivo mejora la motivación, el bienestar y la productividad",
+          "option_c": "Un clima organizacional negativo mejora la productividad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Un buen clima organizacional fomenta la satisfacción y el compromiso de los empleados, elevando su rendimiento."
+        },
+        {
+          "id": 30,
+          "question": "¿Qué es la evaluación psicológica en el trabajo?",
+          "option_a": "Un examen para determinar el salario del empleado",
+          "option_b": "Un proceso mediante el cual se evalúan las habilidades, competencias y características psicológicas de un empleado en relación con el puesto de trabajo",
+          "option_c": "Un proceso para controlar el tiempo de trabajo de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La evaluación psicológica laboral analiza el ajuste del individuo al puesto y su potencial de desarrollo profesional."
         }
-        // ... Continuar con las 30 preguntas
+       
       ]
     },
     {
@@ -1934,7 +3095,7 @@
       "description": "Riesgos físicos en el entorno laboral", 
       "quizzes": [
         {
-          "id": 301,
+          "id": 1,
           "question": "¿Qué es un riesgo físico en el entorno laboral?",
           "option_a": "Exposición a sustancias químicas peligrosas",
           "option_b": "Condiciones de trabajo que pueden causar daño al cuerpo, como ruido, vibraciones o temperaturas extremas",
@@ -1942,8 +3103,298 @@
           "option_d": "Ninguna de las anteriores",
           "correct_answer": "b",
           "explanation": "Riesgo físico son condiciones como ruido, vibraciones o temperaturas extremas."
+        },
+        {
+          "id": 2,
+          "question": "¿Cuál es un ejemplo de riesgo físico relacionado con el ruido?",
+          "option_a": "Exposición a radiación",
+          "option_b": "Exposición al sonido de máquinas ruidosas",
+          "option_c": "Exposición a productos químicos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El ruido de maquinaria industrial es un riesgo físico común que puede afectar la audición del trabajador."
+        },
+        {
+          "id": 3,
+          "question": "¿Qué puede causar la exposición prolongada al ruido en el trabajo?",
+          "option_a": "Lesiones musculoesqueléticas",
+          "option_b": "Fatiga ocular",
+          "option_c": "Pérdida de audición",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La exposición continua a altos niveles de ruido puede provocar pérdida auditiva permanente."
+        },
+        {
+          "id": 4,
+          "question": "¿Qué equipo de protección personal (EPP) se debe utilizar en un entorno con exposición a ruido excesivo?",
+          "option_a": "Casco de seguridad",
+          "option_b": "Gafas de protección",
+          "option_c": "Tapones para los oídos o auriculares de protección",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "Los tapones o auriculares de protección ayudan a reducir el impacto del ruido y prevenir daños auditivos."
+        },
+        {
+          "id": 5,
+          "question": "¿Qué tipo de riesgos pueden estar presentes en el trabajo con maquinaria pesada?",
+          "option_a": "Riesgos químicos",
+          "option_b": "Riesgos biológicos",
+          "option_c": "Riesgos físicos, como el riesgo de atrapamiento o caídas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "El uso de maquinaria pesada implica riesgos físicos, como atrapamientos o caídas, si no se aplican medidas de seguridad."
+        },
+        {
+          "id": 6,
+          "question": "¿Qué tipo de lesión puede ocurrir si un trabajador está expuesto a temperaturas extremas en el lugar de trabajo?",
+          "option_a": "Lesiones por quemaduras o congelación",
+          "option_b": "Lesiones por esfuerzo repetitivo",
+          "option_c": "Daños en la visión",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Las temperaturas extremas pueden causar quemaduras, hipotermia o congelación dependiendo del ambiente."
+        },
+        {
+          "id": 7,
+          "question": "¿Qué acción debe tomar un trabajador si está expuesto a calor extremo?",
+          "option_a": "Continuar trabajando sin hacer cambios",
+          "option_b": "Usar ropa adecuada, tomar descansos frecuentes y mantenerse hidratado",
+          "option_c": "Ignorar el calor si no se siente peligroso",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La prevención ante el calor incluye pausas, hidratación y ropa ligera para evitar golpes de calor."
+        },
+        {
+          "id": 8,
+          "question": "¿Qué equipo de protección personal (EPP) puede ser útil para prevenir lesiones por movimientos repetitivos?",
+          "option_a": "Guantes ergonómicos",
+          "option_b": "Botas de seguridad",
+          "option_c": "Gafas de protección",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Los guantes ergonómicos ayudan a reducir la tensión en manos y muñecas al realizar tareas repetitivas."
+        },
+        {
+          "id": 9,
+          "question": "¿Qué tipo de daño puede causar la exposición continua a vibraciones en el lugar de trabajo?",
+          "option_a": "Lesiones oculares",
+          "option_b": "Trastornos musculoesqueléticos y daños en los nervios de las manos y brazos",
+          "option_c": "Daños cerebrales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las vibraciones prolongadas pueden afectar músculos, huesos y nervios, especialmente en las extremidades."
+        },
+        {
+          "id": 10,
+          "question": "¿Cuál de los siguientes es un ejemplo de riesgo físico?",
+          "option_a": "La exposición al ruido en una fábrica",
+          "option_b": "La exposición a productos químicos peligrosos",
+          "option_c": "El estrés laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El ruido industrial es un claro ejemplo de riesgo físico por su impacto directo en la salud auditiva."
+        },
+        {
+          "id": 11,
+          "question": "¿Qué efectos puede tener la exposición prolongada a la luz intensa o al deslumbramiento?",
+          "option_a": "Pérdida de audición",
+          "option_b": "Daños en los ojos, como fatiga ocular y ceguera temporal",
+          "option_c": "Daños en los pulmones",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La exposición a luz intensa o reflejos puede causar fatiga visual, irritación ocular o pérdida temporal de visión."
+        },
+        {
+          "id": 12,
+          "question": "¿Qué medida preventiva se debe tomar para protegerse del riesgo de radiación en el trabajo?",
+          "option_a": "Usar protección ocular",
+          "option_b": "Usar equipo de protección adecuado, como pantallas de protección",
+          "option_c": "Aumentar el tiempo de exposición",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las pantallas y barreras protectoras reducen la exposición directa a radiación ionizante o no ionizante."
+        },
+        {
+          "id": 13,
+          "question": "¿Qué causa las lesiones musculoesqueléticas en un entorno laboral?",
+          "option_a": "La exposición a temperaturas extremas",
+          "option_b": "Movimientos repetitivos o esfuerzos inadecuados",
+          "option_c": "El trabajo con maquinaria",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las tareas repetitivas o las posturas forzadas generan sobrecarga muscular y lesiones articulares."
+        },
+        {
+          "id": 14,
+          "question": "¿Qué puede causar el trabajo en un entorno con una mala iluminación?",
+          "option_a": "Pérdida de visión",
+          "option_b": "Dolores de cabeza y fatiga ocular",
+          "option_c": "Lesiones físicas debido a caídas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Una iluminación deficiente puede generar cansancio visual y afectar la concentración del trabajador."
+        },
+        {
+          "id": 15,
+          "question": "¿Cómo se pueden prevenir los efectos del riesgo físico en el trabajo?",
+          "option_a": "No es necesario prevenirlo",
+          "option_b": "Usando equipos de protección adecuados y tomando descansos periódicos",
+          "option_c": "Aumentando las horas laborales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El uso de EPP y los descansos adecuados reducen los efectos del esfuerzo físico o la exposición ambiental."
+        },
+        {
+          "id": 16,
+          "question": "¿Cuál es un ejemplo de riesgo físico asociado con el trabajo en altura?",
+          "option_a": "Exposición a radiación",
+          "option_b": "Caídas desde una altura elevada",
+          "option_c": "Contacto con materiales inflamables",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El trabajo en alturas representa riesgo de caídas si no se usan arneses o líneas de vida adecuadas."
+        },
+        {
+          "id": 17,
+          "question": "¿Qué tipo de riesgo está asociado con el uso de maquinaria pesada sin medidas de seguridad adecuadas?",
+          "option_a": "Riesgo térmico",
+          "option_b": "Riesgo físico, como atrapamientos y lesiones por caída de objetos",
+          "option_c": "Riesgo psicosocial",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El uso inseguro de maquinaria pesada puede generar atrapamientos, golpes o caídas de materiales."
+        },
+        {
+          "id": 18,
+          "question": "¿Qué efectos puede tener la exposición a vibraciones prolongadas en las extremidades superiores?",
+          "option_a": "Daños en los músculos",
+          "option_b": "Trastornos en los nervios de las manos y brazos, como el síndrome de mano blanca",
+          "option_c": "Pérdida de audición",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El síndrome de mano blanca es una consecuencia común de la exposición constante a vibraciones intensas."
+        },
+        {
+          "id": 19,
+          "question": "¿Qué se puede hacer para reducir la exposición al riesgo físico en el trabajo?",
+          "option_a": "Usar ropa cómoda y no especializada",
+          "option_b": "Asegurarse de que los equipos de trabajo estén en buen estado y sean utilizados correctamente",
+          "option_c": "Aumentar la velocidad de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El mantenimiento adecuado de equipos y su uso correcto son clave para reducir riesgos físicos."
+        },
+        {
+          "id": 20,
+          "question": "¿Qué es la seguridad física en el trabajo?",
+          "option_a": "La protección contra sustancias químicas",
+          "option_b": "La implementación de medidas para prevenir accidentes laborales y proteger la salud de los trabajadores",
+          "option_c": "La organización de las pausas laborales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La seguridad física busca prevenir lesiones mediante normas, equipos de protección y control del entorno."
+        },
+        {
+          "id": 21,
+          "question": "¿Qué es el 'estrés térmico' y cómo afecta al trabajador?",
+          "option_a": "La fatiga causada por la exposición a temperaturas extremas, como calor excesivo o frío extremo",
+          "option_b": "El daño muscular causado por esfuerzo físico",
+          "option_c": "La pérdida de visión por exposición a la luz intensa",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El estrés térmico ocurre cuando el cuerpo no puede mantener su temperatura ante condiciones extremas."
+        },
+        {
+          "id": 22,
+          "question": "¿Cuál de los siguientes factores aumenta el riesgo físico en un ambiente de trabajo con maquinaria pesada?",
+          "option_a": "La falta de mantenimiento de los equipos y la ausencia de medidas de seguridad",
+          "option_b": "La cantidad de descansos de los empleados",
+          "option_c": "El aumento de la velocidad de producción",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El mantenimiento inadecuado y la ausencia de protocolos de seguridad elevan los riesgos físicos."
+        },
+        {
+          "id": 23,
+          "question": "¿Qué puede causar el trabajo prolongado en una postura inadecuada?",
+          "option_a": "Lesiones musculoesqueléticas y problemas articulares",
+          "option_b": "Mejora de la circulación sanguínea",
+          "option_c": "Aumento de la concentración",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Las posturas incorrectas mantenidas durante mucho tiempo causan molestias y daños musculares o articulares."
+        },
+        {
+          "id": 24,
+          "question": "¿Cómo se puede prevenir el daño por exposición a vibraciones en el trabajo?",
+          "option_a": "Utilizando equipos de protección, como guantes antivibración, y tomando descansos periódicos",
+          "option_b": "Aumentando la intensidad de las vibraciones para estimular la circulación",
+          "option_c": "Ignorando el riesgo, ya que las vibraciones no son dañinas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El uso de guantes antivibración y pausas regulares protege el sistema músculo-esquelético."
+        },
+        {
+          "id": 25,
+          "question": "¿Qué medidas de seguridad son necesarias para evitar accidentes relacionados con la electricidad?",
+          "option_a": "Ignorar los protocolos de seguridad",
+          "option_b": "Mantener el equipo eléctrico en buen estado y utilizar aislantes adecuados",
+          "option_c": "Aumentar la carga de trabajo de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La revisión constante del equipo eléctrico y el uso de aislantes previenen accidentes eléctricos."
+        },
+        {
+          "id": 26,
+          "question": "¿Cuál es una medida preventiva eficaz para proteger a los empleados de los riesgos físicos causados por el trabajo en alturas?",
+          "option_a": "Utilizar arneses y líneas de vida adecuados",
+          "option_b": "Solo reducir la altura de trabajo",
+          "option_c": "No permitir que los empleados trabajen en lugares elevados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El uso de arneses y líneas de vida reduce el riesgo de caídas en trabajos en altura."
+        },
+        {
+          "id": 27,
+          "question": "¿Qué puede causar la exposición prolongada al calor en el lugar de trabajo?",
+          "option_a": "Golpes de calor, deshidratación y agotamiento",
+          "option_b": "Lesiones por esfuerzo repetitivo",
+          "option_c": "Desorientación y pérdida de concentración",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El calor extremo puede provocar deshidratación, agotamiento y en casos graves, golpe de calor."
+        },
+        {
+          "id": 28,
+          "question": "¿Qué equipo de protección personal (EPP) es esencial cuando se trabaja en un entorno con riesgo de radiación?",
+          "option_a": "Gafas de seguridad",
+          "option_b": "Ropa resistente al fuego",
+          "option_c": "Delantal de plomo o material similar para bloquear la radiación",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "Los delantales de plomo bloquean la radiación y protegen los órganos del trabajador expuesto."
+        },
+        {
+          "id": 29,
+          "question": "¿Qué es la 'fatiga ocular' y qué la causa en el entorno de trabajo?",
+          "option_a": "Una condición de agotamiento físico, causada por trabajar en exceso",
+          "option_b": "Cansancio visual causado por la exposición prolongada a pantallas de computadoras o luces brillantes",
+          "option_c": "Un trastorno de la visión",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El uso prolongado de pantallas o iluminación inadecuada causa fatiga ocular y visión borrosa."
+        },
+        {
+          "id": 30,
+          "question": "¿Qué acción puede realizar un empleador para reducir el riesgo de accidentes laborales causados por caídas?",
+          "option_a": "Ignorar las condiciones del suelo",
+          "option_b": "Colocar señalización adecuada, barandillas y superficies antideslizantes",
+          "option_c": "Aumentar las horas laborales de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La señalización y los elementos de seguridad física reducen significativamente el riesgo de caídas."
         }
-        // ... Continuar con las 30 preguntas
+        
       ]
     },
     {
@@ -1953,7 +3404,7 @@
       "description": "Conceptos avanzados de seguridad industrial",
       "quizzes": [
         {
-          "id": 331,
+          "id": 1,
           "question": "¿Qué es la seguridad industrial?",
           "option_a": "El conjunto de medidas y procedimientos para proteger a los trabajadores de accidentes y enfermedades laborales",
           "option_b": "La medición de la productividad de los empleados", 
@@ -1961,8 +3412,298 @@
           "option_d": "Ninguna de las anteriores",
           "correct_answer": "a",
           "explanation": "Son medidas para proteger a trabajadores de accidentes y enfermedades laborales."
+        },
+        {
+          "id": 2,
+          "question": "¿Cuál es el objetivo principal de la administración de recursos en SST?",
+          "option_a": "Aumentar las ganancias de la empresa",
+          "option_b": "Garantizar que se cuente con los recursos necesarios para implementar un SG-SST efectivo",
+          "option_c": "Mejorar la estética del lugar de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Busca asegurar los recursos necesarios para implementar de forma efectiva el Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST)."
+        },
+        {
+          "id": 3,
+          "question": "¿Qué tipo de recursos son necesarios para un SG-SST efectivo?",
+          "option_a": "Recursos humanos, materiales y financieros",
+          "option_b": "Solo recursos humanos",
+          "option_c": "Solo recursos materiales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Un SG-SST requiere recursos humanos, materiales y financieros para garantizar su correcta implementación."
+        },
+        {
+          "id": 4,
+          "question": "¿Qué tipo de recursos humanos son esenciales para la administración de SST?",
+          "option_a": "Supervisores capacitados en seguridad",
+          "option_b": "Trabajadores entrenados en seguridad",
+          "option_c": "Personal especializado como los responsables de SST",
+          "option_d": "Todos los anteriores",
+          "correct_answer": "d",
+          "explanation": "Todos son esenciales, ya que cada uno cumple un papel clave en la gestión y prevención de riesgos laborales."
+        },
+        {
+          "id": 5,
+          "question": "¿Por qué es importante asignar un presupuesto adecuado a la SST?",
+          "option_a": "Para asegurarse de que los empleados reciban bonificaciones",
+          "option_b": "Para garantizar la disponibilidad de recursos para la implementación de medidas de seguridad y prevención",
+          "option_c": "Para mejorar la estética del lugar de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Un presupuesto adecuado permite implementar las medidas de prevención y protección necesarias en la empresa."
+        },
+        {
+          "id": 6,
+          "question": "¿Cómo se pueden administrar los recursos materiales para SST en una empresa?",
+          "option_a": "Ignorando los equipos de protección personal (EPP)",
+          "option_b": "Garantizando que el equipo de protección personal esté disponible, en buen estado y se utilice adecuadamente",
+          "option_c": "No comprando equipo de protección",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Administrar correctamente los recursos materiales implica asegurar el buen estado y uso adecuado del EPP."
+        },
+        {
+          "id": 7,
+          "question": "¿Qué papel juega la capacitación en la administración de recursos de SST?",
+          "option_a": "No tiene ningún impacto",
+          "option_b": "Asegura que los trabajadores conozcan los riesgos y las medidas preventivas, optimizando el uso de los recursos",
+          "option_c": "Solo mejora el ambiente laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La capacitación mejora la gestión de recursos al garantizar que los empleados comprendan y apliquen las medidas de seguridad."
+        },
+        {
+          "id": 8,
+          "question": "¿Qué es un 'responsable de SST' en una empresa?",
+          "option_a": "El encargado de aumentar la jornada laboral",
+          "option_b": "La persona encargada de supervisar el cumplimiento del SG-SST y gestionar los recursos necesarios para su implementación",
+          "option_c": "El encargado de los recursos humanos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El responsable de SST supervisa el cumplimiento del sistema y la gestión de los recursos de seguridad y salud."
+        },
+        {
+          "id": 9,
+          "question": "¿Por qué es importante hacer un inventario de los recursos de SST en una empresa?",
+          "option_a": "Para saber cuántos empleados hay en la empresa",
+          "option_b": "Para asegurar que los recursos, como el equipo de protección personal, estén disponibles y en buen estado",
+          "option_c": "Para aumentar el tiempo de trabajo de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El inventario permite verificar la disponibilidad y el estado de los recursos de seguridad necesarios."
+        },
+        {
+          "id": 10,
+          "question": "¿Qué recursos financieros son necesarios para un SG-SST efectivo?",
+          "option_a": "No es necesario ningún presupuesto",
+          "option_b": "Un presupuesto adecuado para la compra de equipos de seguridad, capacitación y prevención de riesgos",
+          "option_c": "Solo recursos para aumentar la jornada laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El presupuesto debe cubrir equipos, formación y medidas preventivas para un SG-SST eficiente."
+        },
+        {
+          "id": 11,
+          "question": "¿Qué debe hacer un empleador si no tiene los recursos suficientes para implementar un SG-SST?",
+          "option_a": "Ignorar la ley y continuar sin medidas de seguridad",
+          "option_b": "Buscar alternativas de financiamiento o reasignar recursos para asegurar que se cumpla con las normativas de SST",
+          "option_c": "Aumentar las horas laborales para compensar la falta de recursos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Debe buscar soluciones financieras o reasignar recursos para cumplir con las obligaciones legales en SST."
+        },
+        {
+          "id": 12,
+          "question": "¿Cuál es la función del Comité Paritario de Seguridad y Salud en el Trabajo (COPASST) en la administración de recursos de SST?",
+          "option_a": "Aumentar la producción",
+          "option_b": "Participar activamente en la identificación de riesgos y en la asignación de recursos para su mitigación",
+          "option_c": "Establecer normas para aumentar las horas laborales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El COPASST colabora en la identificación de riesgos y asignación adecuada de recursos preventivos."
+        },
+        {
+          "id": 13,
+          "question": "¿Qué herramienta se puede utilizar para planificar y administrar los recursos de SST en una empresa?",
+          "option_a": "Un plan de acción de seguridad que incluya objetivos, recursos y plazos específicos",
+          "option_b": "Un informe de productividad",
+          "option_c": "Un registro de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Un plan de acción bien estructurado permite planificar y administrar eficazmente los recursos de SST."
+        },
+        {
+          "id": 14,
+          "question": "¿Por qué es importante la participación activa de los empleados en la administración de recursos de SST?",
+          "option_a": "Para reducir las horas de trabajo",
+          "option_b": "Para garantizar que los recursos se utilicen adecuadamente y fomentar una cultura de seguridad en toda la empresa",
+          "option_c": "Para que los empleados trabajen más rápido",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La participación de los empleados asegura un uso responsable de los recursos y fortalece la cultura de seguridad."
+        },
+        {
+          "id": 15,
+          "question": "¿Qué tipo de recurso es fundamental para prevenir riesgos laborales en una fábrica?",
+          "option_a": "La información sobre los productos fabricados",
+          "option_b": "Los equipos de protección personal (EPP), la capacitación continua y las medidas de seguridad adecuadas",
+          "option_c": "Los informes de productividad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los EPP, la formación y las medidas preventivas son clave para evitar riesgos laborales."
+        },
+        {
+          "id": 16,
+          "question": "¿Qué acción se debe tomar cuando se identifican fallos en el uso de los recursos de SST?",
+          "option_a": "Ignorar los fallos",
+          "option_b": "Realizar ajustes en los procedimientos, comprar nuevos recursos y proporcionar capacitación adicional",
+          "option_c": "Aumentar la jornada laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Detectar fallos debe llevar a mejorar los procedimientos, recursos y formación del personal."
+        },
+        {
+          "id": 17,
+          "question": "¿Qué medida debe tomar la empresa si los trabajadores no usan el equipo de protección personal adecuado?",
+          "option_a": "Ignorar la situación",
+          "option_b": "Tomar medidas correctivas, como sanciones o proporcionar más capacitación sobre el uso del equipo",
+          "option_c": "Aumentar la jornada laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Debe aplicarse una corrección que combine sanciones y formación para fomentar el cumplimiento de normas."
+        },
+        {
+          "id": 18,
+          "question": "¿Qué papel juega la auditoría en la administración de recursos de SST?",
+          "option_a": "No tiene impacto",
+          "option_b": "Verifica si los recursos de SST se están utilizando correctamente y si el sistema de gestión está funcionando eficientemente",
+          "option_c": "Solo evalúa la eficiencia de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las auditorías permiten evaluar el uso correcto de los recursos y la eficacia del SG-SST."
+        },
+        {
+          "id": 19,
+          "question": "¿Qué es un 'informe de accidentes laborales' y cómo contribuye a la administración de recursos de SST?",
+          "option_a": "Un reporte sobre la calidad del trabajo realizado",
+          "option_b": "Un informe detallado sobre los accidentes ocurridos, que ayuda a identificar fallos en el SG-SST y a mejorar los recursos preventivos",
+          "option_c": "Un informe de satisfacción del cliente",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los informes de accidentes permiten detectar fallas y mejorar los recursos para prevenir futuros incidentes."
+        },
+        {
+          "id": 20,
+          "question": "¿Cómo puede la administración de recursos de SST ayudar a reducir los costos en la empresa?",
+          "option_a": "Aumentando las horas de trabajo de los empleados",
+          "option_b": "Implementando medidas preventivas que reduzcan los accidentes laborales y enfermedades, lo que reduce el ausentismo y los costos médicos",
+          "option_c": "Eliminando las medidas de seguridad para reducir costos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La prevención de accidentes reduce costos por ausentismo, incapacidades y daños materiales."
+        },
+        {
+          "id": 21,
+          "question": "¿Qué herramienta se utiliza comúnmente para realizar una evaluación de recursos de SST?",
+          "option_a": "Auditorías internas",
+          "option_b": "Encuestas de satisfacción",
+          "option_c": "Revisiones de producción",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Las auditorías internas permiten evaluar el uso y efectividad de los recursos de SST."
+        },
+        {
+          "id": 22,
+          "question": "¿Cómo se puede mejorar la eficiencia de los recursos de SST en una empresa?",
+          "option_a": "Aumentando las horas laborales",
+          "option_b": "Asignando correctamente los recursos, proporcionando formación continua y realizando auditorías periódicas",
+          "option_c": "Disminuyendo la calidad de los materiales de seguridad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La buena gestión de recursos, junto con capacitación y auditorías, mejora la eficiencia del sistema de SST."
+        },
+        {
+          "id": 23,
+          "question": "¿Cuál es el principal desafío al administrar los recursos de SST en una empresa?",
+          "option_a": "Asegurarse de que todos los empleados estén capacitados y cumplan con las normativas de seguridad",
+          "option_b": "Reducir el tiempo de descanso de los empleados",
+          "option_c": "Aumentar la jornada laboral de los trabajadores",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El mayor reto es lograr la capacitación y el cumplimiento de las normas por parte de todos los trabajadores."
+        },
+        {
+          "id": 24,
+          "question": "¿Qué debe hacer la empresa si se identifican fallos en los procedimientos de seguridad a pesar de la capacitación?",
+          "option_a": "Ignorar los fallos",
+          "option_b": "Implementar nuevas medidas de seguridad, realizar ajustes en los procedimientos y reforzar la capacitación",
+          "option_c": "Aumentar las horas laborales de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Deben hacerse ajustes y reforzarse la capacitación para garantizar el cumplimiento de las medidas de seguridad."
+        },
+        {
+          "id": 25,
+          "question": "¿Cómo contribuye el seguimiento de los accidentes laborales a la administración de recursos de SST?",
+          "option_a": "Ayuda a identificar áreas de mejora en el sistema y a asignar los recursos necesarios para evitar futuros accidentes",
+          "option_b": "Aumenta los costos operativos",
+          "option_c": "Permite aumentar la jornada laboral de los trabajadores",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El seguimiento permite identificar fallas y optimizar los recursos para prevenir accidentes futuros."
+        },
+        {
+          "id": 26,
+          "question": "¿Cuál es el beneficio de realizar una evaluación periódica de los recursos de SST?",
+          "option_a": "Solo medir la eficiencia de los empleados",
+          "option_b": "Identificar y corregir fallos en el sistema de seguridad, mejorando la protección de los trabajadores",
+          "option_c": "Aumentar la carga de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las evaluaciones periódicas permiten detectar debilidades y fortalecer las medidas de protección laboral."
+        },
+        {
+          "id": 27,
+          "question": "¿Qué tipo de recursos deben ser asignados en un programa de salud ocupacional dentro del SG-SST?",
+          "option_a": "Recursos humanos, materiales y financieros necesarios para implementar las medidas de prevención y protección",
+          "option_b": "Solo recursos humanos",
+          "option_c": "Solo recursos financieros",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Los tres tipos de recursos son esenciales para la prevención y protección en salud ocupacional."
+        },
+        {
+          "id": 28,
+          "question": "¿Qué función tienen los recursos humanos en un SG-SST?",
+          "option_a": "Asegurar que los empleados reciban una remuneración adecuada",
+          "option_b": "Garantizar que los trabajadores sean capacitados y estén informados sobre los riesgos laborales y las medidas preventivas",
+          "option_c": "Aumentar la jornada laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los recursos humanos son responsables de formar e informar al personal sobre riesgos y prevención."
+        },
+        {
+          "id": 29,
+          "question": "¿Cómo pueden las empresas garantizar la disponibilidad de recursos para la implementación del SG-SST?",
+          "option_a": "Asegurando que el presupuesto se destine exclusivamente a la compra de materiales",
+          "option_b": "Planificando, presupuestando y priorizando las inversiones en seguridad y salud laboral",
+          "option_c": "Descartando la compra de equipos de protección personal",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La planificación y priorización del presupuesto garantizan la disponibilidad de recursos para la seguridad."
+        },
+        {
+          "id": 30,
+          "question": "¿Qué acción debe tomar un empleador si un trabajador no cumple con las medidas de seguridad establecidas?",
+          "option_a": "Ignorar la situación",
+          "option_b": "Informar al trabajador sobre las consecuencias, tomar medidas correctivas y proporcionar capacitación adicional si es necesario",
+          "option_c": "Aumentar la carga de trabajo del empleado",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El empleador debe aplicar medidas correctivas y reforzar la capacitación para asegurar el cumplimiento."
         }
-        // ... Continuar con las 30 preguntas
+        
       ]
     },
     {
@@ -1972,7 +3713,7 @@
       "description": "Sistemas de gestión SG-SST",
       "quizzes": [
         {
-          "id": 361,
+          "id": 1,
           "question": "¿Qué significa la mejora continua en el contexto del SG-SST?",
           "option_a": "Solo aplicar el sistema una vez",
           "option_b": "Revisar y actualizar regularmente los procedimientos para mejorar la seguridad y salud de los trabajadores",
@@ -1980,8 +3721,298 @@
           "option_d": "Ninguna de las anteriores",
           "correct_answer": "b",
           "explanation": "Mejora continua significa revisar y actualizar regularmente los procedimientos."
+        },
+        {
+          "id": 2,
+          "question": "¿Cuál es el enfoque de la norma ISO 45001 en un SG-SST?",
+          "option_a": "Solo evaluar la productividad de los empleados",
+          "option_b": "Establecer un marco de trabajo para la gestión de la seguridad y salud en el trabajo, incluyendo la prevención de riesgos laborales",
+          "option_c": "Solo identificar los peligros sin tomar medidas correctivas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "ISO 45001 establece un marco integral para gestionar la seguridad, salud y prevención de riesgos laborales."
+        },
+        {
+          "id": 3,
+          "question": "¿Cómo se asegura el cumplimiento de la legislación en un SG-SST?",
+          "option_a": "Aumentando la jornada laboral",
+          "option_b": "Realizando auditorías y evaluaciones periódicas para verificar el cumplimiento de las normativas legales",
+          "option_c": "Ignorando los riesgos laborales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las auditorías y evaluaciones garantizan que el sistema cumpla con las normas y leyes de seguridad laboral."
+        },
+        {
+          "id": 4,
+          "question": "¿Qué se entiende por 'gestión de riesgos' en un SG-SST?",
+          "option_a": "La identificación, evaluación y control de los riesgos laborales para prevenir accidentes y enfermedades",
+          "option_b": "El análisis de los resultados financieros de la empresa",
+          "option_c": "La implementación de incentivos para los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La gestión de riesgos busca identificar, evaluar y controlar los peligros laborales para evitar incidentes."
+        },
+        {
+          "id": 5,
+          "question": "¿Cuál es la importancia de la participación de los trabajadores en el SG-SST?",
+          "option_a": "No es importante",
+          "option_b": "Solo deben participar los supervisores",
+          "option_c": "Es fundamental para lograr un ambiente laboral seguro y saludable y garantizar la eficacia del sistema",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La participación activa de los trabajadores fortalece la cultura preventiva y la eficacia del SG-SST."
+        },
+        {
+          "id": 6,
+          "question": "¿Qué papel desempeña la capacitación en un SG-SST?",
+          "option_a": "Asegura que los empleados trabajen más horas",
+          "option_b": "Proporciona conocimientos y habilidades para prevenir y gestionar los riesgos laborales",
+          "option_c": "Solo se utiliza para mejorar las relaciones laborales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La capacitación brinda herramientas para que los empleados prevengan y gestionen riesgos laborales de forma eficaz."
+        },
+        {
+          "id": 7,
+          "question": "¿Qué son las 'acciones correctivas' en el contexto del SG-SST?",
+          "option_a": "Mejoras que se implementan para aumentar la eficiencia de la producción",
+          "option_b": "Acciones que se toman después de un accidente para prevenir su recurrencia",
+          "option_c": "Solo una evaluación de los riesgos laborales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las acciones correctivas buscan eliminar las causas de incidentes para evitar que se repitan."
+        },
+        {
+          "id": 8,
+          "question": "¿Qué es una 'auditoría interna' en un SG-SST?",
+          "option_a": "La revisión de los informes de productividad",
+          "option_b": "La evaluación interna para verificar si el sistema de gestión de seguridad y salud se está aplicando correctamente",
+          "option_c": "La medición de los resultados financieros de la empresa",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las auditorías internas permiten revisar la correcta aplicación del sistema de seguridad y salud en el trabajo."
+        },
+        {
+          "id": 9,
+          "question": "¿Qué debe hacer un empleador cuando se identifican nuevos riesgos en el lugar de trabajo?",
+          "option_a": "Ignorarlos y continuar con el trabajo",
+          "option_b": "Evaluarlos y aplicar medidas preventivas o correctivas para reducir el riesgo",
+          "option_c": "Aumentar la carga de trabajo para mitigar el riesgo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El empleador debe evaluar y controlar los nuevos riesgos con medidas preventivas o correctivas."
+        },
+        {
+          "id": 10,
+          "question": "¿Cuál es el propósito de la 'política de seguridad y salud en el trabajo' dentro de un SG-SST?",
+          "option_a": "Asegurar que la empresa cumpla con las normativas legales",
+          "option_b": "Definir el compromiso de la empresa con la seguridad y salud de los trabajadores y establecer directrices claras para el sistema de gestión",
+          "option_c": "Mejorar la productividad de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La política de SST refleja el compromiso institucional y orienta las acciones del sistema."
+        },
+        {
+          "id": 11,
+          "question": "¿Cómo contribuye la mejora continua en el SG-SST?",
+          "option_a": "Aumentando las horas laborales",
+          "option_b": "Identificando áreas de mejora y realizando ajustes para reducir los riesgos laborales de forma constante",
+          "option_c": "Disminuyendo la calidad del trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La mejora continua garantiza que el SG-SST evolucione para prevenir riesgos de forma más efectiva."
+        },
+        {
+          "id": 12,
+          "question": "¿Qué herramienta se utiliza para evaluar los riesgos laborales en un SG-SST?",
+          "option_a": "Auditorías internas",
+          "option_b": "Encuestas de satisfacción laboral",
+          "option_c": "Herramientas de análisis de riesgos como la Matriz de Riesgos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La Matriz de Riesgos permite identificar, valorar y controlar los riesgos en el entorno laboral."
+        },
+        {
+          "id": 13,
+          "question": "¿Qué es una 'acción preventiva' en el SG-SST?",
+          "option_a": "Es una acción para corregir un problema después de que ocurre",
+          "option_b": "Es una acción que se toma antes de que ocurra un accidente o enfermedad, con el fin de evitar que suceda",
+          "option_c": "Es una acción para aumentar la carga de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las acciones preventivas buscan eliminar las causas potenciales antes de que generen incidentes."
+        },
+        {
+          "id": 14,
+          "question": "¿Cómo se puede evaluar la eficacia de un SG-SST?",
+          "option_a": "Solo mediante el aumento de la productividad",
+          "option_b": "Realizando auditorías periódicas, analizando incidentes y evaluando el cumplimiento de las medidas de seguridad",
+          "option_c": "Solo analizando las quejas de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La eficacia se mide a través de auditorías, seguimiento de incidentes y cumplimiento de medidas."
+        },
+        {
+          "id": 15,
+          "question": "¿Qué tipo de medidas se toman cuando se detectan fallas en el SG-SST?",
+          "option_a": "Se aumentan las horas laborales",
+          "option_b": "Se toman acciones correctivas y se refuerzan las medidas preventivas",
+          "option_c": "No se toman medidas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las fallas deben corregirse con acciones inmediatas y mejoras preventivas sostenibles."
+        },
+        {
+          "id": 16,
+          "question": "¿Cuál es el rol del Comité Paritario de Seguridad y Salud en el Trabajo (COPASST) dentro del SG-SST?",
+          "option_a": "Controlar las horas laborales de los empleados",
+          "option_b": "Promover y supervisar las actividades de seguridad y salud laboral dentro de la empresa",
+          "option_c": "Evaluar la productividad de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El COPASST promueve la cultura de seguridad y supervisa la implementación del SG-SST."
+        },
+        {
+          "id": 17,
+          "question": "¿Qué debe hacer un empleador para cumplir con los estándares del SG-SST según la normativa colombiana?",
+          "option_a": "Solo realizar una evaluación anual de riesgos",
+          "option_b": "Implementar y mantener un SG-SST basado en la Ley 1562 de 2012 y la Resolución 0312 de 2019",
+          "option_c": "Aumentar las horas laborales sin considerar la seguridad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El cumplimiento legal en Colombia se basa en las normas 1562/2012 y 0312/2019."
+        },
+        {
+          "id": 18,
+          "question": "¿Qué significa 'evaluación de riesgos' en el contexto de un SG-SST?",
+          "option_a": "Solo una evaluación de la productividad de los empleados",
+          "option_b": "La identificación de los peligros, la evaluación de los riesgos asociados y la implementación de medidas preventivas y correctivas",
+          "option_c": "La medición de los costos operativos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Evaluar riesgos implica identificar peligros y aplicar medidas que prevengan accidentes o enfermedades."
+        },
+        {
+          "id": 19,
+          "question": "¿Cómo puede una empresa involucrar a sus trabajadores en la gestión de la seguridad y salud en el trabajo?",
+          "option_a": "Solo a través de encuestas anónimas",
+          "option_b": "Permitiendo que los empleados participen en la identificación de riesgos y en el diseño de medidas preventivas",
+          "option_c": "No es necesario involucrarlos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Involucrar a los trabajadores aumenta el compromiso y la eficacia de las medidas de seguridad."
+        },
+        {
+          "id": 20,
+          "question": "¿Cuál es la diferencia entre una 'acción correctiva' y una 'acción preventiva' en el SG-SST?",
+          "option_a": "La acción correctiva se toma después de un incidente, mientras que la preventiva se toma antes de que ocurra un incidente",
+          "option_b": "No hay diferencia",
+          "option_c": "La acción correctiva aumenta los riesgos laborales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Las acciones preventivas evitan incidentes futuros, mientras que las correctivas responden a los ya ocurridos."
+        },
+        {
+          "id": 21,
+          "question": "¿Qué se entiende por 'mejora continua' en el contexto de un SG-SST?",
+          "option_a": "Solo corregir los problemas cuando ocurren",
+          "option_b": "Realizar ajustes y mejoras constantes en los procesos para mejorar la seguridad y salud laboral",
+          "option_c": "Aumentar la jornada laboral para obtener mejores resultados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La mejora continua busca perfeccionar los procesos de seguridad de manera constante."
+        },
+        {
+          "id": 22,
+          "question": "¿Qué papel juegan las auditorías externas en un SG-SST?",
+          "option_a": "Son utilizadas solo para aumentar los costos operativos",
+          "option_b": "Verifican que el sistema de gestión de seguridad y salud se esté implementando correctamente y cumpla con las normativas externas",
+          "option_c": "Se usan para medir la productividad de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las auditorías externas garantizan la conformidad del SG-SST con las normas aplicables."
+        },
+        {
+          "id": 23,
+          "question": "¿Qué acción debe tomar una empresa si sus auditorías internas indican que el SG-SST no está funcionando correctamente?",
+          "option_a": "Ignorar los resultados y continuar con el mismo enfoque",
+          "option_b": "Identificar las fallas, tomar acciones correctivas y mejorar los procedimientos",
+          "option_c": "Aumentar el número de empleados sin cambiar el sistema",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Ante fallas detectadas, deben implementarse acciones correctivas y mejoras al sistema."
+        },
+        {
+          "id": 24,
+          "question": "¿Qué son los indicadores de desempeño en un SG-SST?",
+          "option_a": "Herramientas para medir la cantidad de productos fabricados",
+          "option_b": "Herramientas utilizadas para evaluar el rendimiento del sistema de gestión de seguridad y salud",
+          "option_c": "Métodos para evaluar el rendimiento de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los indicadores de desempeño permiten medir la eficacia del SG-SST."
+        },
+        {
+          "id": 25,
+          "question": "¿Qué se debe hacer para que el SG-SST sea eficaz en una empresa?",
+          "option_a": "Implementar medidas de seguridad solo cuando ocurren accidentes",
+          "option_b": "Garantizar la participación de los trabajadores, capacitar al personal y revisar regularmente el sistema para asegurar su efectividad",
+          "option_c": "Ignorar los riesgos si no ocurren accidentes frecuentes",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Un SG-SST eficaz requiere participación, capacitación y revisión continua."
+        },
+        {
+          "id": 26,
+          "question": "¿Qué tipo de capacitaciones deben recibir los empleados en un SG-SST?",
+          "option_a": "Solo sobre los procesos de producción",
+          "option_b": "Sobre la identificación de riesgos, uso de EPP, procedimientos de emergencia y manejo de situaciones peligrosas",
+          "option_c": "Solo sobre las regulaciones laborales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las capacitaciones deben enfocarse en la prevención y manejo de riesgos laborales."
+        },
+        {
+          "id": 27,
+          "question": "¿Qué debe incluir un plan de contingencia dentro de un SG-SST?",
+          "option_a": "La definición de los recursos financieros de la empresa",
+          "option_b": "Los procedimientos a seguir en caso de accidentes o emergencias laborales, como evacuación o atención médica",
+          "option_c": "Un programa de vacaciones para los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El plan de contingencia define los pasos ante emergencias para minimizar daños."
+        },
+        {
+          "id": 28,
+          "question": "¿Qué debe hacer una empresa si se presentan repetidos incidentes de seguridad a pesar de las medidas preventivas?",
+          "option_a": "Ignorar los incidentes y continuar con el mismo enfoque",
+          "option_b": "Realizar una evaluación exhaustiva del SG-SST y aplicar nuevas medidas de seguridad más efectivas",
+          "option_c": "Disminuir las medidas preventivas para reducir costos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Si persisten los incidentes, se deben revisar causas y fortalecer las medidas preventivas."
+        },
+        {
+          "id": 29,
+          "question": "¿Qué es un 'incidente' en el contexto de la seguridad y salud en el trabajo?",
+          "option_a": "Un accidente laboral que resulta en lesiones graves",
+          "option_b": "Un evento no deseado que no causa daño pero tiene el potencial de hacerlo",
+          "option_c": "Un evento que aumenta la productividad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Un incidente es un evento sin consecuencias graves, pero con potencial de causar daño."
+        },
+        {
+          "id": 30,
+          "question": "¿Cuál es la responsabilidad de los trabajadores en un SG-SST?",
+          "option_a": "Solo seguir las órdenes sin cuestionar las medidas de seguridad",
+          "option_b": "Seguir las políticas de seguridad, usar el equipo de protección adecuado y reportar los riesgos",
+          "option_c": "Ignorar los procedimientos de seguridad si no están directamente relacionados con su trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los trabajadores deben cumplir con las políticas, usar EPP y reportar condiciones inseguras."
         }
-        // ... Continuar con las 30 preguntas
+        
       ]
     },
     {
@@ -1991,7 +4022,7 @@
       "description": "Administración de recursos en seguridad y salud",
       "quizzes": [
         {
-          "id": 391,
+          "id": 1,
           "question": "¿Qué es la administración de recursos de SST?",
           "option_a": "El proceso de aumentar la productividad laboral", 
           "option_b": "La gestión de los recursos necesarios para garantizar la seguridad y salud de los trabajadores",
@@ -1999,8 +4030,298 @@
           "option_d": "Ninguna de las anteriores",
           "correct_answer": "b",
           "explanation": "Es la gestión de recursos para garantizar la seguridad y salud de trabajadores."
+        },
+        {
+          "id": 2,
+          "question": "¿Cuál es el objetivo principal de la administración de recursos en SST?",
+          "option_a": "Aumentar las ganancias de la empresa",
+          "option_b": "Garantizar que se cuente con los recursos necesarios para implementar un SG-SST efectivo",
+          "option_c": "Mejorar la estética del lugar de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El objetivo principal es asegurar que existan los recursos adecuados para aplicar un sistema de gestión en seguridad y salud en el trabajo."
+        },
+        {
+          "id": 3,
+          "question": "¿Qué tipo de recursos son necesarios para un SG-SST efectivo?",
+          "option_a": "Recursos humanos, materiales y financieros",
+          "option_b": "Solo recursos humanos",
+          "option_c": "Solo recursos materiales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Un SG-SST requiere recursos humanos, materiales y financieros para funcionar correctamente."
+        },
+        {
+          "id": 4,
+          "question": "¿Qué tipo de recursos humanos son esenciales para la administración de SST?",
+          "option_a": "Supervisores capacitados en seguridad",
+          "option_b": "Trabajadores entrenados en seguridad",
+          "option_c": "Personal especializado como los responsables de SST",
+          "option_d": "Todos los anteriores",
+          "correct_answer": "d",
+          "explanation": "Todos los anteriores son esenciales para mantener un entorno seguro y cumplir con las normas del SG-SST."
+        },
+        {
+          "id": 5,
+          "question": "¿Por qué es importante asignar un presupuesto adecuado a la SST?",
+          "option_a": "Para asegurarse de que los empleados reciban bonificaciones",
+          "option_b": "Para garantizar la disponibilidad de recursos para la implementación de medidas de seguridad y prevención",
+          "option_c": "Para mejorar la estética del lugar de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Un presupuesto adecuado asegura que existan recursos para prevenir riesgos y garantizar la seguridad laboral."
+        },
+        {
+          "id": 6,
+          "question": "¿Cómo se pueden administrar los recursos materiales para SST en una empresa?",
+          "option_a": "Ignorando los equipos de protección personal (EPP)",
+          "option_b": "Garantizando que el equipo de protección personal esté disponible, en buen estado y se utilice adecuadamente",
+          "option_c": "No comprando equipo de protección",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La administración adecuada implica mantener los EPP disponibles, en buen estado y promover su uso correcto."
+        },
+        {
+          "id": 7,
+          "question": "¿Qué papel juega la capacitación en la administración de recursos de SST?",
+          "option_a": "No tiene ningún impacto",
+          "option_b": "Asegura que los trabajadores conozcan los riesgos y las medidas preventivas, optimizando el uso de los recursos",
+          "option_c": "Solo mejora el ambiente laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La capacitación garantiza que los trabajadores utilicen correctamente los recursos y prevengan accidentes."
+        },
+        {
+          "id": 8,
+          "question": "¿Qué es un 'responsable de SST' en una empresa?",
+          "option_a": "El encargado de aumentar la jornada laboral",
+          "option_b": "La persona encargada de supervisar el cumplimiento del SG-SST y gestionar los recursos necesarios para su implementación",
+          "option_c": "El encargado de los recursos humanos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El responsable de SST supervisa la aplicación del sistema y gestiona los recursos de seguridad y salud."
+        },
+        {
+          "id": 9,
+          "question": "¿Por qué es importante hacer un inventario de los recursos de SST en una empresa?",
+          "option_a": "Para saber cuántos empleados hay en la empresa",
+          "option_b": "Para asegurar que los recursos, como el equipo de protección personal, estén disponibles y en buen estado",
+          "option_c": "Para aumentar el tiempo de trabajo de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El inventario permite garantizar la disponibilidad y estado adecuado de los recursos de seguridad."
+        },
+        {
+          "id": 10,
+          "question": "¿Qué recursos financieros son necesarios para un SG-SST efectivo?",
+          "option_a": "No es necesario ningún presupuesto",
+          "option_b": "Un presupuesto adecuado para la compra de equipos de seguridad, capacitación y prevención de riesgos",
+          "option_c": "Solo recursos para aumentar la jornada laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Un presupuesto suficiente es clave para adquirir equipos, capacitar y prevenir riesgos laborales."
+        },
+        {
+          "id": 11,
+          "question": "¿Qué debe hacer un empleador si no tiene los recursos suficientes para implementar un SG-SST?",
+          "option_a": "Ignorar la ley y continuar sin medidas de seguridad",
+          "option_b": "Buscar alternativas de financiamiento o reasignar recursos para asegurar que se cumpla con las normativas de SST",
+          "option_c": "Aumentar las horas laborales para compensar la falta de recursos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El empleador debe buscar recursos o ajustar el presupuesto para cumplir con las normas de seguridad."
+        },
+        {
+          "id": 12,
+          "question": "¿Cuál es la función del Comité Paritario de Seguridad y Salud en el Trabajo (COPASST) en la administración de recursos de SST?",
+          "option_a": "Aumentar la producción",
+          "option_b": "Participar activamente en la identificación de riesgos y en la asignación de recursos para su mitigación",
+          "option_c": "Establecer normas para aumentar las horas laborales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El COPASST colabora en la identificación de riesgos y la asignación de recursos para prevenirlos."
+        },
+        {
+          "id": 13,
+          "question": "¿Qué herramienta se puede utilizar para planificar y administrar los recursos de SST en una empresa?",
+          "option_a": "Un plan de acción de seguridad que incluya objetivos, recursos y plazos específicos",
+          "option_b": "Un informe de productividad",
+          "option_c": "Un registro de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El plan de acción organiza recursos, objetivos y tiempos para fortalecer la gestión de SST."
+        },
+        {
+          "id": 14,
+          "question": "¿Por qué es importante la participación activa de los empleados en la administración de recursos de SST?",
+          "option_a": "Para reducir las horas de trabajo",
+          "option_b": "Para garantizar que los recursos se utilicen adecuadamente y fomentar una cultura de seguridad en toda la empresa",
+          "option_c": "Para que los empleados trabajen más rápido",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La participación activa de los empleados fomenta el uso responsable y la cultura de prevención."
+        },
+        {
+          "id": 15,
+          "question": "¿Qué tipo de recurso es fundamental para prevenir riesgos laborales en una fábrica?",
+          "option_a": "La información sobre los productos fabricados",
+          "option_b": "Los equipos de protección personal (EPP), la capacitación continua y las medidas de seguridad adecuadas",
+          "option_c": "Los informes de productividad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La prevención depende de los EPP, la capacitación y las medidas de seguridad adecuadas."
+        },
+        {
+          "id": 16,
+          "question": "¿Qué acción se debe tomar cuando se identifican fallos en el uso de los recursos de SST?",
+          "option_a": "Ignorar los fallos",
+          "option_b": "Realizar ajustes en los procedimientos, comprar nuevos recursos y proporcionar capacitación adicional",
+          "option_c": "Aumentar la jornada laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Se deben corregir los fallos, mejorar los procedimientos y reforzar la capacitación."
+        },
+        {
+          "id": 17,
+          "question": "¿Qué medida debe tomar la empresa si los trabajadores no usan el equipo de protección personal adecuado?",
+          "option_a": "Ignorar la situación",
+          "option_b": "Tomar medidas correctivas, como sanciones o proporcionar más capacitación sobre el uso del equipo",
+          "option_c": "Aumentar la jornada laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La empresa debe corregir la situación y garantizar el cumplimiento del uso de EPP."
+        },
+        {
+          "id": 18,
+          "question": "¿Qué papel juega la auditoría en la administración de recursos de SST?",
+          "option_a": "No tiene impacto",
+          "option_b": "Verifica si los recursos de SST se están utilizando correctamente y si el sistema de gestión está funcionando eficientemente",
+          "option_c": "Solo evalúa la eficiencia de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las auditorías permiten evaluar la eficacia del uso de recursos y detectar áreas de mejora."
+        },
+        {
+          "id": 19,
+          "question": "¿Qué es un 'informe de accidentes laborales' y cómo contribuye a la administración de recursos de SST?",
+          "option_a": "Un reporte sobre la calidad del trabajo realizado",
+          "option_b": "Un informe detallado sobre los accidentes ocurridos, que ayuda a identificar fallos en el SG-SST y a mejorar los recursos preventivos",
+          "option_c": "Un informe de satisfacción del cliente",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los informes de accidentes ayudan a analizar las causas y mejorar la prevención futura."
+        },
+        {
+          "id": 20,
+          "question": "¿Cómo puede la administración de recursos de SST ayudar a reducir los costos en la empresa?",
+          "option_a": "Aumentando las horas de trabajo de los empleados",
+          "option_b": "Implementando medidas preventivas que reduzcan los accidentes laborales y enfermedades, lo que reduce el ausentismo y los costos médicos",
+          "option_c": "Eliminando las medidas de seguridad para reducir costos",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La prevención reduce accidentes, ausentismo y costos relacionados con la salud."
+        },
+        {
+          "id": 21,
+          "question": "¿Qué herramienta se utiliza comúnmente para realizar una evaluación de recursos de SST?",
+          "option_a": "Auditorías internas",
+          "option_b": "Encuestas de satisfacción",
+          "option_c": "Revisiones de producción",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Las auditorías internas permiten evaluar el uso y eficiencia de los recursos del SG-SST."
+        },
+        {
+          "id": 22,
+          "question": "¿Cómo se puede mejorar la eficiencia de los recursos de SST en una empresa?",
+          "option_a": "Aumentando las horas laborales",
+          "option_b": "Asignando correctamente los recursos, proporcionando formación continua y realizando auditorías periódicas",
+          "option_c": "Disminuyendo la calidad de los materiales de seguridad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La buena asignación de recursos y la formación continua mejoran la eficiencia en SST."
+        },
+        {
+          "id": 23,
+          "question": "¿Cuál es el principal desafío al administrar los recursos de SST en una empresa?",
+          "option_a": "Asegurarse de que todos los empleados estén capacitados y cumplan con las normativas de seguridad",
+          "option_b": "Reducir el tiempo de descanso de los empleados",
+          "option_c": "Aumentar la jornada laboral de los trabajadores",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El mayor reto es mantener la capacitación y el cumplimiento de las normas por parte de todos."
+        },
+        {
+          "id": 24,
+          "question": "¿Qué debe hacer la empresa si se identifican fallos en los procedimientos de seguridad a pesar de la capacitación?",
+          "option_a": "Ignorar los fallos",
+          "option_b": "Implementar nuevas medidas de seguridad, realizar ajustes en los procedimientos y reforzar la capacitación",
+          "option_c": "Aumentar las horas laborales de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Se deben realizar mejoras inmediatas en los procedimientos y fortalecer la formación."
+        },
+        {
+          "id": 25,
+          "question": "¿Cómo contribuye el seguimiento de los accidentes laborales a la administración de recursos de SST?",
+          "option_a": "Ayuda a identificar áreas de mejora en el sistema y a asignar los recursos necesarios para evitar futuros accidentes",
+          "option_b": "Aumenta los costos operativos",
+          "option_c": "Permite aumentar la jornada laboral de los trabajadores",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El seguimiento permite detectar fallos y mejorar la asignación de recursos preventivos."
+        },
+        {
+          "id": 26,
+          "question": "¿Cuál es el beneficio de realizar una evaluación periódica de los recursos de SST?",
+          "option_a": "Solo medir la eficiencia de los empleados",
+          "option_b": "Identificar y corregir fallos en el sistema de seguridad, mejorando la protección de los trabajadores",
+          "option_c": "Aumentar la carga de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las evaluaciones periódicas permiten mejorar continuamente la protección de los trabajadores."
+        },
+        {
+          "id": 27,
+          "question": "¿Qué tipo de recursos deben ser asignados en un programa de salud ocupacional dentro del SG-SST?",
+          "option_a": "Recursos humanos, materiales y financieros necesarios para implementar las medidas de prevención y protección",
+          "option_b": "Solo recursos humanos",
+          "option_c": "Solo recursos financieros",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Los tres tipos de recursos son necesarios para un programa de salud ocupacional efectivo."
+        },
+        {
+          "id": 28,
+          "question": "¿Qué función tienen los recursos humanos en un SG-SST?",
+          "option_a": "Asegurar que los empleados reciban una remuneración adecuada",
+          "option_b": "Garantizar que los trabajadores sean capacitados y estén informados sobre los riesgos laborales y las medidas preventivas",
+          "option_c": "Aumentar la jornada laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los recursos humanos son clave para la capacitación y la difusión de la cultura preventiva."
+        },
+        {
+          "id": 29,
+          "question": "¿Cómo pueden las empresas garantizar la disponibilidad de recursos para la implementación del SG-SST?",
+          "option_a": "Asegurando que el presupuesto se destine exclusivamente a la compra de materiales",
+          "option_b": "Planificando, presupuestando y priorizando las inversiones en seguridad y salud laboral",
+          "option_c": "Descartando la compra de equipos de protección personal",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La planificación y priorización del presupuesto garantiza la sostenibilidad del SG-SST."
+        },
+        {
+          "id": 30,
+          "question": "¿Qué acción debe tomar un empleador si un trabajador no cumple con las medidas de seguridad establecidas?",
+          "option_a": "Ignorar la situación",
+          "option_b": "Informar al trabajador sobre las consecuencias, tomar medidas correctivas y proporcionar capacitación adicional si es necesario",
+          "option_c": "Aumentar la carga de trabajo del empleado",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El empleador debe aplicar medidas correctivas y reforzar la formación en seguridad."
         }
-        // ... Continuar con las 30 preguntas
+        
       ]
     },
     {
@@ -2010,7 +4331,7 @@
       "description": "Conceptos avanzados de seguridad industrial",
       "quizzes": [
         {
-          "id": 421,
+          "id": 1,
           "question": "¿Qué es la seguridad industrial en el contexto de la gestión de riesgos?",
           "option_a": "El proceso de aumentar la productividad laboral",
           "option_b": "El conjunto de medidas para prevenir y controlar los riesgos que puedan afectar la seguridad de los trabajadores", 
@@ -2018,8 +4339,247 @@
           "option_d": "Ninguna de las anteriores",
           "correct_answer": "b",
           "explanation": "Son medidas para prevenir y controlar riesgos que afecten la seguridad de trabajadores."
+        },
+        {
+          "id": 2,
+          "question": "¿Cuál es el principal objetivo de la seguridad industrial?",
+          "option_a": "Aumentar la producción de la empresa",
+          "option_b": "Reducir los costos de operación",
+          "option_c": "Prevenir accidentes y proteger la salud de los trabajadores",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "El objetivo principal de la seguridad industrial es prevenir accidentes y proteger la salud de los trabajadores."
+        },
+        {
+          "id": 3,
+          "question": "¿Qué tipo de equipo se utiliza para proteger a los trabajadores de los riesgos físicos?",
+          "option_a": "Guantes, cascos, gafas de seguridad y botas",
+          "option_b": "Solo guantes de seguridad",
+          "option_c": "Solo gafas de seguridad",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "El equipo de protección personal incluye guantes, cascos, gafas y botas para proteger de riesgos físicos."
+        },
+        {
+          "id": 4,
+          "question": "¿Qué es un riesgo físico en un entorno industrial?",
+          "option_a": "Un riesgo relacionado con la exposición a productos químicos",
+          "option_b": "Un riesgo relacionado con la exposición a agentes físicos como ruido, calor, vibraciones o radiación",
+          "option_c": "Un riesgo relacionado con el uso de herramientas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los riesgos físicos incluyen la exposición a ruido, calor, vibraciones o radiación."
+        },
+        {
+          "id": 5,
+          "question": "¿Cuál de los siguientes es un ejemplo de riesgo químico en la seguridad industrial?",
+          "option_a": "Exposición a radiación",
+          "option_b": "Exposición a ácidos o gases tóxicos",
+          "option_c": "Exposición a ruido",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los riesgos químicos implican exposición a sustancias como ácidos o gases tóxicos."
+        },
+        {
+          "id": 6,
+          "question": "¿Qué debe hacer un empleador si un trabajador está expuesto a un riesgo químico en el trabajo?",
+          "option_a": "No hacer nada hasta que se presenten problemas",
+          "option_b": "Proporcionar equipos de protección personal y capacitar al trabajador en su uso adecuado",
+          "option_c": "Ignorar los riesgos si no hay accidentes frecuentes",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El empleador debe brindar protección y capacitación adecuada al trabajador."
+        },
+        {
+          "id": 7,
+          "question": "¿Qué es un accidente laboral?",
+          "option_a": "Un incidente que ocurre fuera de la jornada laboral",
+          "option_b": "Un evento que ocurre durante la jornada laboral y causa daño a los trabajadores o a la propiedad",
+          "option_c": "Un evento que solo afecta a los materiales",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Un accidente laboral es un evento ocurrido durante el trabajo que causa daño a personas o bienes."
+        },
+        {
+          "id": 8,
+          "question": "¿Qué tipo de lesiones pueden ser causadas por una exposición prolongada al ruido en un entorno industrial?",
+          "option_a": "Lesiones musculoesqueléticas",
+          "option_b": "Pérdida auditiva o daño al oído interno",
+          "option_c": "Lesiones por quemaduras",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La exposición prolongada al ruido puede causar pérdida auditiva o daño auditivo permanente."
+        },
+        {
+          "id": 9,
+          "question": "¿Qué significa riesgo ergonómico en la seguridad industrial?",
+          "option_a": "Riesgo asociado con la exposición a temperaturas extremas",
+          "option_b": "Riesgo asociado con el uso de maquinaria pesada",
+          "option_c": "Riesgo relacionado con movimientos repetitivos o posturas inadecuadas",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "El riesgo ergonómico surge de posturas inadecuadas o movimientos repetitivos."
+        },
+        {
+          "id": 10,
+          "question": "¿Qué es la ergonomía industrial?",
+          "option_a": "El estudio de los procesos de fabricación",
+          "option_b": "La ciencia que estudia la interacción entre los trabajadores y su entorno de trabajo para evitar lesiones",
+          "option_c": "El uso de maquinaria pesada",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La ergonomía busca adaptar el trabajo a la persona para prevenir lesiones y mejorar el bienestar."
+        },
+        {
+          "id": 11,
+          "question": "¿Qué puede causar un trabajo con una mala postura durante largos períodos de tiempo?",
+          "option_a": "Aumento de la productividad",
+          "option_b": "Lesiones musculoesqueléticas y dolor crónico",
+          "option_c": "Mejorar la eficiencia en el trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Las malas posturas sostenidas pueden generar lesiones musculoesqueléticas crónicas."
+        },
+        {
+          "id": 12,
+          "question": "¿Qué es la seguridad en el trabajo en un entorno industrial?",
+          "option_a": "Asegurar que los trabajadores trabajen más horas",
+          "option_b": "Proteger a los trabajadores de los riesgos laborales mediante la implementación de medidas de seguridad y salud",
+          "option_c": "Solo aumentar la producción",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La seguridad en el trabajo implica aplicar medidas para proteger la salud de los trabajadores."
+        },
+        {
+          "id": 13,
+          "question": "¿Qué es un riesgo biomecánico?",
+          "option_a": "Un riesgo relacionado con la exposición a sustancias químicas",
+          "option_b": "Un riesgo asociado con la manipulación de cargas pesadas y la postura inadecuada",
+          "option_c": "Un riesgo relacionado con la exposición a calor",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Los riesgos biomecánicos surgen por el esfuerzo físico o manipulación inadecuada de cargas."
+        },
+        {
+          "id": 14,
+          "question": "¿Qué debe hacer un trabajador si se presenta una fuga de gas o sustancia peligrosa?",
+          "option_a": "Ignorar la fuga",
+          "option_b": "Informar al supervisor, evacuar el área y seguir el protocolo de seguridad",
+          "option_c": "Continuar trabajando sin ningún cambio",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Ante fugas o sustancias peligrosas se debe informar, evacuar y seguir los protocolos."
+        },
+        {
+          "id": 15,
+          "question": "¿Cuál es la función principal del equipo de protección personal (EPP)?",
+          "option_a": "Mejorar el rendimiento de los trabajadores",
+          "option_b": "Proteger a los trabajadores de los riesgos identificados en el lugar de trabajo",
+          "option_c": "Aumentar la jornada laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "El EPP protege al trabajador de los riesgos laborales específicos de su entorno."
+        },
+        {
+          "id": 16,
+          "question": "¿Qué medidas preventivas se deben tomar cuando se trabaja con maquinaria pesada?",
+          "option_a": "Usar guantes y botas de seguridad",
+          "option_b": "Mantener la maquinaria en buen estado y asegurar que los trabajadores estén capacitados en su uso",
+          "option_c": "Aumentar la jornada laboral",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La maquinaria debe mantenerse en buen estado y operarse solo por personal capacitado."
+        },
+        {
+          "id": 17,
+          "question": "¿Qué tipo de riesgo está asociado con la exposición a radiación en el trabajo?",
+          "option_a": "Riesgo ergonómico",
+          "option_b": "Riesgo químico",
+          "option_c": "Riesgo físico",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "La radiación es un riesgo físico debido a su naturaleza energética."
+        },
+        {
+          "id": 18,
+          "question": "¿Qué debe hacer una empresa si detecta exposición peligrosa al ruido?",
+          "option_a": "Ignorar el problema",
+          "option_b": "Proveer protección auditiva y modificar la estructura para reducir el ruido",
+          "option_c": "No tomar ninguna acción",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Debe brindar protección auditiva y reducir el nivel de ruido en el entorno laboral."
+        },
+        {
+          "id": 19,
+          "question": "¿Qué factores contribuyen a los riesgos ergonómicos en el lugar de trabajo?",
+          "option_a": "El uso inadecuado de herramientas y la postura inadecuada",
+          "option_b": "La exposición a productos químicos",
+          "option_c": "El aumento de la carga de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Las posturas forzadas y el uso inadecuado de herramientas generan riesgos ergonómicos."
+        },
+        {
+          "id": 20,
+          "question": "¿Qué se debe hacer si un trabajador presenta síntomas de agotamiento o estrés?",
+          "option_a": "Aumentar la carga laboral",
+          "option_b": "Ignorar los síntomas y continuar trabajando",
+          "option_c": "Ofrecer descansos, apoyo emocional y ajustar la carga de trabajo",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "c",
+          "explanation": "El agotamiento requiere pausas, apoyo psicológico y redistribución del trabajo."
+        },
+        {
+          "id": 21,
+          "question": "¿Qué es la gestión de la seguridad industrial?",
+          "option_a": "El aumento de la jornada laboral",
+          "option_b": "El proceso de identificar, evaluar y controlar los riesgos laborales en el entorno industrial",
+          "option_c": "La mejora de los productos manufacturados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La gestión de la seguridad industrial busca identificar y controlar los riesgos laborales."
+        },
+        {
+          "id": 22,
+          "question": "¿Qué debe incluir un programa de seguridad industrial?",
+          "option_a": "Solo medidas para mejorar la productividad",
+          "option_b": "Medidas para identificar y controlar los riesgos, procedimientos de emergencia y equipo de protección",
+          "option_c": "Una lista de los trabajadores",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "Un buen programa incluye control de riesgos, protocolos de emergencia y EPP."
+        },
+        {
+          "id": 23,
+          "question": "¿Qué es una evaluación de riesgos en un entorno industrial?",
+          "option_a": "La medición de la eficiencia de los trabajadores",
+          "option_b": "La identificación de peligros y la evaluación de la probabilidad y consecuencias de los accidentes",
+          "option_c": "La programación de las vacaciones de los empleados",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "b",
+          "explanation": "La evaluación de riesgos identifica peligros y evalúa probabilidad e impacto."
+        },
+        {
+          "id": 24,
+          "question": "¿Qué factores deben considerarse en un plan de seguridad industrial?",
+          "option_a": "La naturaleza de los riesgos, las condiciones laborales y las políticas de seguridad",
+          "option_b": "La cantidad de empleados en la empresa",
+          "option_c": "Los objetivos financieros de la empresa",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "Un plan de seguridad debe considerar riesgos, condiciones y políticas aplicables."
+        },
+        {
+          "id": 25,
+          "question": "¿Qué es la seguridad en el trabajo en alturas?",
+          "option_a": "La implementación de medidas para proteger a los trabajadores que realizan labores a gran altura, como el uso de arneses y redes de seguridad",
+          "option_b": "La reducción de la jornada laboral",
+          "option_c": "La capacitación sobre el uso de maquinaria pesada",
+          "option_d": "Ninguna de las anteriores",
+          "correct_answer": "a",
+          "explanation": "La seguridad en alturas se basa en medidas preventivas como arneses y redes de protección."
         }
-        // ... Continuar con las 30 preguntas
       ]
     }
   ]
