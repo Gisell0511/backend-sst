@@ -31,19 +31,50 @@ class QuizController {
   }
 
   // Obtener quizzes por categoría
-  async getQuizzesByCategory(req, res) {
-    try {
-      const { categoryId } = req.params;
+ // En getQuizzesByCategory - VERIFICAR
+async getQuizzesByCategory(req, res) {
+  try {
+    const { categoryId } = req.params;
 
-      const quizzes = await Quiz.query()
-        .where('category_id', categoryId)
-        .select('id', 'question', 'option_a', 'option_b', 'option_c', 'option_d', 'difficulty');
+    console.log('🔍 BACKEND - Buscando quizzes para categoría:', categoryId);
+    
+    const quizzes = await Quiz.query()
+      .where('category_id', categoryId)
+      .select('id', 'question', 'option_a', 'option_b', 'option_c', 'option_d', 'difficulty', 'correct_answer');
 
-      res.json(quizzes);
-    } catch (error) {
-      res.status(500).json({ error: error.message });
+    console.log('🔍 BACKEND - Quizzes encontrados:', quizzes.length);
+    if (quizzes.length > 0) {
+      console.log('🔍 BACKEND - Primera pregunta:', quizzes[0]);
     }
+
+    // Transformar a formato que espera el frontend
+    const formattedQuizzes = quizzes.map(quiz => {
+      const options = [];
+      
+      // Mapear cada opción con su letra correspondiente
+      if (quiz.option_a) options.push({ letter: 'a', text: quiz.option_a });
+      if (quiz.option_b) options.push({ letter: 'b', text: quiz.option_b });
+      if (quiz.option_c) options.push({ letter: 'c', text: quiz.option_c });
+      if (quiz.option_d) options.push({ letter: 'd', text: quiz.option_d });
+
+      return {
+        id: quiz.id,
+        question: quiz.question,
+        options: options, // ← ESTE ES EL CAMPO IMPORTANTE
+        difficulty: quiz.difficulty,
+        correct_answer: quiz.correct_answer
+      };
+    });
+
+    console.log('✅ BACKEND - Quizzes formateados:', formattedQuizzes.length);
+    console.log('🔍 BACKEND - Primera pregunta formateada:', formattedQuizzes[0]);
+    
+    res.json(formattedQuizzes);
+  } catch (error) {
+    console.error('❌ BACKEND - Error:', error);
+    res.status(500).json({ error: error.message });
   }
+}
 
   // Verificar respuesta del usuario
   async checkAnswer(req, res) {
@@ -161,6 +192,91 @@ class QuizController {
       res.json(quiz);
     } catch (error) {
       res.status(500).json({ error: error.message });
+    }
+  }
+
+  
+  // NUEVA FUNCIÓN: Enviar quiz completo
+  async submitQuiz(req, res) {
+    try {
+      const { quizId, answers } = req.body;
+      const userId = req.user.id;
+
+      console.log(`📝 Usuario ${userId} enviando quiz completo:`, { 
+        quizId, 
+        totalAnswers: answers.length 
+      });
+
+      // Validar que el quiz existe
+      const quiz = await Quiz.query().findById(quizId);
+      if (!quiz) {
+        return res.status(404).json({ error: 'Quiz no encontrado' });
+      }
+
+      let correctAnswersCount = 0;
+      const results = [];
+
+      // Procesar cada respuesta
+      for (const answer of answers) {
+        const { questionId, userAnswer } = answer;
+        
+        // Obtener la pregunta
+        const question = await Quiz.query().findById(questionId);
+        if (!question) {
+          results.push({
+            questionId,
+            isCorrect: false,
+            error: 'Pregunta no encontrada'
+          });
+          continue;
+        }
+
+        // Verificar si la respuesta es correcta
+        const isCorrect = userAnswer === question.correct_answer;
+
+        if (isCorrect) {
+          correctAnswersCount++;
+        }
+
+        // Guardar el progreso individual
+        await UserQuizProgress.query().insert({
+          user_id: userId,
+          quiz_id: questionId,
+          user_answer: userAnswer,
+          is_correct: isCorrect
+        });
+
+        results.push({
+          questionId,
+          isCorrect,
+          correctAnswer: question.correct_answer,
+          explanation: question.explanation
+        });
+      }
+
+      // Calcular puntaje
+      const score = Math.round((correctAnswersCount / answers.length) * 100);
+      
+      const result = {
+        quizId: quizId,
+        userId: userId,
+        score: score,
+        totalQuestions: answers.length,
+        correctAnswers: correctAnswersCount,
+        incorrectAnswers: answers.length - correctAnswersCount,
+        results: results,
+        submittedAt: new Date().toISOString()
+      };
+
+      console.log('✅ Quiz enviado correctamente. Score:', score + '%');
+      res.json(result);
+
+    } catch (error) {
+      console.error('❌ Error en submitQuiz:', error);
+      res.status(500).json({ 
+        error: 'Error al procesar el quiz completo',
+        message: error.message 
+      });
     }
   }
 }

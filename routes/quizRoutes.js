@@ -12,6 +12,7 @@ router.get('/category/:categoryId/quizzes', quizController.getQuizzesByCategory)
 router.use(auth);
 
 router.post('/check-answer', quizController.checkAnswer);
+router.post('/submit', quizController.submitQuiz); // ⬅️ ¡AGREGAR ESTA LÍNEA!
 router.get('/progress/:categoryId', quizController.getUserProgress);
 router.get('/user-stats', quizController.getUserStats);
 router.get('/quiz/:quizId/explanation', quizController.getQuizWithExplanation);
