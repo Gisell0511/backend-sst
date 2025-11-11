@@ -30,6 +30,57 @@ class QuizController {
     }
   }
 
+
+   async getQuizzes(req, res) {
+    try {
+      const { category } = req.query;
+
+      console.log('🔍 BACKEND - Buscando quizzes para categoría (query):', category);
+      
+      if (!category) {
+        console.log('❌ ERROR: No se recibió parámetro category');
+        return res.status(400).json({ error: 'Se requiere parámetro category' });
+      }
+
+      const quizzes = await Quiz.query()
+        .where('category_id', category)
+        .select('id', 'question', 'option_a', 'option_b', 'option_c', 'option_d', 'difficulty', 'correct_answer');
+
+      console.log('🔍 BACKEND - Quizzes encontrados:', quizzes.length);
+      if (quizzes.length > 0) {
+        console.log('🔍 BACKEND - Primera pregunta:', quizzes[0]);
+      }
+
+      // Transformar a formato que espera el frontend (misma lógica que getQuizzesByCategory)
+      const formattedQuizzes = quizzes.map(quiz => {
+        const options = [];
+        
+        if (quiz.option_a) options.push({ letter: 'a', text: quiz.option_a });
+        if (quiz.option_b) options.push({ letter: 'b', text: quiz.option_b });
+        if (quiz.option_c) options.push({ letter: 'c', text: quiz.option_c });
+        if (quiz.option_d) options.push({ letter: 'd', text: quiz.option_d });
+
+        return {
+          id: quiz.id,
+          question: quiz.question,
+          options: options,
+          difficulty: quiz.difficulty,
+          correct_answer: quiz.correct_answer
+        };
+      });
+
+      console.log('✅ BACKEND - Quizzes formateados:', formattedQuizzes.length);
+      if (formattedQuizzes.length > 0) {
+        console.log('🔍 BACKEND - Primera pregunta formateada:', formattedQuizzes[0]);
+      }
+      
+      res.json(formattedQuizzes);
+    } catch (error) {
+      console.error('❌ BACKEND - Error en getQuizzes:', error);
+      res.status(500).json({ error: error.message });
+    }
+  }
+  
   // Obtener quizzes por categoría
  // En getQuizzesByCategory - VERIFICAR
 async getQuizzesByCategory(req, res) {
